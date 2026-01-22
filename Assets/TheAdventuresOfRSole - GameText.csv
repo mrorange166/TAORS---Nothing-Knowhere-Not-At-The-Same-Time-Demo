@@ -1,0 +1,144 @@
+ID,SpeechOrder,Description,Original text
+360,Cop: Talk to_169628_0000,From: Cop: Talk to,"Hey, this is an active crime scene. Move it along!"
+361,Landlords Apartment : Use2_169688_0000,From: Landlords Apartment : Use2,Who is it??
+362,Landlords Apartment : Use2_169688_0025,From: Landlords Apartment : Use2,It’s R.Sole.
+363,Landlords Apartment : Use2_169688_0026,From: Landlords Apartment : Use2,Oh great.
+364,Landlords Apartment : Use2_169688_0027,From: Landlords Apartment : Use2,Not only are you breaking my stuff you’re now disturbing me at home!
+365,Landlords Apartment : Use2_169688_0028,From: Landlords Apartment : Use2,Unless you’re here to pay your rent you can get lost!
+366,Landlords Apartment : Use2_169688_0029,From: Landlords Apartment : Use2,Jerkoff.
+367,Landlords Apartment : Use2_169688_0030,From: Landlords Apartment : Use2,What a wonderful human being. I’m sure the Nobel people will be in touch any day soon…
+368,Landlords Apartment : Use2_169688_0020,From: Landlords Apartment : Use2,Your conscience.
+369,Landlords Apartment : Use2_169688_0013,From: Landlords Apartment : Use2,"Oh yeah, the code is [var:47][var:48][var:49][var:50] "
+370,Landlords Apartment : Use2_169688_0021,From: Landlords Apartment : Use2,What? My conscience who?
+371,Landlords Apartment : Use2_169688_0022,From: Landlords Apartment : Use2,Only kidding! We all know you evicted your conscience years ago!
+372,Landlords Apartment : Use2_169688_0023,From: Landlords Apartment : Use2,Damn kids! Stop banging on my door and get a job!
+373,Landlords Apartment : Use2_169688_0024,From: Landlords Apartment : Use2,"Haha. Yeah, I know it didn’t help in any way but I just couldn’t stop myself."
+374,Landlords Apartment : Use2_169688_0008,From: Landlords Apartment : Use2,Rent Resistance is Futile.
+375,Landlords Apartment : Use2_169688_0009,From: Landlords Apartment : Use2,Ah perfect. You need to fix that mailbox quickly.
+376,Landlords Apartment : Use2_169688_0010,From: Landlords Apartment : Use2,If you try to overcharge me I’ll know!
+377,Landlords Apartment : Use2_169688_0011,From: Landlords Apartment : Use2,Now get on with it.
+378,Landlords Apartment : Use2_169688_0012,From: Landlords Apartment : Use2,Ahem. The padlock?
+379,Landlords Apartment : Use2_169688_0001,From: Landlords Apartment : Use2,It’s the repair guy about your mailbox.
+380,Landlords Apartment : Use2_169688_0002,From: Landlords Apartment : Use2,"About time! Well, get on with it then!"
+381,Landlords Apartment : Use2_169688_0003,From: Landlords Apartment : Use2,Just going to need to get into your cleaning cupboard for the… stuff?
+382,Landlords Apartment : Use2_169688_0004,From: Landlords Apartment : Use2,"Ahh again? Ok, what’s the code phrase?"
+383,Landlords Apartment : Use2_169688_0005,From: Landlords Apartment : Use2,The… code phrase?
+384,Landlords Apartment : Use2_169688_0006,From: Landlords Apartment : Use2,"Yeah, my security code phrase. The one I use with all you contractors and purchases."
+385,Landlords Apartment : Use2_169688_0007,From: Landlords Apartment : Use2,Ah. Ok. Well…
+386,Landlords Apartment : Use2_169688_0016,From: Landlords Apartment : Use2,No! That’s not it. 
+387,Landlords Apartment : Use2_169688_0017,From: Landlords Apartment : Use2,You’re a scammer! I knew it!
+388,Landlords Apartment : Use2_169688_0018,From: Landlords Apartment : Use2,You get out of here before I open that door and shove this TV remote someplace it can’t change a channel!
+389,Landlords Apartment : Use2_169688_0019,From: Landlords Apartment : Use2,Yikes. Bye!
+390,Landlords Apartment : Use2_169688_0014,From: Landlords Apartment : Use2,Thanks…
+391,Landlords Apartment : Use2_169688_0015,From: Landlords Apartment : Use2,Another day… another con!
+392,Security Camera: Examine_169726_0000,From: Security Camera: Examine,"Well, big brother is watching. Great."
+393,Trash Can: Examine_169734_0000,From: Trash Can: Examine,"Considering there are only 3 of us living here, where did all this crap come from?"
+394,Landlord Mailbox: Examine_169742_0000,From: Landlord Mailbox: Examine,That's the Landlords mailbox. 
+395,Landlord Mailbox: Examine_169742_0001,From: Landlord Mailbox: Examine,He checks it every couple of hours for some reason.
+396,Landlord Mailbox: Examine_169742_0002,From: Landlord Mailbox: Examine,My theory is that the stuff he recieves is so twisted that he has to get and hide it in his aprtment before any of us see it!
+397,Landlord Mailbox: Examine_169742_0003,From: Landlord Mailbox: Examine,Weirdo.
+398,My Mail Box: Keys_169746_0000,From: My Mail Box: Keys,"Perfect, just what i needed."
+399,My Mail Box: Keys_169746_0001,From: My Mail Box: Keys,"Hey Mr D, Can you believe that my key has broken in the mailbox again!"
+400,My Mail Box: Keys_169746_0002,From: My Mail Box: Keys,"Dammit, I suppose I'll call maintenance again, you clumsy idiot!"
+401,My Mail Box: Keys_169746_0003,From: My Mail Box: Keys,Now's my chance to get that lens!
+402,My Mail Box: Use_169786_0000,From: My Mail Box: Use,I don't have time to check my mail.
+403,My Mail Box: Use_169786_0001,From: My Mail Box: Use,"Well, this is my fully working mail box. All I need is something to make it my 'non-working' mailbox."
+404,Fire Extinguisher: Examine_169798_0000,From: Fire Extinguisher: Examine,Company Moto: Safety First.
+405,Fire Extinguisher: Examine_169798_0001,From: Fire Extinguisher: Examine,Last Inspection: 2010...
+406,Fire Extinguisher: Examine_169798_0002,From: Fire Extinguisher: Examine,Sounds about right for this dump.
+407,Noisy Neighbour: Use_169820_0000,From: Noisy Neighbour: Use,"Hey, sorry to bother you, but the landlord is really not happy with the noise."
+408,Noisy Neighbour: Use_169820_0001,From: Noisy Neighbour: Use,He's talking about eviction. I'd give him a call if I were you.
+409,Noisy Neighbour: Use_169820_0002,From: Noisy Neighbour: Use,"Pfft, who could that be?"
+410,Landlords Apartment: Use_169834_0000,From: Landlords Apartment: Use,Are you crazy?
+411,Landlords Apartment: Use_169834_0001,From: Landlords Apartment: Use,"I don't see any possible future where I would ever want, or need to go into that jerks apartment."
+412,Landlords Apartment: Use_169834_0002,From: Landlords Apartment: Use,I can barely stand the smell coming out of there when I pass the door in the hall...
+413,Landlords Apartment: Use_169834_0003,From: Landlords Apartment: Use,"So it's a big, fat 'NO' from me."
+414,Landlord: Examine_169844_0000,From: Landlord: Examine,"Mr Ditkovich, the landlord."
+415,Landlord: Examine_169844_0001,From: Landlord: Examine,Though we all call him Dick-o-Witch...Well I do anyway...
+416,OnStart_169920_0000,From: OnStart,And here is my apartment building.
+417,OnStart_169920_0001,From: OnStart,"Squalid, dirty, over-priced and designed by someone who usually builds prisons."
+418,OnStart_169920_0002,From: OnStart,And those are just the positives.
+419,OnStart_169920_0003,From: OnStart,"I always thought I’d have moved on to something better by now, but I never seem to be able to break away."
+420,Landlord: Talk to_169924_0019,From: Landlord: Talk to,"I haven't seen you around here before. If you going to see that R Sole upstairs don't bother, he won't be living here much longer!"
+421,Landlord: Talk to_169924_0000,From: Landlord: Talk to,"Hey punk, do you have my money?"
+422,Landlord: Talk to_169924_0017,From: Landlord: Talk to,"Money? Oh yeah, ermm... I've got it...I'll bring it to you...Soon...I promise...Yeah."
+423,Landlord: Talk to_169924_0018,From: Landlord: Talk to,"You'd better, you putz!"
+424,Landlord: Talk to_169924_0015,From: Landlord: Talk to,Hey Mr D. What seems to be ruining your mood today then?
+425,Landlord: Talk to_169924_0016,From: Landlord: Talk to,That damn stuck-up tool in 221B never stops playing that stupid violin! I can never get a moments peace. I may have to kick him out!
+426,Landlord: Talk to_169924_0011,From: Landlord: Talk to,Not that I was expecting any thanks to be fair...
+427,Landlord: Talk to_169924_0012,From: Landlord: Talk to,"And not that I'm really interested, but the quest chain dictates that I need to ask you what else is souring your puss?"
+428,Landlord: Talk to_169924_0013,From: Landlord: Talk to,I'm always getting complaints about that bloody mailbox. You lot just need to be careful with your keys!
+429,Landlord: Talk to_169924_0014,From: Landlord: Talk to,"Yadda, yadda, yadda, mailbox. Got it."
+430,Landlord: Talk to_169924_0010,From: Landlord: Talk to,So that's your noise pollution issue solved!
+431,Landlord: Talk to_169924_0001,From: Landlord: Talk to,So yeah... I'm going to go now.
+432,Landlord: Talk to_169924_0002,From: Landlord: Talk to,Get me my money!
+433,Landlord: Talk to_169924_0003,From: Landlord: Talk to,What do you want now? Can't you see i am busy.
+434,Landlord: Talk to_169924_0004,From: Landlord: Talk to,"Well to continue with the theme of this questline, even though i had to find this distraction..."
+435,Landlord: Talk to_169924_0005,From: Landlord: Talk to,Sammy at the Copperpot mentioned something about throwing out this strange beer...
+436,Landlord: Talk to_169924_0006,From: Landlord: Talk to,Something called Ro..Roth...Rothaus...
+437,Landlord: Talk to_169924_0007,From: Landlord: Talk to,Rothaus Tannenzäpfle?!?!
+438,Landlord: Talk to_169924_0008,From: Landlord: Talk to,That's my drinks order! I have been waiting for this to be deliered for weeks! That idiot!
+439,Landlord: Talk to_169924_0009,From: Landlord: Talk to,Well that worked! Now lets get that lens.
+440,221B Mailbox: Examine_169926_0000,From: 221B Mailbox: Examine,It's the mailbox for the guy across the hall.
+441,221B Mailbox: Examine_169926_0001,From: 221B Mailbox: Examine,I've never actually met him but I've heard his violin.
+442,221B Mailbox: Examine_169926_0002,From: 221B Mailbox: Examine,"He seems to have a few visitors each week, I think he runs a business from there?"
+443,221B Mailbox: Examine_169926_0003,From: 221B Mailbox: Examine,Oh I don't know. Or care.
+444,Notice Board: Examine_169932_0001,From: Notice Board: Examine,That for sale sign... is that a..?
+445,Notice Board: Examine_169932_0002,From: Notice Board: Examine,Ah man... I think I was just a little sick in my mouth...
+446,Notice Board: Examine_169932_0000,From: Notice Board: Examine,Let's see what nonsense is on the notice board today.
+447,Noisy Neighbour: Examine_169982_0000,From: Noisy Neighbour: Examine,"The guy next door, always playing that violin. Good job he ain't half bad!"
+448,Security Camera: Use_169992_0001,From: Security Camera: Use,Hey!
+449,Security Camera: Use_169992_0002,From: Security Camera: Use,Stay away from my camera!
+450,Security Camera: Use_169992_0003,From: Security Camera: Use,"Damn, I can't get it while he's watching! I need to distract him somehow."
+451,Security Camera: Use_169992_0004,From: Security Camera: Use,Dammit!
+452,Security Camera: Use_169992_0005,From: Security Camera: Use,Just one more turn...I need another distraction...hmmm
+453,Security Camera: Use_169992_0008,From: Security Camera: Use,Yes! I have it! As signified by that jaunty little tune.
+454,Security Camera: Use_169992_0000,From: Security Camera: Use,A lens! Just what I was looking for.
+455,Security Camera: Use_169992_0006,From: Security Camera: Use,Dammit!
+456,Security Camera: Use_169992_0007,From: Security Camera: Use,"Seriously, another turn?...I need another distraction...hmmm"
+457,Cleaning Cupboard: Examine_170004_0000,From: Cleaning Cupboard: Examine,This is where the landlord keeps all his cleaning stuff.
+458,Cleaning Cupboard: Examine_170004_0001,From: Cleaning Cupboard: Examine,I have never seen it open.
+459,Cleaning Cupboard: Examine_170004_0002,From: Cleaning Cupboard: Examine,Can't really go snooping if the landlord is around!
+460,Cleaning Cupboard: Examine_170004_0007,From: Cleaning Cupboard: Examine,That worked! I wonder what's inside...
+461,Cleaning Cupboard: Examine_170004_0008,From: Cleaning Cupboard: Examine,it's just full of broken cleaning equipment and junk.
+462,Cleaning Cupboard: Examine_170004_0009,From: Cleaning Cupboard: Examine,"Oh there's a screwdriver, the only thing that isn't broken. I'll take it just in case."
+463,Cleaning Cupboard: Examine_170004_0006,From: Cleaning Cupboard: Examine,Lets see if i can get past this padlock...
+464,Cleaning Cupboard: Examine_170004_0005,From: Cleaning Cupboard: Examine,I'll need to find away to get the code...
+465,Cleaning Cupboard: Examine_170004_0003,From: Cleaning Cupboard: Examine,It’s a combination padlock. Pretty sturdy.
+466,Cleaning Cupboard: Examine_170004_0004,From: Cleaning Cupboard: Examine,I’m not good with code cracking… before you ask.
+467,Landlords Apartment: Examine_170012_0000,From: Landlords Apartment: Examine,That's the Landlords apartment. 
+468,Landlords Apartment: Examine_170012_0001,From: Landlords Apartment: Examine,"Legend has it that he once had guests inside, actually inside, the building!"
+469,Landlords Apartment: Examine_170012_0002,From: Landlords Apartment: Examine,I'm not sure I believe that though.
+470,Landlords Apartment: Examine_170012_0003,From: Landlords Apartment: Examine,Unless they are now buried under his floorboards...
+471,My Mail Box: Examine_170036_0000,From: My Mail Box: Examine,Why bother checking? I never get any mail. 
+472,My Mail Box: Examine_170036_0001,From: My Mail Box: Examine,I don't have my keys anyway. 
+473, ,From: Landlord, 
+474, ,From: Cop,Cop
+475, ,From: Landlord,Landlord
+476, ,From: UpStairsHotspot, 
+477, ,From: LandlordConversatation3,Here’s looking at you rent increase?
+478, ,From: LandlordConversatation3,Say hello to my little invoice?
+479, ,From: LandlordConversatation3,You’re gonna need a bigger toolbox?
+480, ,From: LandlordConversatation3,Rent Resistance is Futile.
+481, ,From: LandlordConversatation2,It's R.Sole
+482, ,From: LandlordConversatation2,Your conscience
+483, ,From: LandlordConversatation2,It's the repair guy about your mailbox
+484, ,From: Cop,Cop
+485, ,From: LandlordConversatation,Money? Erm... What money?
+486, ,From: LandlordConversatation,Let's see if I can find a distraction
+487, ,From: LandlordConversatation,Better see what else I can use against him
+488, ,From: LandlordConversatation,Did you know that the Copperpot deliver?
+489, ,From: LandlordConversatation,"Well, i've got to go now..."
+490, ,From: ToBedroom,My Apartment
+491, ,From: Landlords Apartment, 
+492, ,From: DownstairsHotpsot, 
+493, ,From: Notice Board, 
+494, ,From: Neighbour, 
+495, ,From: Security Camera, 
+496, ,From: Cleaning Cupboard, 
+497, ,From: Trash Can, 
+498, ,From: Fire Extinguisher, 
+499, ,From: MailBox, 
+500, ,From: Landlord Mailbox, 
+501, ,From: ToMap, 
+502, ,From: 221B Mailbox, 

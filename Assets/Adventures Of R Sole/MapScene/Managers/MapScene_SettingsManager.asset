@@ -1,0 +1,345 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b776810ebfa374d7ba8f0fb5ed6e3265, type: 3}
+  m_Name: MapScene_SettingsManager
+  m_EditorClassIdentifier: 
+  separateEditorSaveFiles: 0
+  saveFileName: TheAdventuresOfRSole
+  saveTimeDisplay: 1
+  customSaveFormat: MMMM dd, yyyy
+  takeSaveScreenshots: 0
+  saveScreenshots: 1
+  screenshotResolutionFactor: 1
+  useProfiles: 1
+  maxSaves: 5
+  orderSavesByUpdateTime: 1
+  reloadSceneWhenLoading: 1
+  saveWithThreading: 1
+  saveAssetReferencesWithAddressables: 0
+  saveLabels:
+    defaultSaveLabel: Save
+    saveLabelID: -1
+    defaultImportLabel: Import
+    importLabelID: -1
+    defaultAutosaveLabel: Autosave
+    autosaveLabelID: -1
+  referenceScenesInSave: 0
+  sceneAttributes: []
+  actionListOnStart: {fileID: 0}
+  blackOutWhenSkipping: 0
+  playerSwitching: 0
+  player: {fileID: 0}
+  players:
+  - playerOb: {fileID: 8621181141839066121, guid: 3c16ce8606c1afd4ca04cb6c224b21ab, type: 3}
+    ID: 0
+    isDefault: 1
+    startingSceneIndex: 0
+    chooseSceneBy: 0
+    startingSceneName: 
+    useSceneDefaultPlayerStart: 1
+    startingPlayerStartID: 0
+  - playerOb: {fileID: 8237104352375787229, guid: aa1ea76d7c32aca40bd03ee4f2f8b4c9, type: 3}
+    ID: 1
+    isDefault: 0
+    startingSceneIndex: 10
+    chooseSceneBy: 1
+    startingSceneName: MapScene
+    useSceneDefaultPlayerStart: 1
+    startingPlayerStartID: 0
+  - playerOb: {fileID: 1518972632114239855, guid: e59617f5ba484d94db7163d1da6cdba1, type: 3}
+    ID: 2
+    isDefault: 0
+    startingSceneIndex: 16
+    chooseSceneBy: 0
+    startingSceneName: 
+    useSceneDefaultPlayerStart: 0
+    startingPlayerStartID: 28742
+  - playerOb: {fileID: 6248124144398323825, guid: 94f2af31b5e09b140812a027fde858a6, type: 3}
+    ID: 3
+    isDefault: 0
+    startingSceneIndex: 17
+    chooseSceneBy: 0
+    startingSceneName: 
+    useSceneDefaultPlayerStart: 1
+    startingPlayerStartID: 0
+  - playerOb: {fileID: 6805682791282861513, guid: d63b1752575cb5241be862ab62bddb55, type: 3}
+    ID: 4
+    isDefault: 0
+    startingSceneIndex: 18
+    chooseSceneBy: 0
+    startingSceneName: 
+    useSceneDefaultPlayerStart: 1
+    startingPlayerStartID: 0
+  - playerOb: {fileID: 6805682791282861513, guid: fc0b2c199eebc3d4ba2463c4006fb83f, type: 3}
+    ID: 5
+    isDefault: 0
+    startingSceneIndex: 26
+    chooseSceneBy: 0
+    startingSceneName: 
+    useSceneDefaultPlayerStart: 1
+    startingPlayerStartID: 0
+  - playerOb: {fileID: 6805682791282861513, guid: 194fc9119d7e96e459236e2927b927b3, type: 3}
+    ID: 6
+    isDefault: 0
+    startingSceneIndex: 31
+    chooseSceneBy: 0
+    startingSceneName: 
+    useSceneDefaultPlayerStart: 1
+    startingPlayerStartID: 0
+  - playerOb: {fileID: 6805682791282861513, guid: fcbfcd05e3cd27749ba5826d525e6103, type: 3}
+    ID: 7
+    isDefault: 0
+    startingSceneIndex: 33
+    chooseSceneBy: 0
+    startingSceneName: 
+    useSceneDefaultPlayerStart: 1
+    startingPlayerStartID: 0
+  - playerOb: {fileID: 6805682791282861513, guid: 6c1234bab4487e1458096e7025d9e5f1, type: 3}
+    ID: 8
+    isDefault: 0
+    startingSceneIndex: 34
+    chooseSceneBy: 0
+    startingSceneName: 
+    useSceneDefaultPlayerStart: 1
+    startingPlayerStartID: 0
+  - playerOb: {fileID: 6805682791282861513, guid: 55f2afee1b58b044280cffae18daa041, type: 3}
+    ID: 9
+    isDefault: 0
+    startingSceneIndex: 20
+    chooseSceneBy: 0
+    startingSceneName: 
+    useSceneDefaultPlayerStart: 1
+    startingPlayerStartID: 0
+  - playerOb: {fileID: 1921073499062306948, guid: 545f14e00859ff44991f5f92b715b689, type: 3}
+    ID: 10
+    isDefault: 0
+    startingSceneIndex: 38
+    chooseSceneBy: 0
+    startingSceneName: 
+    useSceneDefaultPlayerStart: 0
+    startingPlayerStartID: 29394
+  - playerOb: {fileID: 6805682791282861513, guid: 8a88a8bd7b7d72d40af84c49c9bb4200, type: 3}
+    ID: 11
+    isDefault: 0
+    startingSceneIndex: 39
+    chooseSceneBy: 0
+    startingSceneName: 
+    useSceneDefaultPlayerStart: 1
+    startingPlayerStartID: 0
+  - playerOb: {fileID: 6805682791282861513, guid: a6f077faafad8b548b0958b0265e1e3a, type: 3}
+    ID: 12
+    isDefault: 0
+    startingSceneIndex: 41
+    chooseSceneBy: 0
+    startingSceneName: 
+    useSceneDefaultPlayerStart: 1
+    startingPlayerStartID: 0
+  - playerOb: {fileID: 6805682791282861513, guid: 09c54dd443bd2ea45979fa00c4636add, type: 3}
+    ID: 13
+    isDefault: 0
+    startingSceneIndex: 42
+    chooseSceneBy: 0
+    startingSceneName: 
+    useSceneDefaultPlayerStart: 1
+    startingPlayerStartID: 0
+  - playerOb: {fileID: 6805682791282861513, guid: 128497c105482484ba45c34f099521d9, type: 3}
+    ID: 14
+    isDefault: 0
+    startingSceneIndex: 46
+    chooseSceneBy: 0
+    startingSceneName: 
+    useSceneDefaultPlayerStart: 1
+    startingPlayerStartID: 0
+  movementMethod: 0
+  inputMethod: 0
+  simulatedCursorMoveSpeed: 4
+  interactionMethod: 0
+  selectInteractions: 0
+  autoHideInteractionIcons: 1
+  cancelInteractions: 0
+  seeInteractions: 0
+  closeInteractionMenuIfTapHotspot: 1
+  stopPlayerOnClickHotspot: 0
+  cycleInventoryCursors: 1
+  scaleCursorSpeedWithScreen: 1
+  autoCycleWhenInteract: 0
+  showHoverInteractionInHotspotLabel: 0
+  allowDefaultinteractions: 0
+  alwaysCloseInteractionMenus: 1
+  whenReselectHotspot: 0
+  lockCursorOnStart: 0
+  hideLockedCursor: 0
+  disableFreeAimWhenDragging: 0
+  disableFreeAimWhenDraggingPickUp: 0
+  runConversationsWithKeys: 0
+  clickUpInteractions: 0
+  defaultMouseClicks: 1
+  allowGameplayDuringConversations: 0
+  walkToHotspotMarkers: 1
+  dragThreshold: 0
+  shareInventory: 1
+  inventoryDragDrop: 0
+  dragDropThreshold: 0
+  allowInventoryInteractionsDuringConversations: 0
+  inventoryDropLook: 0
+  inventoryDropLookNoDrag: 0
+  inventoryInteractions: 1
+  inventoryDisableLeft: 1
+  allowDefaultInventoryInteractions: 0
+  inventoryDisableUnhandled: 1
+  inventoryDisableDefined: 1
+  inventoryInteractionsHaltPlayer: 1
+  activeWhenHover: 0
+  inventoryActiveEffect: 1
+  inventoryPulseSpeed: 1
+  activeWhenUnhandled: 1
+  canReorderItems: 0
+  selectInventoryDisplay: 0
+  rightClickInventory: 0
+  reverseInventoryCombinations: 0
+  canMoveWhenActive: 1
+  selectInvWithUnhandled: 0
+  selectInvWithIconID: 0
+  giveInvWithUnhandled: 0
+  giveInvWithIconID: 0
+  autoDisableUnhandledHotspots: 0
+  clickPrefab: {fileID: 0}
+  clickMarkerPosition: 0
+  walkableClickRange: 0.5
+  navMeshSearchDirection: 1
+  ignoreOffScreenNavMesh: 1
+  doubleClickMovement: 2
+  magnitudeAffectsDirect: 0
+  directTurnsInstantly: 0
+  stopTurningWhenReleaseInput: 0
+  disableMovementWhenInterationMenusAreOpen: 0
+  directMovementType: 0
+  limitDirectMovement: 0
+  cameraLockSnapAngleThreshold: 5
+  directMovementPerspective: 0
+  destinationAccuracy: 0.8
+  experimentalAccuracy: 0
+  unityUIClicksAlwaysBlocks: 0
+  pathfindUpdateFrequency: 0
+  verticalReductionFactor: 0.7
+  rotationsAffectedByVerticalReduction: 1
+  alwaysPathfindInSpriteDirection: 0
+  jumpSpeed: 4
+  singleTapStraight: 0
+  singleTapStraightPathfind: 0
+  clickHoldSeparationStraight: 0.3
+  useFPCamDuringConversations: 1
+  onlyInteractWhenCursorUnlocked: 0
+  freeAimSmoothSpeed: 50
+  firstPersonMovementSmoothing: 1
+  assumeInputsDefined: 0
+  activeInputs: []
+  freeAimTouchSpeed: 0.01
+  dragWalkThreshold: 5
+  dragRunThreshold: 20
+  drawDragLine: 0
+  dragLineWidth: 3
+  dragLineColor: {r: 1, g: 1, b: 1, a: 1}
+  offsetTouchCursor: 0
+  doubleTapHotspots: 1
+  firstPersonTouchScreen: 1
+  directTouchScreen: 0
+  touchUpWhenPaused: 0
+  touchUpInteractScene: 0
+  forceAspectRatio: 0
+  aspectRatioEnforcement: 0
+  wantedAspectRatio: 1.5
+  maxAspectRatio: 2.39
+  renderBorderCamera: 1
+  landscapeModeOnly: 1
+  cameraPerspective: 0
+  cacheCameraMain: 0
+  linearColorTextures: 0
+  movingTurning: 3
+  hotspotDetection: 0
+  closeInteractionMenusIfPlayerLeavesVicinity: 0
+  placeDistantHotspotsOnSeparateLayer: 1
+  hotspotsInVicinity: 0
+  hotspotIconDisplay: 0
+  hotspotIcon: 0
+  hotspotIconTexture: {fileID: 0}
+  hotspotIconGraphic:
+    texture: {fileID: 0}
+    isAnimated: 0
+    numFrames: 1
+    numRows: 1
+    numCols: 1
+    size: 0.04
+    animSpeed: 4
+    endAnimOnLastFrame: 0
+    skipFirstFrameWhenLooping: 0
+    clickOffset: {x: 0, y: 0}
+    frameSpeeds: []
+    alwaysAnimate: 0
+  highlightMaterialPropertyOverride: 
+  hotspotIconSize: 0.04
+  playerFacesHotspots: 0
+  onlyFaceHotspotOnSelect: 0
+  scaleHighlightWithMouseProximity: 0
+  highlightProximityFactor: -10
+  occludeIcons: 0
+  hideIconUnderInteractionMenu: 0
+  hotspotDrawing: 0
+  hideUnhandledHotspots: 0
+  navMeshRaycastLength: 100
+  hotspotRaycastLength: 100
+  moveableRaycastLength: 30
+  hotspotLayer: Default
+  distantHotspotLayer: DistantHotspot
+  navMeshLayer: NavMesh
+  backgroundImageLayer: BackgroundImage
+  deactivatedLayer: Ignore Raycast
+  useLoadingScreen: 0
+  manualSceneActivation: 0
+  loadingSceneIs: 0
+  loadScenesFromAddressable: 0
+  loadingSceneName: 
+  loadingScene: 28
+  useAsyncLoading: 1
+  loadingDelay: 0.5
+  blackOutWhenInitialising: 1
+  spawnPersistentEnginePrefab: 0
+  playMusicWhilePaused: 0
+  playAmbienceWhilePaused: 0
+  musicStorages: []
+  ambienceStorages: []
+  loadAmbienceFadeTime: 0
+  crossfadeAmbienceWhenLoading: 0
+  restartAmbienceTrackWhenLoading: 0
+  loadMusicFadeTime: 0
+  crossfadeMusicWhenLoading: 0
+  restartMusicTrackWhenLoading: 0
+  autoEndOtherMusicWhenPlayed: 1
+  musicPrefabOverride: {fileID: 0}
+  ambiencePrefabOverride: {fileID: 0}
+  volumeControl: 0
+  musicMixerGroup: {fileID: 0}
+  sfxMixerGroup: {fileID: 0}
+  speechMixerGroup: {fileID: 0}
+  musicAttentuationParameter: musicVolume
+  sfxAttentuationParameter: sfxVolume
+  speechAttentuationParameter: speechVolume
+  defaultLanguage: 0
+  defaultVoiceLanguage: 0
+  defaultShowSubtitles: 1
+  defaultSfxVolume: 1
+  defaultMusicVolume: 1
+  defaultSpeechVolume: 1
+  showDebugLogs: 0
+  printActionCommentsInConsole: 0
+  actionCommentLogging: 0
+  showActiveActionLists: 0
