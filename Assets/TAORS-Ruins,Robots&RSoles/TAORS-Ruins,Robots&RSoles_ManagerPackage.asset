@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b4a24d0e4a28423fb3249b923d7e418, type: 3}
+  m_Name: TAORS-Ruins,Robots&RSoles_ManagerPackage
+  m_EditorClassIdentifier: 
+  actionsManager: {fileID: 11400000, guid: 80c3531e9a0ef9747abc053db23ca922, type: 2}
+  sceneManager: {fileID: 11400000, guid: 2676865131cd03b4ba3fb34e6bc8f18f, type: 2}
+  settingsManager: {fileID: 11400000, guid: 02cb3b4173b27b242847de00b93c52c8, type: 2}
+  inventoryManager: {fileID: 11400000, guid: 91339529d9e93a549ac7defd400387b1, type: 2}
+  variablesManager: {fileID: 11400000, guid: af6a49e58ddba384589ddc31722fc0dd, type: 2}
+  speechManager: {fileID: 11400000, guid: 1da441e457badec4ab3b4ccbc554f189, type: 2}
+  cursorManager: {fileID: 11400000, guid: 3eb37fb8b74b3494c8fc34e3880da23d, type: 2}
+  menuManager: {fileID: 11400000, guid: 7e1112958a5b03548bdbf9d25d1a8d38, type: 2}
