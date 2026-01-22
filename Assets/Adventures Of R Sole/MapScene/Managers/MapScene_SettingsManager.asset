@@ -55,34 +55,10 @@ MonoBehaviour:
     startingSceneName: MapScene
     useSceneDefaultPlayerStart: 1
     startingPlayerStartID: 0
-  - playerOb: {fileID: 1518972632114239855, guid: e59617f5ba484d94db7163d1da6cdba1, type: 3}
-    ID: 2
-    isDefault: 0
-    startingSceneIndex: 16
-    chooseSceneBy: 0
-    startingSceneName: 
-    useSceneDefaultPlayerStart: 0
-    startingPlayerStartID: 28742
-  - playerOb: {fileID: 6248124144398323825, guid: 94f2af31b5e09b140812a027fde858a6, type: 3}
-    ID: 3
-    isDefault: 0
-    startingSceneIndex: 17
-    chooseSceneBy: 0
-    startingSceneName: 
-    useSceneDefaultPlayerStart: 1
-    startingPlayerStartID: 0
   - playerOb: {fileID: 6805682791282861513, guid: d63b1752575cb5241be862ab62bddb55, type: 3}
     ID: 4
     isDefault: 0
-    startingSceneIndex: 18
-    chooseSceneBy: 0
-    startingSceneName: 
-    useSceneDefaultPlayerStart: 1
-    startingPlayerStartID: 0
-  - playerOb: {fileID: 6805682791282861513, guid: fc0b2c199eebc3d4ba2463c4006fb83f, type: 3}
-    ID: 5
-    isDefault: 0
-    startingSceneIndex: 26
+    startingSceneIndex: 9
     chooseSceneBy: 0
     startingSceneName: 
     useSceneDefaultPlayerStart: 1
@@ -90,71 +66,7 @@ MonoBehaviour:
   - playerOb: {fileID: 6805682791282861513, guid: 194fc9119d7e96e459236e2927b927b3, type: 3}
     ID: 6
     isDefault: 0
-    startingSceneIndex: 31
-    chooseSceneBy: 0
-    startingSceneName: 
-    useSceneDefaultPlayerStart: 1
-    startingPlayerStartID: 0
-  - playerOb: {fileID: 6805682791282861513, guid: fcbfcd05e3cd27749ba5826d525e6103, type: 3}
-    ID: 7
-    isDefault: 0
-    startingSceneIndex: 33
-    chooseSceneBy: 0
-    startingSceneName: 
-    useSceneDefaultPlayerStart: 1
-    startingPlayerStartID: 0
-  - playerOb: {fileID: 6805682791282861513, guid: 6c1234bab4487e1458096e7025d9e5f1, type: 3}
-    ID: 8
-    isDefault: 0
-    startingSceneIndex: 34
-    chooseSceneBy: 0
-    startingSceneName: 
-    useSceneDefaultPlayerStart: 1
-    startingPlayerStartID: 0
-  - playerOb: {fileID: 6805682791282861513, guid: 55f2afee1b58b044280cffae18daa041, type: 3}
-    ID: 9
-    isDefault: 0
-    startingSceneIndex: 20
-    chooseSceneBy: 0
-    startingSceneName: 
-    useSceneDefaultPlayerStart: 1
-    startingPlayerStartID: 0
-  - playerOb: {fileID: 1921073499062306948, guid: 545f14e00859ff44991f5f92b715b689, type: 3}
-    ID: 10
-    isDefault: 0
-    startingSceneIndex: 38
-    chooseSceneBy: 0
-    startingSceneName: 
-    useSceneDefaultPlayerStart: 0
-    startingPlayerStartID: 29394
-  - playerOb: {fileID: 6805682791282861513, guid: 8a88a8bd7b7d72d40af84c49c9bb4200, type: 3}
-    ID: 11
-    isDefault: 0
-    startingSceneIndex: 39
-    chooseSceneBy: 0
-    startingSceneName: 
-    useSceneDefaultPlayerStart: 1
-    startingPlayerStartID: 0
-  - playerOb: {fileID: 6805682791282861513, guid: a6f077faafad8b548b0958b0265e1e3a, type: 3}
-    ID: 12
-    isDefault: 0
-    startingSceneIndex: 41
-    chooseSceneBy: 0
-    startingSceneName: 
-    useSceneDefaultPlayerStart: 1
-    startingPlayerStartID: 0
-  - playerOb: {fileID: 6805682791282861513, guid: 09c54dd443bd2ea45979fa00c4636add, type: 3}
-    ID: 13
-    isDefault: 0
-    startingSceneIndex: 42
-    chooseSceneBy: 0
-    startingSceneName: 
-    useSceneDefaultPlayerStart: 1
-    startingPlayerStartID: 0
-  - playerOb: {fileID: 6805682791282861513, guid: 128497c105482484ba45c34f099521d9, type: 3}
-    ID: 14
-    isDefault: 0
-    startingSceneIndex: 46
+    startingSceneIndex: 14
     chooseSceneBy: 0
     startingSceneName: 
     useSceneDefaultPlayerStart: 1

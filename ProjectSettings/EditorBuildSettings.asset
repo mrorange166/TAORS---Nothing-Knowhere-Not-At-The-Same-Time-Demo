@@ -9,15 +9,6 @@ EditorBuildSettings:
     path: Assets/Adventures Of R Sole/Scenes/MainMenu.unity
     guid: c80b766df8b70664081546bec0bdb10f
   - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/PubScene.unity
-    guid: bde763bdb4c31314fa3c71de5f948f45
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/StreetNightScene.unity
-    guid: 1e150fa27ba341f4887820cba23a7880
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/AlleyNightScene.unity
-    guid: 4a52a2a326083c64c9b6782d20f6930a
-  - enabled: 1
     path: Assets/Adventures Of R Sole/Scenes/BedroomScene.unity
     guid: 96a8107610cf7cc42972dcf0ee3ce6f6
   - enabled: 1
@@ -33,32 +24,14 @@ EditorBuildSettings:
     path: Assets/Adventures Of R Sole/Scenes/ShopScene.unity
     guid: 316cda1ac857d7749a7a030b2adf38a4
   - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/OfficeScene.unity
-    guid: bff8b81f85bf3664ca9cc419ea39c131
-  - enabled: 1
     path: Assets/Adventures Of R Sole/Scenes/PubDayScene.unity
     guid: b7a5b97acedc47c428506853fca8d10c
   - enabled: 1
     path: Assets/Adventures Of R Sole/Scenes/MapScene.unity
     guid: d925ccc1b96a771448f5570a66babf2b
   - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/GameNameScene.unity
-    guid: cef677d835c01604aa9ff259420c10a0
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/EndGameScene.unity
-    guid: f3bab59995c09764cbe2b80452545b64
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/Dystopia Bedroom.unity
-    guid: 708ab1f52deceea448d36a31077406f6
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/MovieIntro.unity
-    guid: a3d83a5dc3fcb604f90969a73d0349c4
-  - enabled: 1
     path: Assets/Adventures Of R Sole/Scenes/EndingCredits.unity
     guid: bba3c086d4931f64ca42523588a44160
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/CalenderScene.unity
-    guid: 4607829ad9615174e870b8aca5a42ce9
   - enabled: 1
     path: Assets/Adventures Of R Sole/Scenes/Puzzle Scene.unity
     guid: 24a38644b9b7f2d409442bbaaf668a06
@@ -66,35 +39,11 @@ EditorBuildSettings:
     path: Assets/Adventures Of R Sole/Scenes/Puzzle Scene - Complete.unity
     guid: 509e7b0c2f470e64f8a53428aa2d2494
   - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/Bedroom Scene - Wang Repair.unity
-    guid: 1fb5269e2d7f19049b7122cbbe4f6e89
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/OfficeSceneIntro.unity
-    guid: fe7bb40ae4dbb9b46b8ca064a1d755ea
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/StreetNightSceneIntro.unity
-    guid: 92bc0fbb4204ccd43b581588482704f6
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/MovieIntroHarperEyes.unity
-    guid: 530213dae84e2394fa67aa41397de30a
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/NextMorningScene.unity
-    guid: b2403a44c001fcd418a9bdbee53d1bac
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/WormholeVideo.unity
-    guid: 092e841e533247941ae9a5bbdf621e9e
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/OfficeDrawScene.unity
-    guid: 8c61d016d41320e4eabc471ed8bf4bf8
-  - enabled: 1
     path: Assets/Adventures Of R Sole/Scenes/Park.unity
     guid: 37759644927f4324cb6cd13d30f4f752
   - enabled: 1
     path: Assets/Adventures Of R Sole/Scenes/Park 2.unity
     guid: 3168ae24363ce684297a639dc29e844a
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/Bedroom End Scene.unity
-    guid: a1a92408bcbd4734bbd8c154d177733b
   - enabled: 1
     path: Assets/Adventures Of R Sole/Scenes/Bathroom.unity
     guid: af7cf51806affaa4fbc89491d380ad3b
@@ -105,45 +54,6 @@ EditorBuildSettings:
     path: Assets/Adventures Of R Sole/Scenes/Ship Bridge.unity
     guid: ba60d392f764ead438bc902ab5e7fd65
   - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/Bookcase Scene.unity
-    guid: 97345b073974e4b4fa52339d4924d2cd
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/Laundry Scene.unity
-    guid: 47444cb73f5f1864eadc494f81154c88
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/AlleyDayMingScene.unity
-    guid: ad178f22f3e0297448cf18d31bb6b55d
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/HallwayDeathScene.unity
-    guid: 3a38f08a543f2d34587f37247145e572
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/Five Minutes Later Scene.unity
-    guid: bcc9f576aaffcd443bc03d775bf85f6c
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/Tunnel.unity
-    guid: f65942c1ec4af0e4c908b2f7714fe2e4
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/Circuit Puzzle Scene.unity
-    guid: 1bb267e1c9ce04c4e88b3977b68a290f
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/SewerScene.unity
-    guid: a1c65cb4277248349b808b157e204143
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/Sewer Puzzle 1 Scene.unity
-    guid: d81f159303aec23488b65c41d1003b60
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/Sewer Puzzle 2 Scene.unity
-    guid: 6f3b2a5252e30e444b06f94627c9af83
-  - enabled: 1
     path: Assets/Adventures Of R Sole/Scenes/Park Entrance - Day.unity
     guid: c310e2a554c334e49aabfd0ddba3bf2f
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/Park Entrance - Night.unity
-    guid: b6d7a05ea31a5c14187a07dc1bfb9d27
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/SewerScene2.unity
-    guid: 7ad6fae8bad09b046ac683a7a52c6eb5
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/Padlock Scene.unity
-    guid: bb2a02ff9585ad4429c5edcb77c6768a
   m_configObjects: {}
