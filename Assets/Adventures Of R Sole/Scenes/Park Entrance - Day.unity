@@ -466,7 +466,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chooseSceneBy: 0
-  previousScene: 27
+  previousScene: 11
   previousSceneName: 
   fadeInOnStart: 0
   fadeSpeed: 0.5
@@ -4233,7 +4233,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chooseSceneBy: 0
-  previousScene: 6
+  previousScene: 3
   previousSceneName: 
   fadeInOnStart: 0
   fadeSpeed: 0.5
