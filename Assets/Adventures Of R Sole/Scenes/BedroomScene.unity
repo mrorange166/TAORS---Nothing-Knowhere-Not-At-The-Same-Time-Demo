@@ -671,7 +671,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 6884.4336
+    y: 6885.672
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -781,7 +781,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2814
-    y: 12710.434
+    y: 12751.672
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1002,7 +1002,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2814
-    y: 11010.434
+    y: 11051.672
     width: 300
     height: 240
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1504,7 +1504,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 6682.4336
+    y: 6683.672
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1901,7 +1901,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2814
-    y: 12528.434
+    y: 12569.672
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -2762,7 +2762,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2464
-    y: 11038.434
+    y: 11079.672
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -3070,7 +3070,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2814
-    y: 10740.434
+    y: 10781.672
     width: 300
     height: 240
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -4082,7 +4082,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2464
-    y: 10848.434
+    y: 10889.672
     width: 300
     height: 160
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -4791,7 +4791,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 3514
-    y: 13716.434
+    y: 13757.672
     width: 300
     height: 160
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -5157,7 +5157,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2814
-    y: 11712.434
+    y: 11753.672
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -5253,7 +5253,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 3164
-    y: 13304.434
+    y: 13345.672
     width: 300
     height: 180
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -7425,7 +7425,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 3514
-    y: 13906.434
+    y: 13947.672
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -7761,7 +7761,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 3514
-    y: 13514.434
+    y: 13555.672
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -8255,7 +8255,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 9634.434
+    y: 9675.672
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -8313,7 +8313,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 10106.434
+    y: 10147.672
     width: 300
     height: 160
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -8941,7 +8941,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2814
-    y: 10558.434
+    y: 10599.672
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -10148,7 +10148,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 9068.434
+    y: 8745.672
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -10917,7 +10917,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 3164
-    y: 11534.434
+    y: 11575.672
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -11064,7 +11064,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 7916.4336
+    y: 7755.672
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -14108,8 +14108,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 1725.6
-    y: 4749.465
+    x: 2114
+    y: 9493.672
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -16822,9 +16822,9 @@ MonoBehaviour:
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 1
-    skipAction: 41
-    skipActionActual: {fileID: 0}
+  - resultAction: 2
+    skipAction: 112
+    skipActionActual: {fileID: 2030330898}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -16832,10 +16832,10 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 2114
-    y: 9452.434
+    x: 2433.1997
+    y: 9027.273
     width: 300
-    height: 152
+    height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 5306884651048657439}
@@ -17700,7 +17700,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 9836.434
+    y: 9877.672
     width: 300
     height: 240
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -18119,7 +18119,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 7228.4336
+    y: 7229.672
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -18398,7 +18398,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 7734.4336
+    y: 7573.672
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -21219,7 +21219,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 8462.434
+    y: 8139.672
     width: 300
     height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -21695,7 +21695,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 9270.434
+    y: 8947.672
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -23725,7 +23725,7 @@ MonoBehaviour:
     x: 2114
     y: 5968.4717
     width: 300
-    height: 192
+    height: 192.2
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 5306884651048657439}
@@ -25304,7 +25304,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 7410.4336
+    y: 7411.672
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -26524,7 +26524,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 3164
-    y: 13514.434
+    y: 13555.672
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -27084,7 +27084,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 10296.434
+    y: 10337.672
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -27630,7 +27630,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 8684.434
+    y: 8361.672
     width: 300
     height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -28791,7 +28791,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 3164
-    y: 11272.434
+    y: 11313.672
     width: 300
     height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -29080,7 +29080,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 3164
-    y: 13102.434
+    y: 13143.672
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -29788,7 +29788,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2814
-    y: 12164.434
+    y: 12205.672
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -30209,8 +30209,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 1778.4
-    y: 4575.7324
+    x: 2114
+    y: 9311.672
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -31099,7 +31099,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2814
-    y: 10376.434
+    y: 10417.672
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -31989,7 +31989,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2814
-    y: 12912.434
+    y: 12953.672
     width: 300
     height: 160
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -33741,7 +33741,7 @@ MonoBehaviour:
     x: 2114
     y: 5718
     width: 300
-    height: 220.47171
+    height: 221
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 5306884651048657439}
@@ -34609,8 +34609,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 1417.6001
-    y: 4721.333
+    x: 1764
+    y: 4728
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -35148,7 +35148,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2814
-    y: 12346.434
+    y: 12387.672
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -36826,7 +36826,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 8946.434
+    y: 8623.672
     width: 300
     height: 92
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -38053,7 +38053,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2814
-    y: 11280.434
+    y: 11321.672
     width: 300
     height: 240
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -38282,8 +38282,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 1470.4
-    y: 4547.6006
+    x: 1764
+    y: 4546
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -38328,7 +38328,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 3864
-    y: 13906.434
+    y: 13947.672
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -39912,7 +39912,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2464
-    y: 10646.434
+    y: 10687.672
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -39958,7 +39958,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 3164
-    y: 11010.434
+    y: 11051.672
     width: 300
     height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -40021,7 +40021,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 7046.4336
+    y: 7047.672
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -40147,7 +40147,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2814
-    y: 13102.434
+    y: 13143.672
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -40660,7 +40660,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2814
-    y: 11550.434
+    y: 11591.672
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -40801,7 +40801,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2464
-    y: 10106.434
+    y: 10147.672
     width: 300
     height: 240
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -41063,7 +41063,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 6426.4526
+    y: 6427.072
     width: 300
     height: 226.6
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -43409,6 +43409,76 @@ MonoBehaviour:
   interactionType: 1
   changeType: 1
   number: 0
+--- !u!114 &2030330898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0f86ace5fdd94f0a86553230ec9308f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 1
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 2503.1982
+    y: 9227.435
+    width: 300
+    height: 172
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 5306884651048657439}
+  setVarMethod: 2
+  setVarMethodString: 0
+  setVarMethodIntBool: 0
+  setVarMethodVector: 0
+  parameterID: -1
+  variableID: 34
+  variableNumber: 24
+  setParameterID: -1
+  slotNumber: 0
+  slotNumberParameterID: -1
+  slotAccountsForOffset: 0
+  doLoop: 0
+  intValue: 4
+  floatValue: 0
+  boolValue: 0
+  stringValue: 
+  formula: 
+  vector3Value: {x: 0, y: 0, z: 0}
+  gameObjectValue: {fileID: 0}
+  unityObjectValue: {fileID: 0}
+  lineID: -1
+  location: 0
+  menuName: 
+  elementName: 
+  animator: {fileID: 0}
+  parameterName: 
+  variables: {fileID: 0}
+  variablesConstantID: 0
+  placeholderType: 1
+  placeholderPopUpLabelDataID: -1
 --- !u!114 &2034044248
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44239,7 +44309,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2814
-    y: 11894.434
+    y: 11935.672
     width: 300
     height: 240
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -44509,7 +44579,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2114
-    y: 8260.434
+    y: 7937.672
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -46095,7 +46165,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 2464
-    y: 10376.434
+    y: 10417.672
     width: 300
     height: 240
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -49095,7 +49165,7 @@ MonoBehaviour:
   - label: FirstScenePlay?
     id: 1
     type: 0
-    val: 0
+    val: 1
     floatVal: 0
     textVal: 
     gameObjectVal: {fileID: 0}
@@ -58465,7 +58535,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1982527625632209095, guid: c9c782cceafe83140a1bba41f9292770, type: 3}
       propertyPath: actions.Array.size
-      value: 112
+      value: 113
       objectReference: {fileID: 0}
     - target: {fileID: 1982527625632209095, guid: c9c782cceafe83140a1bba41f9292770, type: 3}
       propertyPath: actions.Array.data[0]
@@ -58922,7 +58992,7 @@ PrefabInstance:
     - target: {fileID: 1982527625632209095, guid: c9c782cceafe83140a1bba41f9292770, type: 3}
       propertyPath: actions.Array.data[112]
       value: 
-      objectReference: {fileID: 647496535}
+      objectReference: {fileID: 2030330898}
     - target: {fileID: 1982527625632209095, guid: c9c782cceafe83140a1bba41f9292770, type: 3}
       propertyPath: actions.Array.data[113]
       value: 

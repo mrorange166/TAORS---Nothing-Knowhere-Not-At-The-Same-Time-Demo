@@ -5885,8 +5885,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 364
-    y: 1248
+    x: 317.6
+    y: 1246.3999
     width: 300
     height: 404
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -17943,8 +17943,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 692
-    y: 982
+    x: 685.6
+    y: 1057.2
     width: 300
     height: 384
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -18530,8 +18530,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 364
-    y: 1682
+    x: 348
+    y: 1714
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -21726,8 +21726,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 364
-    y: 1006
+    x: 317.60004
+    y: 1006.80005
     width: 300
     height: 212
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -22620,6 +22620,53 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 3382323014289179787}
   parameterID: -1
   timeToPause: 1
+--- !u!114 &838605573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1d11677f69f745f88dbe9922511d53f, type: 3}
+  m_Name: (Clone)
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -99
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings: []
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 1155.134
+    y: 643.4001
+    width: 300
+    height: 164
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 5613234083934006236}
+  chooseSceneBy: 0
+  sceneNumber: 15
+  sceneNumberParameterID: -1
+  sceneName: 
+  sceneNameParameterID: -1
+  assignScreenOverlay: 0
+  onlyPreload: 0
+  relativePosition: 0
+  relativeMarker: {fileID: 0}
+  relativeMarkerID: 0
+  relativeMarkerParameterID: -1
+  forceReload: 0
 --- !u!114 &844238308
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39129,8 +39176,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 364
-    y: 748
+    x: 388.00006
+    y: 540.80005
     width: 300
     height: 164
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -40861,8 +40908,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 364
-    y: 486
+    x: 501.59995
+    y: 288.40002
     width: 300
     height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -41553,6 +41600,79 @@ MonoBehaviour:
   obToAffect: {fileID: 1998089292}
   affectChildren: 0
   visState: 0
+--- !u!114 &1527827788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b04ecc3c200434bdbae730cccfddb10a, type: 3}
+  m_Name: (Clone)
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 1
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 0
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 1079.9341
+    y: 359
+    width: 300
+    height: 232
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 5613234083934006236}
+  fadeType: 1
+  isInstant: 0
+  fadeSpeed: 1
+  fadeSpeedParameterID: -1
+  setTexture: 0
+  tempTexture: {fileID: 0}
+  tempTextureParameterID: -1
+  forceCompleteTransition: 1
+  cameraFadePauseBehaviour: 0
+  fadeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!114 &1528144905
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43422,8 +43542,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 3
-    skipActionActual: {fileID: 1497487845}
+    skipAction: 11
+    skipActionActual: {fileID: 1527827788}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   - resultAction: 0
@@ -49514,8 +49634,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 713.6
-    y: 673.60004
+    x: 662.4
+    y: 797.5999
     width: 300
     height: 212
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -62665,7 +62785,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5826112255265227224, guid: 5044eed0edf8cd94ab09a77d1477a4b7, type: 3}
       propertyPath: actions.Array.size
-      value: 11
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 5826112255265227224, guid: 5044eed0edf8cd94ab09a77d1477a4b7, type: 3}
       propertyPath: actions.Array.data[0]
@@ -62718,11 +62838,11 @@ PrefabInstance:
     - target: {fileID: 5826112255265227224, guid: 5044eed0edf8cd94ab09a77d1477a4b7, type: 3}
       propertyPath: actions.Array.data[11]
       value: 
-      objectReference: {fileID: 659217318}
+      objectReference: {fileID: 1527827788}
     - target: {fileID: 5826112255265227224, guid: 5044eed0edf8cd94ab09a77d1477a4b7, type: 3}
       propertyPath: actions.Array.data[12]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 838605573}
     - target: {fileID: 5826112255265227224, guid: 5044eed0edf8cd94ab09a77d1477a4b7, type: 3}
       propertyPath: actions.Array.data[13]
       value: 
