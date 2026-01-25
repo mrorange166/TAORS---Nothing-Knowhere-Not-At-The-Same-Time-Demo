@@ -59,4 +59,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Adventures Of R Sole/Scenes/EndGameCredit.unity
     guid: cef677d835c01604aa9ff259420c10a0
+  - enabled: 1
+    path: Assets/Adventures Of R Sole/Scenes/OpenGameCredit.unity
+    guid: 3efed4e2131664e4b9ee7fc1dbdde4f5
   m_configObjects: {}

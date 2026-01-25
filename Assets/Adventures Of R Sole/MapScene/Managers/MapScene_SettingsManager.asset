@@ -58,7 +58,7 @@ MonoBehaviour:
   - playerOb: {fileID: 6805682791282861513, guid: d63b1752575cb5241be862ab62bddb55, type: 3}
     ID: 4
     isDefault: 0
-    startingSceneIndex: 9
+    startingSceneIndex: 8
     chooseSceneBy: 0
     startingSceneName: 
     useSceneDefaultPlayerStart: 1
