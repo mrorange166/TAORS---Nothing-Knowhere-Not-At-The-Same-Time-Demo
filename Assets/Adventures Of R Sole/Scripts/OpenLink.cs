@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class OpenLink : MonoBehaviour
 {
-    public void OpenFacebookLink()
+    public void OpenLinks()
     {
-        Application.OpenURL("https://www.facebook.com/profile.php?id=100091919088112");
+        Application.OpenURL("https://store.steampowered.com/app/4104670/The_Adventures_Of_RSole_Nothing_Nowhere__Not_At_The_Same_Time/");
     }
 
 }
