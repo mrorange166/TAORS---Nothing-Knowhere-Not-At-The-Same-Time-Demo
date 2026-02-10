@@ -22418,8 +22418,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 1155.134
-    y: 643.4001
+    x: 1067.9341
+    y: 664.2001
     width: 300
     height: 164
   overrideColor: {r: 1, g: 1, b: 1, a: 1}

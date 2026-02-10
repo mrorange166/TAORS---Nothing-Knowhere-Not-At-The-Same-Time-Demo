@@ -4740,7 +4740,7 @@ MonoBehaviour:
   ID: 0
   title: Button
   slotSize: {x: 30, y: 11.851851}
-  sizeType: 0
+  sizeType: 1
   positionType: 0
   slotSpacing: 0
   lineID: -1

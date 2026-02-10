@@ -51432,7 +51432,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chooseSceneBy: 0
-  previousScene: 13
+  previousScene: 10
   previousSceneName: 
   fadeInOnStart: 0
   fadeSpeed: 0.5
@@ -51714,8 +51714,8 @@ Transform:
   m_GameObject: {fileID: 3593242266132689544}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.33860865, w: 0.9409274}
-  m_LocalPosition: {x: -4.98, y: -1.01, z: 0}
-  m_LocalScale: {x: 0.7313, y: 0.7313, z: 0.7313}
+  m_LocalPosition: {x: -4.9837, y: -1.0131, z: 0}
+  m_LocalScale: {x: 0.76874256, y: 0.7313, z: 0.7313}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1174349285}
