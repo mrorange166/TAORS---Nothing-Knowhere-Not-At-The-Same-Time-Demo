@@ -33,8 +33,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 16.399994
-    y: 1352.4005
+    x: 14
+    y: 1972
     width: 300
     height: 248
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -85,8 +85,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 431.4236
-    y: 1427.8218
+    x: 14
+    y: 1520
     width: 300
     height: 300
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -469,8 +469,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 401.4236
-    y: 1099.8213
+    x: 14
+    y: 1230
     width: 300
     height: 260
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -559,7 +559,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 1112.8003
+    y: 1850
     width: 300
     height: 92
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -600,8 +600,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 401.06354
-    y: 911.8212
+    x: 14
+    y: 1040
     width: 300
     height: 160
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
