@@ -792,7 +792,7 @@ MonoBehaviour:
     isUpgraded: 1
   angleSnapping: 0
   walkSpeedScale: 4
-  runSpeedScale: 8
+  runSpeedScale: 9
   reverseSpeedFactor: 1
   canRunInReverse: 1
   turnSpeed: 5
