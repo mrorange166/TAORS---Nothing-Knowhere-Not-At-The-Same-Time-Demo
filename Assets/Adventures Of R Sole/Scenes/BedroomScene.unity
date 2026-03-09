@@ -1663,7 +1663,7 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 3164
+    x: 3171.2
     y: 7074
     width: 300
     height: 232
@@ -1672,7 +1672,7 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 7312398058970264698}
   fadeType: 0
   isInstant: 0
-  fadeSpeed: 5
+  fadeSpeed: 2
   fadeSpeedParameterID: -1
   setTexture: 0
   tempTexture: {fileID: 0}
@@ -7869,7 +7869,7 @@ MonoBehaviour:
     x: 2114
     y: 5468
     width: 300
-    height: 220
+    height: 216
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 5306884651048657439}
@@ -17217,7 +17217,7 @@ MonoBehaviour:
     x: 14
     y: 600
     width: 300
-    height: 220
+    height: 216
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 7312398058970264698}
@@ -17468,11 +17468,11 @@ MonoBehaviour:
     x: 2114
     y: 7230.4004
     width: 300
-    height: 152
+    height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 5306884651048657439}
-  objectiveID: 10
+  objectiveID: 0
   newStateID: 0
   selectAfter: 0
   playerID: 0
@@ -26397,7 +26397,7 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 7312398058970264698}
   fadeType: 1
   isInstant: 0
-  fadeSpeed: 5
+  fadeSpeed: 2
   fadeSpeedParameterID: -1
   setTexture: 0
   tempTexture: {fileID: 0}
@@ -34806,7 +34806,7 @@ MonoBehaviour:
     x: 14
     y: 216
     width: 300
-    height: 220
+    height: 216
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 5306884651048657439}

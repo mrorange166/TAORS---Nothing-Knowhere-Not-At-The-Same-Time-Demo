@@ -792,14 +792,14 @@ MonoBehaviour:
     isUpgraded: 1
   angleSnapping: 0
   walkSpeedScale: 4
-  runSpeedScale: 4
+  runSpeedScale: 8
   reverseSpeedFactor: 1
   canRunInReverse: 1
   turnSpeed: 5
   acceleration: 10
-  deceleration: 5
-  turnBeforeWalking: 1
-  runDistanceThreshold: 1
+  deceleration: 7
+  turnBeforeWalking: 0
+  runDistanceThreshold: 0
   antiGlideMode: 0
   retroPathfinding: 1
   ignoreGravity: 1

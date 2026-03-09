@@ -7691,7 +7691,7 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 3692475668324949427}
   fadeType: 0
   isInstant: 0
-  fadeSpeed: 10
+  fadeSpeed: 5
   fadeSpeedParameterID: -1
   setTexture: 0
   tempTexture: {fileID: 0}
@@ -15886,7 +15886,7 @@ MonoBehaviour:
   constantID: 0
   parameterID: -1
   linkedCamera: {fileID: 4913162280531078708}
-  transitionTime: 10
+  transitionTime: 5
   transitionTimeParameterID: -1
   timeCurve:
     serializedVersion: 2
