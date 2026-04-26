@@ -13879,9 +13879,9 @@ MonoBehaviour:
   isClickable: 1
   orientation: 1
   gridWidth: 3
-  backgroundTexture: {fileID: 2800000, guid: db95b42844f9deb41857962ef64cedbd, type: 3}
+  backgroundTexture: {fileID: 2800000, guid: 331445dcee58eea4eb299445a795ec5a, type: 3}
   singleSlotBackgrounds: 0
-  highlightTexture: {fileID: 2800000, guid: b7db21d056dc4084689db2f8e32d6ded, type: 3}
+  highlightTexture: {fileID: 2800000, guid: c5c921cff66ce1c469db9c74d0bc94c7, type: 3}
   hoverSound: {fileID: 8300000, guid: de496ce564bb3eb40aaad17bd7db4171, type: 3}
   clickSound: {fileID: 0}
   changeCursor: 1
