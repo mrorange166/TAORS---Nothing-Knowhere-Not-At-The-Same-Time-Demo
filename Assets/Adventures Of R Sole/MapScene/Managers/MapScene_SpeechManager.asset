@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scrollSubtitles: 0
   scrollNarration: 0
-  textScrollSpeed: 0
+  textScrollSpeed: 70
   textScrollCLip: {fileID: 0}
   narrationTextScrollCLip: {fileID: 0}
   playScrollAudioEveryCharacter: 1
   speechScrollAudioSource: 0
-  waitTimeOffset: 0.5
+  waitTimeOffset: 1
   displayForever: 1
   displayNarrationForever: 0
   playAnimationForever: 1

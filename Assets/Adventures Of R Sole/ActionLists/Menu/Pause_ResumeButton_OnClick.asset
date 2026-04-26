@@ -16,7 +16,7 @@ MonoBehaviour:
   isDisplayed: 1
   showComment: 0
   comment: 
-  willWait: 1
+  willWait: 0
   endAction: 0
   skipAction: -1
   skipActionActual: {fileID: 0}
@@ -202,7 +202,7 @@ MonoBehaviour:
   isDisplayed: 1
   showComment: 0
   comment: 
-  willWait: 1
+  willWait: 0
   endAction: 0
   skipAction: -1
   skipActionActual: {fileID: 0}

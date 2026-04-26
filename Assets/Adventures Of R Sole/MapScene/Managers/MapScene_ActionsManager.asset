@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: MapScene_ActionsManager
   m_EditorClassIdentifier: 
   customFolderPaths:
+  - Adventures Of R Sole/ScreenResActionScript
   - 
   allFavouriteActionData: []
   displayActionsInInspector: 1
@@ -287,6 +288,18 @@ MonoBehaviour:
     title: Open
     description: 'Opens a document, causing any Menu of ''Appear type: On View Document''
       to open.'
+    isEnabled: 1
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - fileName: ActionApplyResolution
+    category: 6
+    title: Apply Resolution
+    description: This is a blank Action template.
+    isEnabled: 1
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - fileName: FullScreenScript
+    category: 6
+    title: Apply Screen Change
+    description: 
     isEnabled: 1
     color: {r: 1, g: 1, b: 1, a: 1}
   - fileName: ActionTimescale

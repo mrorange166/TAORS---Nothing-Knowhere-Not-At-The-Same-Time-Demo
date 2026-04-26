@@ -34,7 +34,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 1992
+    y: 2242
     width: 300
     height: 269
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -46,7 +46,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 0}
-  messageText: 'There he is. That''s the guy who stole the battery and took my glove! '
+  messageText: 'There he is. That''s the guy who stole the battery and stole my collectable. '
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -94,7 +94,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 1850
+    y: 2100
     width: 300
     height: 112
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -270,7 +270,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 714
-    y: 2461
+    y: 2711
     width: 300
     height: 280
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -345,7 +345,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 3596.6
+    y: 3846.6
     width: 300
     height: 112
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -386,8 +386,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 726.4
-    y: 3689.333
+    x: 364
+    y: 3988.6
     width: 300
     height: 252
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -462,12 +462,12 @@ MonoBehaviour:
     x: 14
     y: 492
     width: 300
-    height: 248
+    height: 268
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
   obToMoveParameterID: -1
-  obToMoveID: 20880
+  obToMoveID: 44260
   obToMove: {fileID: 0}
   markerParameterID: -1
   markerID: 44262
@@ -523,7 +523,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 892
+    y: 912
     width: 300
     height: 112
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -576,7 +576,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 770
+    y: 790
     width: 300
     height: 92
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -725,8 +725,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 721.60004
-    y: 1307.7328
+    x: 364
+    y: 1310
     width: 300
     height: 220
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -864,7 +864,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 3258.6
+    y: 3508.6
     width: 300
     height: 308
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -922,7 +922,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 3738.6
+    y: 4270.6
     width: 300
     height: 248
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -974,7 +974,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 1520
+    y: 1770
     width: 300
     height: 300
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1063,7 +1063,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 2987.6
+    y: 3237.6
     width: 300
     height: 241
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1075,7 +1075,8 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: What do you mean your glove?! Screw it. I don't like it in here anyway.
+  messageText: What do you mean your collectable?! Screw it. I don't like it in here
+    anyway.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -1123,7 +1124,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 2745.6
+    y: 2995.6
     width: 300
     height: 212
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1172,7 +1173,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 1310
+    y: 1560
     width: 300
     height: 180
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1330,7 +1331,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 2291
+    y: 2541
     width: 300
     height: 140
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1371,7 +1372,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 2461
+    y: 2711
     width: 300
     height: 254.6
   overrideColor: {r: 1, g: 1, b: 1, a: 1}

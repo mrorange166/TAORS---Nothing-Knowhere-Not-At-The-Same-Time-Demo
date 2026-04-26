@@ -96,8 +96,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 334.40002
-    y: 1616.0001
+    x: 364
+    y: 1724
     width: 300
     height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -169,8 +169,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 742.4
-    y: 3725.9597
+    x: 364
+    y: 4357.2
     width: 300
     height: 248
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -268,8 +268,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 20
-    skipActionActual: {fileID: 8961215291320487238}
+    skipAction: 25
+    skipActionActual: {fileID: 294087129072721703}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -277,8 +277,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 720.39996
-    y: 1972.6003
+    x: 364
+    y: 2296
     width: 300
     height: 300
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -367,7 +367,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 3475.0002
+    y: 4115
     width: 300
     height: 212.2
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -476,9 +476,9 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 2228.2
+    y: 2868.2
     width: 300
-    height: 254.6
+    height: 274.6
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -541,7 +541,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 3020.4001
+    y: 3660.4001
     width: 300
     height: 140
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -584,7 +584,7 @@ MonoBehaviour:
     x: 364
     y: 1514
     width: 300
-    height: 180
+    height: 220
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -780,7 +780,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 4439.2
+    y: 5357.2
     width: 300
     height: 248
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -834,7 +834,7 @@ MonoBehaviour:
     x: 14
     y: 414
     width: 300
-    height: 268
+    height: 248
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -894,8 +894,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 700
-    y: 1675.0001
+    x: 364
+    y: 1986
     width: 300
     height: 280
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -984,7 +984,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 4257.2
+    y: 5175.2
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1033,6 +1033,8 @@ MonoBehaviour:
   - {fileID: -1883353784975185932}
   - {fileID: -5326732548670775693}
   - {fileID: -7454344494000554769}
+  - {fileID: 294087129072721703}
+  - {fileID: 5130390215765242761}
   isSkippable: 1
   actionListType: 0
   unfreezePauseMenus: 1
@@ -1043,6 +1045,59 @@ MonoBehaviour:
   parameters: []
   tagID: 0
   backupData: []
+--- !u!114 &294087129072721703
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74813bf97090c47b39d9f3d0ec84a80b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 0
+    skipAction: 6
+    skipActionActual: {fileID: 5288637920749506462}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 696
+    y: 2436.4155
+    width: 300
+    height: 132
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  changeType: 3
+  removeJournalPageMethod: 0
+  menuToChange: Hintlog3
+  menuToChangeParameterID: -1
+  elementToChange: Avoid the cop
+  elementToChangeParameterID: -1
+  journalText: 
+  onlyAddNewJournal: 0
+  doFade: 0
+  lineID: -1
+  journalPageIndex: -1
+  journalPageIndexParameterID: -1
+  preprocessTextTokens: 0
 --- !u!114 &4153540309760308586
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1077,7 +1132,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 2763.8
+    y: 3403.8
     width: 300
     height: 226.6
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1190,6 +1245,59 @@ MonoBehaviour:
   obToAffect: {fileID: 0}
   affectChildren: 0
   visState: 0
+--- !u!114 &5130390215765242761
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74813bf97090c47b39d9f3d0ec84a80b, type: 3}
+  m_Name: (Clone)
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 20
+    skipActionActual: {fileID: 8961215291320487238}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 696.39996
+    y: 2610.8154
+    width: 300
+    height: 152
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  changeType: 3
+  removeJournalPageMethod: 0
+  menuToChange: Hintlog3
+  menuToChangeParameterID: -1
+  elementToChange: CopDesc
+  elementToChangeParameterID: -1
+  journalText: 
+  onlyAddNewJournal: 0
+  doFade: 0
+  lineID: -1
+  journalPageIndex: -1
+  journalPageIndexParameterID: -1
+  preprocessTextTokens: 0
 --- !u!114 &5288637920749506462
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1224,7 +1332,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 3717.2002
+    y: 4635.2
     width: 300
     height: 308
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1282,7 +1390,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 2512.8
+    y: 3152.8
     width: 300
     height: 221
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1342,7 +1450,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 4055.2002
+    y: 4973.2
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1412,7 +1520,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 714
-    y: 3190.4001
+    y: 3830.4001
     width: 300
     height: 280
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1487,7 +1595,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 3190.4001
+    y: 3830.4001
     width: 300
     height: 254.6
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1547,7 +1655,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 1986
+    y: 2626
     width: 300
     height: 212.2
   overrideColor: {r: 1, g: 1, b: 1, a: 1}

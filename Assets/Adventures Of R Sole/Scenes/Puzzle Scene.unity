@@ -1064,8 +1064,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 7
-    skipActionActual: {fileID: 1405062684}
+    skipAction: 6
+    skipActionActual: {fileID: 310021986}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -1225,16 +1225,16 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 1256
+    y: 1074
     width: 300
-    height: 192
+    height: 212
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 4856755550312059525}
   constantID: 0
   parameterID: -1
   soundObject: {fileID: 2089305677}
-  audioClip: {fileID: 8300000, guid: a16ed4dfb6d023745bf8a6e5e6933e34, type: 3}
+  audioClip: {fileID: 8300000, guid: abb0395b540b7764c8c61ce51dbb3112, type: 3}
   audioClipParameterID: -1
   fadeTime: 0
   loop: 1
@@ -1781,7 +1781,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 364
-    y: 1478
+    y: 1316
     width: 300
     height: 212
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -2184,7 +2184,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 8
+    skipAction: 7
     skipActionActual: {fileID: 1581637337}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -2348,53 +2348,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 8099195265264269832, guid: a7e82aff20d741d4a88850ae15db3f3d, type: 3}
   m_PrefabInstance: {fileID: 462318650}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1405062684
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1b61c36e54c4745609facf37c5cf262e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 6
-    skipActionActual: {fileID: 310021986}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 364
-    y: 1074
-    width: 300
-    height: 152
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 4856755550312059525}
-  constantID: 0
-  parameterID: -1
-  soundObject: {fileID: 2089305677}
-  newRelativeVolume: 0.05
-  newRelativeVolumeParameterID: -1
-  changeTime: 0
-  changeTimeParameterID: -1
 --- !u!114 &1411285585
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3204,6 +3157,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cloud Background
       objectReference: {fileID: 0}
+    - target: {fileID: 7010707017342562474, guid: 716ee46d7a682d34382d36b657c828c5, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8498083046777006421, guid: 716ee46d7a682d34382d36b657c828c5, type: 3}
+      propertyPath: soundType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8498083046777006421, guid: 716ee46d7a682d34382d36b657c828c5, type: 3}
+      propertyPath: relativeVolume
+      value: 0.3
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2548095086820314586, guid: 716ee46d7a682d34382d36b657c828c5, type: 3}
     m_RemovedGameObjects: []
@@ -3703,7 +3668,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2891478785066859959, guid: 5b13139444be284408ec16b71e80de7d, type: 3}
       propertyPath: actions.Array.size
-      value: 10
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 2891478785066859959, guid: 5b13139444be284408ec16b71e80de7d, type: 3}
       propertyPath: actions.Array.data[0]
@@ -3736,11 +3701,11 @@ PrefabInstance:
     - target: {fileID: 2891478785066859959, guid: 5b13139444be284408ec16b71e80de7d, type: 3}
       propertyPath: actions.Array.data[7]
       value: 
-      objectReference: {fileID: 1405062684}
+      objectReference: {fileID: 1581637337}
     - target: {fileID: 2891478785066859959, guid: 5b13139444be284408ec16b71e80de7d, type: 3}
       propertyPath: actions.Array.data[8]
       value: 
-      objectReference: {fileID: 1581637337}
+      objectReference: {fileID: 184581357}
     - target: {fileID: 2891478785066859959, guid: 5b13139444be284408ec16b71e80de7d, type: 3}
       propertyPath: actions.Array.data[9]
       value: 

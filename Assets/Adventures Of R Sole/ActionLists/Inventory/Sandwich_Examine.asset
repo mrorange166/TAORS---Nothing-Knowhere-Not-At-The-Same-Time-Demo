@@ -215,7 +215,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: 'A left over ham salad sandwich. '
+  messageText: 'A left over chicken salad sandwich. '
   lineID: -1
   multiLineIDs: 
   isBackground: 0

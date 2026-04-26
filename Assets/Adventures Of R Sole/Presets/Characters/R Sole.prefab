@@ -513,6 +513,7 @@ GameObject:
   - component: {fileID: 8621181141839066121}
   - component: {fileID: 1962889519798089379}
   - component: {fileID: 4991336307148070780}
+  - component: {fileID: 7046827057632880037}
   m_Layer: 2
   m_Name: R Sole
   m_TagString: Untagged
@@ -791,15 +792,15 @@ MonoBehaviour:
       maxAngle: 337.5
     isUpgraded: 1
   angleSnapping: 0
-  walkSpeedScale: 4
-  runSpeedScale: 9
+  walkSpeedScale: 5
+  runSpeedScale: 10
   reverseSpeedFactor: 1
   canRunInReverse: 1
   turnSpeed: 5
   acceleration: 10
-  deceleration: 7
-  turnBeforeWalking: 0
-  runDistanceThreshold: 0
+  deceleration: 8
+  turnBeforeWalking: 1
+  runDistanceThreshold: 1
   antiGlideMode: 0
   retroPathfinding: 1
   ignoreGravity: 1
@@ -900,6 +901,22 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.5
+--- !u!114 &7046827057632880037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8621181141839066356}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60b4eb4f7c25d49f09c85775a62a57f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  useDefaultTintMap: 1
+  tintMap: {fileID: 0}
+  intensity: 1
+  affectChildren: 1
 --- !u!1 &8621181141875483532
 GameObject:
   m_ObjectHideFlags: 0

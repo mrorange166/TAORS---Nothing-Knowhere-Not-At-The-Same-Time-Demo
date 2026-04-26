@@ -1,5 +1,75 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7195624391386018082
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0f86ace5fdd94f0a86553230ec9308f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 4
+    skipActionActual: {fileID: -6717945499859761329}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 1992
+    width: 300
+    height: 172
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  setVarMethod: 0
+  setVarMethodString: 0
+  setVarMethodIntBool: 0
+  setVarMethodVector: 0
+  parameterID: -1
+  variableID: 56
+  variableNumber: 56
+  setParameterID: -1
+  slotNumber: 0
+  slotNumberParameterID: -1
+  slotAccountsForOffset: 0
+  doLoop: 0
+  intValue: 0
+  floatValue: 0
+  boolValue: 1
+  stringValue: 
+  formula: 
+  vector3Value: {x: 0, y: 0, z: 0}
+  gameObjectValue: {fileID: 0}
+  unityObjectValue: {fileID: 0}
+  lineID: -1
+  location: 0
+  menuName: 
+  elementName: 
+  animator: {fileID: 0}
+  parameterName: 
+  variables: {fileID: 0}
+  variablesConstantID: 0
+  placeholderType: 0
+  placeholderPopUpLabelDataID: -1
 --- !u!114 &-6717945499859761329
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -34,14 +104,14 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 1972
+    y: 2194
     width: 300
     height: 248
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
   chooseSceneBy: 0
-  sceneNumber: 14
+  sceneNumber: 8
   sceneNumberParameterID: -1
   sceneName: 
   sceneNameParameterID: -1
@@ -52,95 +122,6 @@ MonoBehaviour:
   relativeMarkerID: 0
   relativeMarkerParameterID: -1
   forceReload: 0
---- !u!114 &-3210113344401515314
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f639be51345dd4ab29e6441abd4a9780, type: 3}
-  m_Name: (Clone)
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 3
-    skipActionActual: {fileID: 7412684115139624403}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 1
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 14
-    y: 1520
-    width: 300
-    height: 300
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  isPlayer: 0
-  playerID: -1
-  markerParameterID: -1
-  markerID: 0
-  marker: {fileID: 0}
-  scaleDuration: 0
-  doEulerRotation: 0
-  clearExisting: 0
-  inWorldSpace: 0
-  timeCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    - serializedVersion: 3
-      time: 1
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  parameterID: -1
-  constantID: 22884
-  linkedProp: {fileID: 0}
-  setVectorMethod: 0
-  newVectorParameterID: -1
-  newVector: {x: -2.89, y: 0, z: 0}
-  vectorVarParameterID: -1
-  vectorVarID: 0
-  variableLocation: 0
-  transitionTime: 0
-  transitionTimeParameterID: -1
-  transformType: 0
-  moveMethod: 0
-  toBy: 0
-  variables: {fileID: 0}
-  variablesConstantID: 0
 --- !u!114 &-2409710430577004429
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -241,6 +222,95 @@ MonoBehaviour:
   journalPageIndex: -1
   journalPageIndexParameterID: -1
   preprocessTextTokens: 0
+--- !u!114 &-562376207877171602
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f639be51345dd4ab29e6441abd4a9780, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 0
+    skipAction: 3
+    skipActionActual: {fileID: 7412684115139624403}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 1250
+    width: 300
+    height: 260
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  isPlayer: 0
+  playerID: -1
+  markerParameterID: -1
+  markerID: 0
+  marker: {fileID: 0}
+  scaleDuration: 0
+  doEulerRotation: 0
+  clearExisting: 1
+  inWorldSpace: 0
+  timeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  parameterID: -1
+  constantID: 22884
+  linkedProp: {fileID: 0}
+  setVectorMethod: 0
+  newVectorParameterID: -1
+  newVector: {x: 6, y: 6, z: 6}
+  vectorVarParameterID: -1
+  vectorVarID: 0
+  variableLocation: 0
+  transitionTime: 0
+  transitionTimeParameterID: -1
+  transformType: 2
+  moveMethod: 0
+  toBy: 0
+  variables: {fileID: 0}
+  variablesConstantID: 0
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -261,9 +331,10 @@ MonoBehaviour:
   - {fileID: -6717945499859761329}
   - {fileID: -2409710430577004429}
   - {fileID: 5833224095917770144}
-  - {fileID: 8783332980445847120}
-  - {fileID: 6235455552303468728}
-  - {fileID: -3210113344401515314}
+  - {fileID: 1500157431538620722}
+  - {fileID: -562376207877171602}
+  - {fileID: 1716119366519831541}
+  - {fileID: -7195624391386018082}
   isSkippable: 1
   actionListType: 0
   unfreezePauseMenus: 1
@@ -274,6 +345,140 @@ MonoBehaviour:
   parameters: []
   tagID: 0
   backupData: []
+--- !u!114 &1500157431538620722
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d33593da7d3524e1998da7151086b1b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 8
+    skipActionActual: {fileID: -562376207877171602}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 1040
+    width: 300
+    height: 180
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  parameterID: -1
+  constantID: 77658
+  obToAffect: {fileID: 0}
+  affectChildren: 0
+  visState: 0
+--- !u!114 &1716119366519831541
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f639be51345dd4ab29e6441abd4a9780, type: 3}
+  m_Name: (Clone)
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 3
+    skipActionActual: {fileID: 7412684115139624403}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 1540
+    width: 300
+    height: 280
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  isPlayer: 0
+  playerID: -1
+  markerParameterID: -1
+  markerID: 0
+  marker: {fileID: 0}
+  scaleDuration: 0
+  doEulerRotation: 0
+  clearExisting: 0
+  inWorldSpace: 0
+  timeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  parameterID: -1
+  constantID: 22884
+  linkedProp: {fileID: 0}
+  setVectorMethod: 0
+  newVectorParameterID: -1
+  newVector: {x: -2.89, y: 0, z: 0}
+  vectorVarParameterID: -1
+  vectorVarID: 0
+  variableLocation: 0
+  transitionTime: 0
+  transitionTimeParameterID: -1
+  transformType: 2
+  moveMethod: 0
+  toBy: 0
+  variables: {fileID: 0}
+  variablesConstantID: 0
 --- !u!114 &5616266328082212172
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -341,7 +546,7 @@ MonoBehaviour:
   endings:
   - resultAction: 2
     skipAction: 7
-    skipActionActual: {fileID: 8783332980445847120}
+    skipActionActual: {fileID: 1500157431538620722}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -436,95 +641,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &6235455552303468728
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f639be51345dd4ab29e6441abd4a9780, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 0
-    skipAction: 3
-    skipActionActual: {fileID: 7412684115139624403}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 1
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 14
-    y: 1230
-    width: 300
-    height: 260
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  isPlayer: 0
-  playerID: -1
-  markerParameterID: -1
-  markerID: 0
-  marker: {fileID: 0}
-  scaleDuration: 0
-  doEulerRotation: 0
-  clearExisting: 0
-  inWorldSpace: 0
-  timeCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    - serializedVersion: 3
-      time: 1
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  parameterID: -1
-  constantID: 22884
-  linkedProp: {fileID: 0}
-  setVectorMethod: 0
-  newVectorParameterID: -1
-  newVector: {x: 6, y: 6, z: 6}
-  vectorVarParameterID: -1
-  vectorVarID: 0
-  variableLocation: 0
-  transitionTime: 0
-  transitionTimeParameterID: -1
-  transformType: 2
-  moveMethod: 0
-  toBy: 0
-  variables: {fileID: 0}
-  variablesConstantID: 0
 --- !u!114 &7412684115139624403
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -548,9 +664,9 @@ MonoBehaviour:
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 0
-    skipAction: -1
-    skipActionActual: {fileID: 0}
+  - resultAction: 2
+    skipAction: 10
+    skipActionActual: {fileID: -7195624391386018082}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -561,54 +677,9 @@ MonoBehaviour:
     x: 14
     y: 1850
     width: 300
-    height: 92
+    height: 112
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
   parameterID: -1
   timeToPause: 2
---- !u!114 &8783332980445847120
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d33593da7d3524e1998da7151086b1b3, type: 3}
-  m_Name: (Clone)
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 0
-    skipAction: 3
-    skipActionActual: {fileID: 7412684115139624403}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 1
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 14
-    y: 1040
-    width: 300
-    height: 160
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  parameterID: -1
-  constantID: 77658
-  obToAffect: {fileID: 0}
-  affectChildren: 0
-  visState: 0

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Loading_TurnOn
   m_EditorClassIdentifier: 
   actions:
-  - {fileID: 7335961161995437614}
+  - {fileID: 3839008885944145289}
   isSkippable: 1
   actionListType: 0
   unfreezePauseMenus: 1
@@ -24,7 +24,7 @@ MonoBehaviour:
   parameters: []
   tagID: 0
   backupData: []
---- !u!114 &7335961161995437614
+--- !u!114 &3839008885944145289
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -65,4 +65,4 @@ MonoBehaviour:
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
   parameterID: -1
-  timeToPause: 2
+  timeToPause: 1

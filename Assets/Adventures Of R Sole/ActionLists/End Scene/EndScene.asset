@@ -377,7 +377,7 @@ MonoBehaviour:
     x: 14
     y: 12222.602
     width: 300
-    height: 192.2
+    height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -2674,7 +2674,7 @@ MonoBehaviour:
     x: 14
     y: 14838.002
     width: 300
-    height: 277.8
+    height: 265
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -2805,6 +2805,7 @@ MonoBehaviour:
   - {fileID: -3032805758236816856}
   - {fileID: 6454982957387055517}
   - {fileID: -4139612558928812904}
+  - {fileID: 8223871660897398749}
   isSkippable: 1
   actionListType: 0
   unfreezePauseMenus: 1
@@ -3194,7 +3195,7 @@ MonoBehaviour:
     x: 14
     y: 13517.602
     width: 300
-    height: 312.2
+    height: 300
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -3484,7 +3485,7 @@ MonoBehaviour:
     x: 14
     y: 15439.202
     width: 300
-    height: 249
+    height: 250
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -3659,7 +3660,7 @@ MonoBehaviour:
     x: 14
     y: 10443.4
     width: 300
-    height: 212.2
+    height: 212
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -3719,7 +3720,7 @@ MonoBehaviour:
     x: 14
     y: 11343.201
     width: 300
-    height: 283.4
+    height: 285
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -3867,7 +3868,7 @@ MonoBehaviour:
     x: 14
     y: 10827.601
     width: 300
-    height: 192.2
+    height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -4164,7 +4165,7 @@ MonoBehaviour:
     x: 14
     y: 15718.202
     width: 300
-    height: 297.8
+    height: 300
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -4375,7 +4376,7 @@ MonoBehaviour:
     x: 14
     y: 12444.802
     width: 300
-    height: 254.6
+    height: 255
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -4435,7 +4436,7 @@ MonoBehaviour:
     x: 14
     y: 8140.8003
     width: 300
-    height: 269
+    height: 270
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -4496,7 +4497,7 @@ MonoBehaviour:
     x: 14
     y: 13295.401
     width: 300
-    height: 192.2
+    height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -4617,8 +4618,8 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 42
-    skipActionActual: {fileID: 6156014536074193821}
+    skipAction: 93
+    skipActionActual: {fileID: 8223871660897398749}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -4839,7 +4840,7 @@ MonoBehaviour:
     x: 14
     y: 8863.801
     width: 300
-    height: 192.2
+    height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -5080,6 +5081,60 @@ MonoBehaviour:
   hotspot: {fileID: 0}
   affectChildren: 0
   changeType: 1
+--- !u!114 &8223871660897398749
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3e7520fdcc044e6c96008328a357eb7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 42
+    skipActionActual: {fileID: 6156014536074193821}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 326.4
+    y: 7974.9995
+    width: 300
+    height: 260
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  constantID: 28590
+  parameterID: -1
+  isPlayer: 0
+  playerID: -1
+  playerParameterID: -1
+  linkedObject: {fileID: 0}
+  affectChildren: 0
+  messageToSend: 4
+  customMessageParameterID: -1
+  customMessage: UnlockAchievement
+  sendValue: 0
+  customValueParameterID: -1
+  customValue: 0
+  ignoreWhenSkipping: 0
 --- !u!114 &8307504823334497644
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5161,7 +5216,7 @@ MonoBehaviour:
     x: 14
     y: 15145.802
     width: 300
-    height: 263.4
+    height: 265
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -5390,7 +5445,7 @@ MonoBehaviour:
     x: 14
     y: 10178.801
     width: 300
-    height: 234.6
+    height: 220
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -5450,7 +5505,7 @@ MonoBehaviour:
     x: 14
     y: 11049.801
     width: 300
-    height: 263.4
+    height: 265
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}

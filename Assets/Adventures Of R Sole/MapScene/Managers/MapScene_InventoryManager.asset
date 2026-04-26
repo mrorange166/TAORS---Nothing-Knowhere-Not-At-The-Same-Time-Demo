@@ -15,7 +15,7 @@ MonoBehaviour:
   items:
   - label: Keys
     id: 0
-    altLabel: Keys
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -71,7 +71,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Hat
     id: 1
-    altLabel: Hat
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -127,14 +127,14 @@ MonoBehaviour:
     showInFilter: 1
   - label: Battery
     id: 2
-    altLabel: Battery
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
     canCarryMultiple: 0
     count: 1
-    canBeLowerCase: 0
+    canBeLowerCase: 1
     maxCount: 999
     itemStackingMode: 0
     tex: {fileID: 2800000, guid: 8fcee4271c1d07a42a79ac15da403244, type: 3}
@@ -183,7 +183,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Battery (End)
     id: 16
-    altLabel: Battery
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -239,7 +239,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Glove
     id: 3
-    altLabel: Glove
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -295,7 +295,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Decaf Coffee
     id: 4
-    altLabel: Decaf Coffee
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -351,7 +351,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Pep Pills
     id: 5
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -411,7 +411,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Mints
     id: 6
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -471,7 +471,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Manny's Mug
     id: 7
-    altLabel: Manny's Mug
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -527,7 +527,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Manny's Decaf Coffee
     id: 8
-    altLabel: Manny's Decaf Coffee
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -583,7 +583,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Manny's Pep Pills (Mint)
     id: 9
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -639,7 +639,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Manny's Mug (2nd)
     id: 10
-    altLabel: Manny's Mug
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -695,7 +695,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Walkie-Talkie
     id: 11
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -751,7 +751,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Walkie-Talkie(End)
     id: 17
-    altLabel: Walkie-Talkie
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -807,7 +807,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Camera Lens
     id: 12
-    altLabel: Camera Lens
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -863,7 +863,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Camera Lens (End)
     id: 18
-    altLabel: Camera Lens
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -919,7 +919,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: MopHead
     id: 13
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -975,7 +975,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Scarf
     id: 14
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -1031,7 +1031,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Mobile Phone
     id: 15
-    altLabel: My Mobile
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 1
     carryOnStartIDs: 0000000002000000
@@ -1087,7 +1087,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Demon Fur-Baby
     id: 19
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -1143,7 +1143,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Prime-Lock
     id: 20
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -1199,7 +1199,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Spoon Blade
     id: 21
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -1255,7 +1255,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Almanac
     id: 22
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -1311,7 +1311,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Cleaner
     id: 23
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -1367,7 +1367,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Wheelbarrow
     id: 24
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -1423,7 +1423,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Sandwich Token
     id: 25
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -1479,7 +1479,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Screwdriver
     id: 26
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -1535,7 +1535,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Pipe
     id: 27
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -1591,7 +1591,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Sandwich
     id: 28
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -1647,7 +1647,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Meat
     id: 29
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -1703,7 +1703,7 @@ MonoBehaviour:
     showInFilter: 1
   - label: Wooden Stick
     id: 30
-    altLabel: 
+    altLabel: ' '
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
@@ -1760,9 +1760,168 @@ MonoBehaviour:
   bins: []
   invVars: []
   unhandledCombine: {fileID: 11400000, guid: ea5258aa07b30614ab7c09cdc4b87de3, type: 2}
-  unhandledHotspot: {fileID: 11400000, guid: 812a3759822b2cf47a2d0b8022b9d525, type: 2}
+  unhandledHotspot: {fileID: 11400000, guid: ea5258aa07b30614ab7c09cdc4b87de3, type: 2}
   passUnhandledHotspotAsParameter: 0
   unhandledGive: {fileID: 0}
   recipes: []
   documents: []
-  objectives: []
+  objectives:
+  - ID: 0
+    title: Go to the Alley.
+    titleLineID: -1
+    description: 
+    descriptionLineID: -1
+    perPlayer: 0
+    texture: {fileID: 0}
+    states:
+    - ID: 0
+      label: '?'
+      labelLineID: -1
+      description: '?'
+      descriptionLineID: -1
+      stateType: 1
+    - ID: 1
+      label: Complete
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 2
+    lockStateWhenComplete: 1
+    lockStateWhenFail: 0
+  - ID: 1
+    title: RepairWang
+    titleLineID: -1
+    description: 
+    descriptionLineID: -1
+    perPlayer: 0
+    texture: {fileID: 0}
+    states:
+    - ID: 0
+      label: '?'
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 1
+    - ID: 1
+      label: Complete
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 2
+    lockStateWhenComplete: 1
+    lockStateWhenFail: 0
+  - ID: 6
+    title: "Get the aerial off Manny\u2019s Walkie-Talkie"
+    titleLineID: -1
+    description: Manny seems very attached to that walkie-talkie. How am I going
+      to get it from him?
+    descriptionLineID: -1
+    perPlayer: 0
+    texture: {fileID: 2800000, guid: b9b216295aab2e043abeb20f2e721ad7, type: 3}
+    states:
+    - ID: 0
+      label: '?'
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 1
+    - ID: 1
+      label: Complete
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 2
+    lockStateWhenComplete: 1
+    lockStateWhenFail: 0
+  - ID: 7
+    title: 'Find the phone. '
+    titleLineID: -1
+    description: I could have sworn I had my phone; I need to think. Where have I
+      been where I could have dropped it?
+    descriptionLineID: -1
+    perPlayer: 0
+    texture: {fileID: 2800000, guid: c211ce2b003bd1f47bc1122c8f2887bb, type: 3}
+    states:
+    - ID: 0
+      label: '?'
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 1
+    - ID: 1
+      label: Complete
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 2
+    lockStateWhenComplete: 1
+    lockStateWhenFail: 0
+  - ID: 8
+    title: Avoid the cop.
+    titleLineID: -1
+    description: "I can\u2019t get anywhere with that cop around. It would be a lot
+      easier if I didn\u2019t look like me now. I need to get past him somehow. "
+    descriptionLineID: -1
+    perPlayer: 0
+    texture: {fileID: 2800000, guid: 7bf52537093192b4bb6ffde90b70e4ad, type: 3}
+    states:
+    - ID: 0
+      label: '?'
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 1
+    - ID: 1
+      label: Complete
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 2
+    lockStateWhenComplete: 1
+    lockStateWhenFail: 0
+  - ID: 9
+    title: Repair Wang
+    titleLineID: -1
+    description: Right, I have all the parts I need, I best get myself back to the
+      alley.
+    descriptionLineID: -1
+    perPlayer: 0
+    texture: {fileID: 2800000, guid: f34c59262f6610248b831bf5f162e0ba, type: 3}
+    states:
+    - ID: 0
+      label: Started
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 1
+    - ID: 1
+      label: Completed
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 2
+    lockStateWhenComplete: 1
+    lockStateWhenFail: 0
+  - ID: 10
+    title: Did that really happen?
+    titleLineID: -1
+    description: "I've either lost my mind completely or something totally weird
+      happened last night... I need to go back to that alley and check\_things\_out."
+    descriptionLineID: -1
+    perPlayer: 0
+    texture: {fileID: 2800000, guid: ad6e011d007b15f47bea6141b54ed2de, type: 3}
+    states:
+    - ID: 0
+      label: Started
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 1
+    - ID: 1
+      label: Completed
+      labelLineID: -1
+      description: 
+      descriptionLineID: -1
+      stateType: 2
+    lockStateWhenComplete: 1
+    lockStateWhenFail: 0

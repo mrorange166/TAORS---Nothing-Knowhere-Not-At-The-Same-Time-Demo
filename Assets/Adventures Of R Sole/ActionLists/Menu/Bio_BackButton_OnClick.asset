@@ -51,7 +51,7 @@ MonoBehaviour:
   jumpToActionParameterID: -1
   jumpToActionActual: {fileID: 0}
   runInParallel: 1
-  isSkippable: 0
+  isSkippable: 1
   localParameters: []
   parameterIDs: 
   setParameters: 0

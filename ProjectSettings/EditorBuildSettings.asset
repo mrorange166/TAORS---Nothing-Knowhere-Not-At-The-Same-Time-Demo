@@ -29,21 +29,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Adventures Of R Sole/Scenes/MapScene.unity
     guid: d925ccc1b96a771448f5570a66babf2b
-  - enabled: 0
-    path: Assets/Adventures Of R Sole/Scenes/EndingCredits.unity
-    guid: bba3c086d4931f64ca42523588a44160
+  - enabled: 1
+    path: Assets/Adventures Of R Sole/Scenes/GameNameScene.unity
+    guid: cef677d835c01604aa9ff259420c10a0
   - enabled: 1
     path: Assets/Adventures Of R Sole/Scenes/Puzzle Scene.unity
     guid: 24a38644b9b7f2d409442bbaaf668a06
   - enabled: 1
     path: Assets/Adventures Of R Sole/Scenes/Puzzle Scene - Complete.unity
     guid: 509e7b0c2f470e64f8a53428aa2d2494
-  - enabled: 0
-    path: Assets/Adventures Of R Sole/Scenes/Park.unity
-    guid: 37759644927f4324cb6cd13d30f4f752
-  - enabled: 0
-    path: Assets/Adventures Of R Sole/Scenes/Park 2.unity
-    guid: 3168ae24363ce684297a639dc29e844a
   - enabled: 1
     path: Assets/Adventures Of R Sole/Scenes/Bathroom.unity
     guid: af7cf51806affaa4fbc89491d380ad3b
@@ -53,13 +47,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Adventures Of R Sole/Scenes/Ship Bridge.unity
     guid: ba60d392f764ead438bc902ab5e7fd65
-  - enabled: 0
-    path: Assets/Adventures Of R Sole/Scenes/Park Entrance - Day.unity
-    guid: c310e2a554c334e49aabfd0ddba3bf2f
   - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/EndGameCredit.unity
-    guid: cef677d835c01604aa9ff259420c10a0
-  - enabled: 1
-    path: Assets/Adventures Of R Sole/Scenes/OpenGameCredit.unity
-    guid: 3efed4e2131664e4b9ee7fc1dbdde4f5
+    path: Assets/Adventures Of R Sole/Scenes/EndGameScene.unity
+    guid: cf8455cad1b9a2c4ab4c1dcf94f4da8b
   m_configObjects: {}

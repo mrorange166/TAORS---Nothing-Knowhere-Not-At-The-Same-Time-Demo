@@ -240,7 +240,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: I hope i find a use for this. I don't want to carry this around with
+  messageText: I hope I find a use for this. I don't want to carry this around with
     me all night!
   lineID: -1
   multiLineIDs: 

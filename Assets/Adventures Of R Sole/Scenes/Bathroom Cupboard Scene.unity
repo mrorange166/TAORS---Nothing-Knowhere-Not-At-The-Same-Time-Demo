@@ -270,8 +270,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 384
-    y: 32.600006
+    x: 14
+    y: 512.8
     width: 300
     height: 192.2
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -612,8 +612,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 37.59999
-    y: 253.4
+    x: 14
+    y: 256.2
     width: 300
     height: 221
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -767,66 +767,6 @@ MonoBehaviour:
   journalPageIndex: -1
   journalPageIndexParameterID: -1
   preprocessTextTokens: 0
---- !u!114 &306699800
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 2
-    skipActionActual: {fileID: 733758356}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 31.199997
-    y: 274.2
-    width: 300
-    height: 212.2
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  constantID: 0
-  parameterID: -1
-  messageParameterID: -1
-  isPlayer: 1
-  playerID: -1
-  speaker: {fileID: 0}
-  messageText: No.
-  lineID: -1
-  multiLineIDs: 
-  isBackground: 0
-  noAnimation: 0
-  headClip: {fileID: 0}
-  mouthClip: {fileID: 0}
-  play2DHeadAnim: 0
-  headClip2D: 
-  headLayer: 0
-  play2DMouthAnim: 0
-  mouthClip2D: 
-  mouthLayer: 0
-  waitTimeOffset: 0
 --- !u!1 &310545466
 GameObject:
   m_ObjectHideFlags: 0
@@ -889,66 +829,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1529606791}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &422999425
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 1
-    skipAction: -1
-    skipActionActual: {fileID: 0}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 56.000046
-    y: 511.99985
-    width: 300
-    height: 192.2
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  constantID: 0
-  parameterID: -1
-  messageParameterID: -1
-  isPlayer: 1
-  playerID: -1
-  speaker: {fileID: 0}
-  messageText: The razor I use... intermittently...
-  lineID: -1
-  multiLineIDs: 
-  isBackground: 0
-  noAnimation: 0
-  headClip: {fileID: 0}
-  mouthClip: {fileID: 0}
-  play2DHeadAnim: 0
-  headClip2D: 
-  headLayer: 0
-  play2DMouthAnim: 0
-  mouthClip2D: 
-  mouthLayer: 0
-  waitTimeOffset: 0
 --- !u!114 &424485509
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1638,7 +1518,7 @@ MonoBehaviour:
   endings:
   - resultAction: 2
     skipAction: 2
-    skipActionActual: {fileID: 422999425}
+    skipActionActual: {fileID: 717590552}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -1793,66 +1673,6 @@ MonoBehaviour:
   mouthClip2D: 
   mouthLayer: 0
   waitTimeOffset: 1
---- !u!114 &733758356
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 1
-    skipAction: -1
-    skipActionActual: {fileID: 0}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 384
-    y: 32.600006
-    width: 300
-    height: 192.2
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  constantID: 0
-  parameterID: -1
-  messageParameterID: -1
-  isPlayer: 1
-  playerID: -1
-  speaker: {fileID: 0}
-  messageText: I don't have a shower.
-  lineID: -1
-  multiLineIDs: 
-  isBackground: 0
-  noAnimation: 0
-  headClip: {fileID: 0}
-  mouthClip: {fileID: 0}
-  play2DHeadAnim: 0
-  headClip2D: 
-  headLayer: 0
-  play2DMouthAnim: 0
-  mouthClip2D: 
-  mouthLayer: 0
-  waitTimeOffset: 0
 --- !u!114 &737410641
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1891,7 +1711,7 @@ MonoBehaviour:
   endings:
   - resultAction: 2
     skipAction: 1
-    skipActionActual: {fileID: 1313667239}
+    skipActionActual: {fileID: 712100483}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -1951,7 +1771,7 @@ MonoBehaviour:
   endings:
   - resultAction: 2
     skipAction: 1
-    skipActionActual: {fileID: 306699800}
+    skipActionActual: {fileID: 1231629224}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -2173,7 +1993,7 @@ MonoBehaviour:
   endings:
   - resultAction: 2
     skipAction: 1
-    skipActionActual: {fileID: 1017240213}
+    skipActionActual: {fileID: 227681433}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -2478,67 +2298,151 @@ MonoBehaviour:
   hotspot: {fileID: 4016645347503328373}
   affectChildren: 0
   changeType: 0
---- !u!114 &1017240213
+--- !u!1 &986943041
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 986943044}
+  - component: {fileID: 986943043}
+  - component: {fileID: 986943042}
+  m_Layer: 0
+  m_Name: BackgroundMusic
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &986943042
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 986943041}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
+  m_Script: {fileID: 11500000, guid: ec24addacf0f943ec9d49ef8b23addaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 1
-    skipAction: -1
-    skipActionActual: {fileID: 0}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
+  soundType: 1
+  playWhilePaused: 1
+  relativeVolume: 0.8
+  surviveSceneChange: 0
+--- !u!82 &986943043
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 986943041}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: e2d0e97ebf0cae14e9a60e12bff26cc9, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.8
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
     serializedVersion: 2
-    x: 37.59999
-    y: 253.4
-    width: 300
-    height: 221
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  constantID: 0
-  parameterID: -1
-  messageParameterID: -1
-  isPlayer: 1
-  playerID: -1
-  speaker: {fileID: 0}
-  messageText: After the bombs have fallen it will be the Yellow Sponge that inherits
-    the Earth.
-  lineID: -1
-  multiLineIDs: 
-  isBackground: 0
-  noAnimation: 0
-  headClip: {fileID: 0}
-  mouthClip: {fileID: 0}
-  play2DHeadAnim: 0
-  headClip2D: 
-  headLayer: 0
-  play2DMouthAnim: 0
-  mouthClip2D: 
-  mouthLayer: 0
-  waitTimeOffset: 0
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &986943044
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 986943041}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.587384, y: -3.066688, z: -12.190655}
+  m_LocalScale: {x: 0.64457, y: 0.64457, z: 0.64457}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1024136793
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2663,8 +2567,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 21.199997
-    y: 747.60004
+    x: 1
+    y: 637
     width: 300
     height: 192
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -2994,7 +2898,7 @@ MonoBehaviour:
   endings:
   - resultAction: 2
     skipAction: 2
-    skipActionActual: {fileID: 733758356}
+    skipActionActual: {fileID: 57003483}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -3002,8 +2906,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 31.199997
-    y: 274.2
+    x: 14
+    y: 270.6
     width: 300
     height: 212.2
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -3231,66 +3135,6 @@ MonoBehaviour:
   variables: {fileID: 0}
   variablesConstantID: 0
   spawnedObjectParameterID: -1
---- !u!114 &1313667239
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 2
-    skipAction: 2
-    skipActionActual: {fileID: 422999425}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 41.59999
-    y: 245.40002
-    width: 300
-    height: 226.6
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  constantID: 0
-  parameterID: -1
-  messageParameterID: -1
-  isPlayer: 1
-  playerID: -1
-  speaker: {fileID: 0}
-  messageText: Obviously I brush my teeth twice every day.
-  lineID: -1
-  multiLineIDs: 
-  isBackground: 0
-  noAnimation: 0
-  headClip: {fileID: 0}
-  mouthClip: {fileID: 0}
-  play2DHeadAnim: 0
-  headClip2D: 
-  headLayer: 0
-  play2DMouthAnim: 0
-  mouthClip2D: 
-  mouthLayer: 0
-  waitTimeOffset: 0
 --- !u!114 &1409534127
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4199,7 +4043,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: 
+  hotspotName: ' '
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
@@ -4574,7 +4418,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: 
+  hotspotName: ' '
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
@@ -4757,7 +4601,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: 
+  hotspotName: ' '
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
@@ -4862,7 +4706,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: 
+  hotspotName: ' '
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
@@ -5592,7 +5436,7 @@ MonoBehaviour:
   interactionSource: 0
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: 
+  hotspotName: ' '
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
@@ -6412,7 +6256,27 @@ MonoBehaviour:
     popUpsLineID: -1
     description: 
     showInFilter: 1
-  varPresets: []
+  varPresets:
+  - label: Default
+    ID: 0
+    presetValues:
+    - id: 0
+      val: 0
+      floatVal: 0
+      textVal: 
+      vector3Val: {x: 0, y: 0, z: 0}
+      gameObjectVal: {fileID: 0}
+      objectVal: {fileID: 0}
+  - label: AfterItemsCollected
+    ID: 1
+    presetValues:
+    - id: 0
+      val: 1
+      floatVal: 0
+      textVal: 
+      vector3Val: {x: 0, y: 0, z: 0}
+      gameObjectVal: {fileID: 0}
+      objectVal: {fileID: 0}
 --- !u!114 &8721660058679361252
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6721,3 +6585,4 @@ SceneRoots:
   - {fileID: 760563543}
   - {fileID: 669177485}
   - {fileID: 624841411}
+  - {fileID: 986943044}

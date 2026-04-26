@@ -1,144 +1,2203 @@
-ID,SpeechOrder,Description,Original text
-360,Cop: Talk to_169628_0000,From: Cop: Talk to,"Hey, this is an active crime scene. Move it along!"
-361,Landlords Apartment : Use2_169688_0000,From: Landlords Apartment : Use2,Who is it??
-362,Landlords Apartment : Use2_169688_0025,From: Landlords Apartment : Use2,It’s R.Sole.
-363,Landlords Apartment : Use2_169688_0026,From: Landlords Apartment : Use2,Oh great.
-364,Landlords Apartment : Use2_169688_0027,From: Landlords Apartment : Use2,Not only are you breaking my stuff you’re now disturbing me at home!
-365,Landlords Apartment : Use2_169688_0028,From: Landlords Apartment : Use2,Unless you’re here to pay your rent you can get lost!
-366,Landlords Apartment : Use2_169688_0029,From: Landlords Apartment : Use2,Jerkoff.
-367,Landlords Apartment : Use2_169688_0030,From: Landlords Apartment : Use2,What a wonderful human being. I’m sure the Nobel people will be in touch any day soon…
-368,Landlords Apartment : Use2_169688_0020,From: Landlords Apartment : Use2,Your conscience.
-369,Landlords Apartment : Use2_169688_0013,From: Landlords Apartment : Use2,"Oh yeah, the code is [var:47][var:48][var:49][var:50] "
-370,Landlords Apartment : Use2_169688_0021,From: Landlords Apartment : Use2,What? My conscience who?
-371,Landlords Apartment : Use2_169688_0022,From: Landlords Apartment : Use2,Only kidding! We all know you evicted your conscience years ago!
-372,Landlords Apartment : Use2_169688_0023,From: Landlords Apartment : Use2,Damn kids! Stop banging on my door and get a job!
-373,Landlords Apartment : Use2_169688_0024,From: Landlords Apartment : Use2,"Haha. Yeah, I know it didn’t help in any way but I just couldn’t stop myself."
-374,Landlords Apartment : Use2_169688_0008,From: Landlords Apartment : Use2,Rent Resistance is Futile.
-375,Landlords Apartment : Use2_169688_0009,From: Landlords Apartment : Use2,Ah perfect. You need to fix that mailbox quickly.
-376,Landlords Apartment : Use2_169688_0010,From: Landlords Apartment : Use2,If you try to overcharge me I’ll know!
-377,Landlords Apartment : Use2_169688_0011,From: Landlords Apartment : Use2,Now get on with it.
-378,Landlords Apartment : Use2_169688_0012,From: Landlords Apartment : Use2,Ahem. The padlock?
-379,Landlords Apartment : Use2_169688_0001,From: Landlords Apartment : Use2,It’s the repair guy about your mailbox.
-380,Landlords Apartment : Use2_169688_0002,From: Landlords Apartment : Use2,"About time! Well, get on with it then!"
-381,Landlords Apartment : Use2_169688_0003,From: Landlords Apartment : Use2,Just going to need to get into your cleaning cupboard for the… stuff?
-382,Landlords Apartment : Use2_169688_0004,From: Landlords Apartment : Use2,"Ahh again? Ok, what’s the code phrase?"
-383,Landlords Apartment : Use2_169688_0005,From: Landlords Apartment : Use2,The… code phrase?
-384,Landlords Apartment : Use2_169688_0006,From: Landlords Apartment : Use2,"Yeah, my security code phrase. The one I use with all you contractors and purchases."
-385,Landlords Apartment : Use2_169688_0007,From: Landlords Apartment : Use2,Ah. Ok. Well…
-386,Landlords Apartment : Use2_169688_0016,From: Landlords Apartment : Use2,No! That’s not it. 
-387,Landlords Apartment : Use2_169688_0017,From: Landlords Apartment : Use2,You’re a scammer! I knew it!
-388,Landlords Apartment : Use2_169688_0018,From: Landlords Apartment : Use2,You get out of here before I open that door and shove this TV remote someplace it can’t change a channel!
-389,Landlords Apartment : Use2_169688_0019,From: Landlords Apartment : Use2,Yikes. Bye!
-390,Landlords Apartment : Use2_169688_0014,From: Landlords Apartment : Use2,Thanks…
-391,Landlords Apartment : Use2_169688_0015,From: Landlords Apartment : Use2,Another day… another con!
-392,Security Camera: Examine_169726_0000,From: Security Camera: Examine,"Well, big brother is watching. Great."
-393,Trash Can: Examine_169734_0000,From: Trash Can: Examine,"Considering there are only 3 of us living here, where did all this crap come from?"
-394,Landlord Mailbox: Examine_169742_0000,From: Landlord Mailbox: Examine,That's the Landlords mailbox. 
-395,Landlord Mailbox: Examine_169742_0001,From: Landlord Mailbox: Examine,He checks it every couple of hours for some reason.
-396,Landlord Mailbox: Examine_169742_0002,From: Landlord Mailbox: Examine,My theory is that the stuff he recieves is so twisted that he has to get and hide it in his aprtment before any of us see it!
-397,Landlord Mailbox: Examine_169742_0003,From: Landlord Mailbox: Examine,Weirdo.
-398,My Mail Box: Keys_169746_0000,From: My Mail Box: Keys,"Perfect, just what i needed."
-399,My Mail Box: Keys_169746_0001,From: My Mail Box: Keys,"Hey Mr D, Can you believe that my key has broken in the mailbox again!"
-400,My Mail Box: Keys_169746_0002,From: My Mail Box: Keys,"Dammit, I suppose I'll call maintenance again, you clumsy idiot!"
-401,My Mail Box: Keys_169746_0003,From: My Mail Box: Keys,Now's my chance to get that lens!
-402,My Mail Box: Use_169786_0000,From: My Mail Box: Use,I don't have time to check my mail.
-403,My Mail Box: Use_169786_0001,From: My Mail Box: Use,"Well, this is my fully working mail box. All I need is something to make it my 'non-working' mailbox."
-404,Fire Extinguisher: Examine_169798_0000,From: Fire Extinguisher: Examine,Company Moto: Safety First.
-405,Fire Extinguisher: Examine_169798_0001,From: Fire Extinguisher: Examine,Last Inspection: 2010...
-406,Fire Extinguisher: Examine_169798_0002,From: Fire Extinguisher: Examine,Sounds about right for this dump.
-407,Noisy Neighbour: Use_169820_0000,From: Noisy Neighbour: Use,"Hey, sorry to bother you, but the landlord is really not happy with the noise."
-408,Noisy Neighbour: Use_169820_0001,From: Noisy Neighbour: Use,He's talking about eviction. I'd give him a call if I were you.
-409,Noisy Neighbour: Use_169820_0002,From: Noisy Neighbour: Use,"Pfft, who could that be?"
-410,Landlords Apartment: Use_169834_0000,From: Landlords Apartment: Use,Are you crazy?
-411,Landlords Apartment: Use_169834_0001,From: Landlords Apartment: Use,"I don't see any possible future where I would ever want, or need to go into that jerks apartment."
-412,Landlords Apartment: Use_169834_0002,From: Landlords Apartment: Use,I can barely stand the smell coming out of there when I pass the door in the hall...
-413,Landlords Apartment: Use_169834_0003,From: Landlords Apartment: Use,"So it's a big, fat 'NO' from me."
-414,Landlord: Examine_169844_0000,From: Landlord: Examine,"Mr Ditkovich, the landlord."
-415,Landlord: Examine_169844_0001,From: Landlord: Examine,Though we all call him Dick-o-Witch...Well I do anyway...
-416,OnStart_169920_0000,From: OnStart,And here is my apartment building.
-417,OnStart_169920_0001,From: OnStart,"Squalid, dirty, over-priced and designed by someone who usually builds prisons."
-418,OnStart_169920_0002,From: OnStart,And those are just the positives.
-419,OnStart_169920_0003,From: OnStart,"I always thought I’d have moved on to something better by now, but I never seem to be able to break away."
-420,Landlord: Talk to_169924_0019,From: Landlord: Talk to,"I haven't seen you around here before. If you going to see that R Sole upstairs don't bother, he won't be living here much longer!"
-421,Landlord: Talk to_169924_0000,From: Landlord: Talk to,"Hey punk, do you have my money?"
-422,Landlord: Talk to_169924_0017,From: Landlord: Talk to,"Money? Oh yeah, ermm... I've got it...I'll bring it to you...Soon...I promise...Yeah."
-423,Landlord: Talk to_169924_0018,From: Landlord: Talk to,"You'd better, you putz!"
-424,Landlord: Talk to_169924_0015,From: Landlord: Talk to,Hey Mr D. What seems to be ruining your mood today then?
-425,Landlord: Talk to_169924_0016,From: Landlord: Talk to,That damn stuck-up tool in 221B never stops playing that stupid violin! I can never get a moments peace. I may have to kick him out!
-426,Landlord: Talk to_169924_0011,From: Landlord: Talk to,Not that I was expecting any thanks to be fair...
-427,Landlord: Talk to_169924_0012,From: Landlord: Talk to,"And not that I'm really interested, but the quest chain dictates that I need to ask you what else is souring your puss?"
-428,Landlord: Talk to_169924_0013,From: Landlord: Talk to,I'm always getting complaints about that bloody mailbox. You lot just need to be careful with your keys!
-429,Landlord: Talk to_169924_0014,From: Landlord: Talk to,"Yadda, yadda, yadda, mailbox. Got it."
-430,Landlord: Talk to_169924_0010,From: Landlord: Talk to,So that's your noise pollution issue solved!
-431,Landlord: Talk to_169924_0001,From: Landlord: Talk to,So yeah... I'm going to go now.
-432,Landlord: Talk to_169924_0002,From: Landlord: Talk to,Get me my money!
-433,Landlord: Talk to_169924_0003,From: Landlord: Talk to,What do you want now? Can't you see i am busy.
-434,Landlord: Talk to_169924_0004,From: Landlord: Talk to,"Well to continue with the theme of this questline, even though i had to find this distraction..."
-435,Landlord: Talk to_169924_0005,From: Landlord: Talk to,Sammy at the Copperpot mentioned something about throwing out this strange beer...
-436,Landlord: Talk to_169924_0006,From: Landlord: Talk to,Something called Ro..Roth...Rothaus...
-437,Landlord: Talk to_169924_0007,From: Landlord: Talk to,Rothaus Tannenzäpfle?!?!
-438,Landlord: Talk to_169924_0008,From: Landlord: Talk to,That's my drinks order! I have been waiting for this to be deliered for weeks! That idiot!
-439,Landlord: Talk to_169924_0009,From: Landlord: Talk to,Well that worked! Now lets get that lens.
-440,221B Mailbox: Examine_169926_0000,From: 221B Mailbox: Examine,It's the mailbox for the guy across the hall.
-441,221B Mailbox: Examine_169926_0001,From: 221B Mailbox: Examine,I've never actually met him but I've heard his violin.
-442,221B Mailbox: Examine_169926_0002,From: 221B Mailbox: Examine,"He seems to have a few visitors each week, I think he runs a business from there?"
-443,221B Mailbox: Examine_169926_0003,From: 221B Mailbox: Examine,Oh I don't know. Or care.
-444,Notice Board: Examine_169932_0001,From: Notice Board: Examine,That for sale sign... is that a..?
-445,Notice Board: Examine_169932_0002,From: Notice Board: Examine,Ah man... I think I was just a little sick in my mouth...
-446,Notice Board: Examine_169932_0000,From: Notice Board: Examine,Let's see what nonsense is on the notice board today.
-447,Noisy Neighbour: Examine_169982_0000,From: Noisy Neighbour: Examine,"The guy next door, always playing that violin. Good job he ain't half bad!"
-448,Security Camera: Use_169992_0001,From: Security Camera: Use,Hey!
-449,Security Camera: Use_169992_0002,From: Security Camera: Use,Stay away from my camera!
-450,Security Camera: Use_169992_0003,From: Security Camera: Use,"Damn, I can't get it while he's watching! I need to distract him somehow."
-451,Security Camera: Use_169992_0004,From: Security Camera: Use,Dammit!
-452,Security Camera: Use_169992_0005,From: Security Camera: Use,Just one more turn...I need another distraction...hmmm
-453,Security Camera: Use_169992_0008,From: Security Camera: Use,Yes! I have it! As signified by that jaunty little tune.
-454,Security Camera: Use_169992_0000,From: Security Camera: Use,A lens! Just what I was looking for.
-455,Security Camera: Use_169992_0006,From: Security Camera: Use,Dammit!
-456,Security Camera: Use_169992_0007,From: Security Camera: Use,"Seriously, another turn?...I need another distraction...hmmm"
-457,Cleaning Cupboard: Examine_170004_0000,From: Cleaning Cupboard: Examine,This is where the landlord keeps all his cleaning stuff.
-458,Cleaning Cupboard: Examine_170004_0001,From: Cleaning Cupboard: Examine,I have never seen it open.
-459,Cleaning Cupboard: Examine_170004_0002,From: Cleaning Cupboard: Examine,Can't really go snooping if the landlord is around!
-460,Cleaning Cupboard: Examine_170004_0007,From: Cleaning Cupboard: Examine,That worked! I wonder what's inside...
-461,Cleaning Cupboard: Examine_170004_0008,From: Cleaning Cupboard: Examine,it's just full of broken cleaning equipment and junk.
-462,Cleaning Cupboard: Examine_170004_0009,From: Cleaning Cupboard: Examine,"Oh there's a screwdriver, the only thing that isn't broken. I'll take it just in case."
-463,Cleaning Cupboard: Examine_170004_0006,From: Cleaning Cupboard: Examine,Lets see if i can get past this padlock...
-464,Cleaning Cupboard: Examine_170004_0005,From: Cleaning Cupboard: Examine,I'll need to find away to get the code...
-465,Cleaning Cupboard: Examine_170004_0003,From: Cleaning Cupboard: Examine,It’s a combination padlock. Pretty sturdy.
-466,Cleaning Cupboard: Examine_170004_0004,From: Cleaning Cupboard: Examine,I’m not good with code cracking… before you ask.
-467,Landlords Apartment: Examine_170012_0000,From: Landlords Apartment: Examine,That's the Landlords apartment. 
-468,Landlords Apartment: Examine_170012_0001,From: Landlords Apartment: Examine,"Legend has it that he once had guests inside, actually inside, the building!"
-469,Landlords Apartment: Examine_170012_0002,From: Landlords Apartment: Examine,I'm not sure I believe that though.
-470,Landlords Apartment: Examine_170012_0003,From: Landlords Apartment: Examine,Unless they are now buried under his floorboards...
-471,My Mail Box: Examine_170036_0000,From: My Mail Box: Examine,Why bother checking? I never get any mail. 
-472,My Mail Box: Examine_170036_0001,From: My Mail Box: Examine,I don't have my keys anyway. 
-473, ,From: Landlord, 
-474, ,From: Cop,Cop
-475, ,From: Landlord,Landlord
-476, ,From: UpStairsHotspot, 
-477, ,From: LandlordConversatation3,Here’s looking at you rent increase?
-478, ,From: LandlordConversatation3,Say hello to my little invoice?
-479, ,From: LandlordConversatation3,You’re gonna need a bigger toolbox?
-480, ,From: LandlordConversatation3,Rent Resistance is Futile.
-481, ,From: LandlordConversatation2,It's R.Sole
-482, ,From: LandlordConversatation2,Your conscience
-483, ,From: LandlordConversatation2,It's the repair guy about your mailbox
-484, ,From: Cop,Cop
-485, ,From: LandlordConversatation,Money? Erm... What money?
-486, ,From: LandlordConversatation,Let's see if I can find a distraction
-487, ,From: LandlordConversatation,Better see what else I can use against him
-488, ,From: LandlordConversatation,Did you know that the Copperpot deliver?
-489, ,From: LandlordConversatation,"Well, i've got to go now..."
-490, ,From: ToBedroom,My Apartment
-491, ,From: Landlords Apartment, 
-492, ,From: DownstairsHotpsot, 
-493, ,From: Notice Board, 
-494, ,From: Neighbour, 
-495, ,From: Security Camera, 
-496, ,From: Cleaning Cupboard, 
-497, ,From: Trash Can, 
-498, ,From: Fire Extinguisher, 
-499, ,From: MailBox, 
-500, ,From: Landlord Mailbox, 
-501, ,From: ToMap, 
-502, ,From: 221B Mailbox, 
+ID,Type,Original text
+0,Speech,Man this place gets dirty by closing time.
+1,Speech,Still cleaner than my place though.
+2,Speech,Sammy's tried everything to raise the profits of this place.
+3,Speech,The Quiz hasn't quite taken off though...
+4,Speech,Last week there was a round all about Mustard...
+5,Speech,20 questions all about mustard. I just couldn't cut it...
+6,Speech,....humm....
+7,Speech,You ok Cliff?
+8,Speech,"Yesh, yesh. I'll be fine once Shammy gets me a drink. "
+9,Speech,The Guest Ales are a good idea.
+10,Speech,"However, I still think Sammy should take into account the name of the ale before ordering it."
+11,Speech,I'm not sure I want a pint of 'Rectors Brown Finger' or 'Pustulant Dreams'...
+12,Speech,The streets round here are not paved with gold.
+13,Speech,Although that puddle does look like it's been paved with a golden shower.
+14,Speech,I'm not not leaving until I've finish my pint. I did pay for it after all.
+15,Speech,"So there I am at the bar, 12 beers in… "
+16,Speech,"Ok maybe I’m exaggerating, maybe it’s more like 3 but at least I would be one hell of a cheap date! If I could get a date that is. My experience of dating is a lot like reversed survivors guilt. ‘Why was it never me?’"
+17,Speech,"Hey there handsome, you come here often?"
+18,Speech,Are you going for the silent and mysterious approach? That's cute!
+19,Speech,"Listen, considering this place is... well quite frankly... dreadful, why not meet me in the alley behind the bar?"
+20,Speech,There's something I'm dying to share with you...
+21,Speech,"Besides, this is The Copper Pot, you don’t really have good-looking women walking into this bar…"
+22,Speech,"But it’s 10:30, I am about to order my last beer of the night before heading home to continue my feeble existence when my life changed forever."
+23,Speech,"And there she was. [break]She was not the usual type of woman who would drink here. For a start both her eyes pointed in the right direction, and she still had all of her teeth.[break] "
+24,Speech,"She, however, spotted me. "
+25,Speech,I’m not sure if it was shock or a processing delay in my brain but all I could do was stand there with my mouth open and gape.[break] 
+26,Speech,"Speak, you idiot! She’s hot and quite obviously coming on to you! "
+27,Speech,It'll change your life...
+28,Speech,Change my life? Now that sounds like my kind of night!
+29,Speech,She was what the British would call ‘Well fit’.
+30,Speech,I was waiting for Sammy to get me my next drink so I didn't spot her immediately.
+31,Speech,"She had grace, poise and that certain special something."
+32,Speech,"An attractive woman had, by choice, approached me in a bar. Actually spoken to me with something other than scorn."
+33,Speech,And I couldn't say a damned word.
+34,Speech,"I'll admit that her chat up technique was odd, strangely awful and amazing at the same time."
+35,Speech,I didn't care!
+36,Speech,So don't keep a girl waiting eh?
+37,Speech,Yup. I was heading to that alley.
+38,Speech,And that was only the first of the many bad decisions to follow...
+39,Speech,Keep a girl waiting? Not a chance my friend!
+40,Speech,"Right listen up, as I will only say this once!"
+41,Speech,"Yes, I am talking to you, ready player 1..."
+42,Speech,"Yes It's a point and click game, so it doesn't take a rocket scientist to work out what you need to do here. "
+43,Speech,"Hover the icon over the objects within the game, and you will see one or maybe two of these amazingly designed icons. "
+44,Speech,"If the icon is on the left, it's left click, if the icon is on the right...well I am sure you can figure that part out. "
+45,Speech,"Now then, that's the only help you are going to get so, you can figure the rest for youself. "
+46,Speech,"Oh, and one last thing. If you are the impatient type, double click to get where you want to go quicker. "
+47,Speech,"Hey, What are you looking at?"
+48,Speech,"Ermm...Nothing, just minding my own business."
+49,Speech,Ah. That hit the spot!
+50,Speech,Man this place gets dirty by closing time.
+51,Speech,Still cleaner than my place though.
+52,Speech,A left over sandwich. Looks like it's been here for hours...
+53,Speech,Sammy wasn't kidding when he said he was struggling.
+54,Speech,"Well, it's one less thing for him to clean up. It might be useful. "
+55,Speech,"Ok, just because you struggle with the controls..."
+56,Speech,Yes i'm talking to you again!
+57,Speech,"To access your Inventory, hover the mouse at the top of the screen."
+58,Speech,The same rules apply to your items in your inventory as the ones you use in the game. 
+59,Speech,"And remember, your inventory isn't just about a fancy description, examining and even combining just might get you to where you need to go. "
+60,Speech,"Now then, off you go, you have someone waiting for you after all."
+61,Speech,A half eaten meaty sandwich. What a waste!
+62,Speech,How about one for the road Sammy? 
+63,Speech,Another one? Don’t you think you’ve had enough? You know what you get like when you’ve had too much…
+64,Speech,"You’re right, I know what I get like when I drink too much."
+65,Speech,"I just ran into Cliff outside, you know he doesn’t seem so bad. Why not give him another chance?"
+66,Speech,Let me start by stopping you right there. [break]The answer is no. [break]
+67,Speech,But you don’t know what I was going to say?
+68,Speech,"Listen man, I know you’re going to ask me to give him another beer, and the answer is 'No'."
+69,Speech,"Whenever he goes too far, it’s always me that needs to clean up his mess. "
+70,Speech,True but…
+71,Speech,Come on Sammy!
+72,Speech,"…fine, but if he pukes then you are barred for life Sole! Do you really have that much faith in him?"
+73,Speech,Of course I do.
+74,Speech,"I didn’t, but getting to that alley was all that mattered to me. Woah I really was desperate…"
+75,Speech,Hey Sammy!
+76,Speech,"Oh, hey Sole. "
+77,Speech,So how are you doing? Still watching those soap operas?
+78,Speech,'The Young Vets’ is not a soap opera.
+79,Speech,It’s an artistic exploration of the lives of talented veterinarians and the animals those vets save and love.
+80,Speech,Yeah...
+81,Speech,"However, you must admit that they are all incredibly attractive and constantly sleeping with each other’s partners at the drop of a hat, surely?"
+82,Speech,I will admit nothing.
+83,Speech,Everything ok? You seem a bit gloomy this evening?
+84,Speech,"Yeah man, just another slow and quiet night."
+85,Speech,Just can’t seem to get enough people in this place to make it profitable.
+86,Speech,"Really? Even after the quiz, the snacks and guest ales? "
+87,Speech,Has it really been that quiet? 
+88,Speech,Seriously? You haven’t noticed? You’re in here almost every night man!
+89,Speech,"It’s not every night, I only come in on Mondays, Tuesdays and Fridays!"
+90,Speech,It’s Wednesday…
+91,Speech,Not my favourite show but I’ve seen worse.  Besides that’s not the point…
+92,Speech,Right…
+93,Speech,"Hey man, I’m not complaining, I need every penny I can get."
+94,Speech,"Between you, Cliff & the two guys at the bar I am just breaking even. "
+95,Speech,"And don’t get me started on Cliff, I’ve already had to throw his drunk ass out of here. He just doesn’t know when to stop. "
+96,Speech,"I can’t speak for Cliff, but the guys at the bar are fine. They work at my place, and they tend to keep to themselves really. "
+97,Speech,"Well, either that or they just don’t talk to me…"
+98,Speech,Well as long as they don’t cause me any trouble.
+99,Speech,"Anyway, what can I do for you?"
+100,Speech,"Well, take care Sammy."
+101,Speech,"Yeah, see you around."
+102,Speech,How are things?
+103,Speech,"You know, getting by as best as I can. To be honest if I keep getting nights like tonight then I’ll be forced to close this place down. "
+104,Speech,Close the Copper Pot? You can’t do that; I love coming here. Where else can I go to have a quiet drink after work?
+105,Speech,…literally any other bar?
+106,Speech,"Oh, he’s not that bad! I have seen him in far worse states, and besides, didn’t you say you needed the customers? Cliff would give his left leg for a pint if he could."
+107,Speech,Yes but I would miss your sparking personality.
+108,Speech,Excuse me?
+109,Speech,Nothing!
+110,Speech,"Hey Sole, what can I do for you? "
+111,Speech,So… is that a ‘yes’?
+112,Speech,Just stick to your usual three beers Sole!
+113,Speech,I have no desire to pull you out of the danger that mouth of yours gets you into.
+114,Speech,"Okay, okay."
+115,Speech,I suppose you’ve got a point.
+116,Speech,Finally free Wifi!
+117,Speech,It's just a shame the password is so long and complicated.
+118,Speech,"That, along with a lot of problems around here, is Cliffs fault."
+119,Speech,You wouldn't believe the kind of websites that guy browses...
+120,Speech,"101 ways to get slashed, and I have tried them all."
+121,Speech,"That's Sammy, the owner."
+122,Speech,"He's pretty cool, I'm just not sure he likes me that much."
+123,Hotspot,Mysterious Woman
+124,Hotspot, 
+125,Hotspot, 
+126,Hotspot, 
+127,Character, 
+128,Hotspot, 
+129,Hotspot, 
+130,Character,Bio Animation
+131,Hotspot, 
+132,Hotspot, 
+133,Hotspot, 
+134,Character,Bar Bod 2
+135,Character,Mysterious Woman
+136,Character,Bar Bod 1
+137,Character,Cliff
+138,Hotspot, 
+139,Hotspot, 
+140,DialogueOption,How about another pint?
+141,DialogueOption,Cliff has said you have cut him off?
+142,DialogueOption,How’s the bar doing? 
+143,DialogueOption,Bye.
+144,Hotspot, 
+145,Hotspot, 
+146,Hotspot, 
+147,Hotspot,Beer
+148,Hotspot, 
+149,Speech,"Damn, why is the gate locked?"
+150,Speech,How am I meant to get past this?
+151,Speech,Heyyy…Ermmm…youuu? Howsit goinnn?
+152,Speech,All sorted! Sammy has agreed to let you back in so long as you’re not sick everywhere.
+153,Speech,"Me?? Siiickk?? Pfft, I got a stommach of steeell! hic Aaand I had like…the biiiigest curry earlierr, sooo we’re alll goooood!. "
+154,Speech,Hey Cliff.
+155,Speech,Hey…Jake?
+156,Speech,"Not even close Cliff, man you must have gone hard tonight."
+157,Speech,Now yoh soun' like shammy... when did 10 beers become 'too much'????
+158,Speech,"I heard it was around the early 2020's. About the same time people started to get upset with words. Anyway, if you don’t mind?"
+159,Speech,"Ohhh I can’t... if I move, even jusssst a little bit, I think I’m gonna throw uppppp.."
+160,Speech,"Oh, come on, I need to get back there, can’t you just slouch elsewhere?"
+161,Speech,"…I mean... I would, but Sammyyy has cut me offff, no way he’s giving me another drinkkkk."
+162,Speech,"I wonder why. Leave it with me, I’ll see what I can do."
+163,Speech,"Ohhhh thanks Craig, you’re a swweeeelll guyyyyy!"
+164,Speech,"Again, I am not proud, but needs must, and wouldn’t you have done the same? "
+165,Speech,"Hey man, have you shmoothed things over with Shammy yet?"
+166,Speech,"Not yet, but hang in there."
+167,Speech,"Ah, thanks man, you are my best friend!"
+168,Speech,Yeah...Sure...
+169,Speech,"No way, I can’t do it!"
+170,Speech,Not even for another beer?
+171,Speech,Jake? Craig? Seriously do I look like a bearded bald guy who has a love for Lego and Dungeons & Dragons? 
+172,Speech,"Anyway, Sammy is the man to convince and convince him I will! Nothing is stopping me from getting to that alley! Though I’m not proud of how I went about it."
+173,Speech,No? Just me?
+174,Speech,"Great. But Cliff has finally gone, which mean I can go meet my mystery woman!"
+175,Speech,See ya Cujo! 
+176,Speech,You know what...maybe not...
+177,Speech,"The copper pot, my second favourite place on Earth... after my bed of course."
+178,Speech,Finally!
+179,Speech,Now where did that mutt come from?
+180,Speech,Also... that is a mean looking dog!
+181,Speech,I'm glad I have absolutely no need to interact with it at all.
+182,Speech,That’s Cliff. Every town has its own drunk; we have Cliff. 
+183,Speech,Caffiends coffee. Fiends on the cost but can't get through the day without it. 
+184,Speech,It's a bench.
+185,Speech,What more do you want?.
+186,Speech,"She said to meet in the alley behind the bar so that is where I am going, or at least I thought I was. As soon as I stepped out into the street I could see that my destination was blocked. Seriously? Is this some sort of adventure game?"
+187,Speech,What?
+188,Speech,You want me to pet that savage looking monster?
+189,Speech,Not a chance pal.
+190,Speech,Exchange in Confidence.
+191,Speech,The lights tell a different story.
+192,Speech,It looks like a stick or a little branch.
+193,Speech,The stick would snap. I need to find something stronger.
+194,Hotspot, 
+195,Hotspot, 
+196,Hotspot, 
+197,Character, 
+198,Hotspot, 
+199,Character,Bio Animation
+200,Character,Cliff
+201,Character, 
+202,Hotspot, 
+203,Hotspot, 
+204,Hotspot, 
+205,Hotspot, 
+206,Hotspot, 
+207,Hotspot, 
+208,Hotspot, 
+209,Hotspot, 
+210,Speech,Yeah of course you’re in the red…
+211,Speech,Wait... did you just say Wang?
+212,Speech,What the hell! How did you do that? 
+213,Speech,"Listen, my name is Harper. This unit above is a Wormhole Astro Navigation Guide, WANG for short, and were here to rescue you."
+214,Speech,Rescue me? What are you talking about? Look I am really confused so you need to explain what’s going on here? Quickly.
+215,Speech,"Ok, you want the short version?"
+216,Speech,Yes!
+217,Speech,We are not from your universe.
+218,Hotspot,Sammy
+219,Speech,"Seriously, why does he sound like a butler?"
+220,Speech,That’s your go to question after everything I’ve just said? 
+221,Speech,Really? 
+222,Speech,"Hey, what took you so long?"
+223,Speech,"Oh, yeah I’m so sorry. Cliff was blocking the way. He has a real drink problem, poor guy. He said he wouldn’t move unless he could get another beer. "
+224,Speech,Ohhh thaaank youuu Sammmyyy! An' tha guy…in the red jackett…thankkk youuu….ermm…..maaaan!
+225,Speech,God dammit! R SOLE!!!
+226,Speech,"Well, that’s just bad timing. So much for my favourite local…"
+227,Speech,Anyway... I’m not sure what’s going on here or what the arrangement is but I think it’s only fair to explain that I’m pretty much broke and may not be the easy mark you’re looking for..?
+228,Speech,What the hell does that mean!?! What do you take me for!?!
+229,Speech,Hey I’m not the one inviting some random stranger to a dark alley dressed like I’m auditioning for America’s Next Top Hooker!
+230,Speech,"Wait, dressed like wh…Oh, I’m still in the red dress aren’t I?"
+231,Speech,"Ah, much better! Seriously how do woman, I mean, people, wear that kind of clothing in this reality? "
+232,Speech,….Wow that was short.
+233,Speech,And ridiculous.
+234,Speech,Am I hallucinating? Have you drugged me?
+235,Speech,"Sir, Agent Harper is telling you the truth, I would advise to listen to her."
+236,Speech,"Woah, theses drones are becoming so advanced, now they have speakers too?"
+237,Speech,"I apologise sir, but I am not a drone. "
+238,Speech,Why does he sound so British? Is that a Butler? Have you got your Butler to control him?
+239,Speech, I would listen to Agent Harper sir.
+240,Speech,'Agent' Harper? Sure thing ‘Wadsworth’. 
+241,Speech,"Will you shut up and listen, we don’t have much time. We are from a parallel universe; Wang units like this are used to open wormhole passages to alternative realities."
+242,Speech,I used this one to travel across the multiverse to get here. We came here for you.
+243,Speech,"What do you mean, alternative realities? "
+244,Speech,"The multiverse is an infinite web of connected universes, all similar and yet, different. They run almost parallel, but things happen differently in each one."
+245,Speech,Differently how?
+246,Speech,"Each decision we make creates ripples of alternative realities. For instance, I came from my universe here, to yours, and I can see many differences."
+247,Speech,Like what?
+248,Speech,"Clothes, politics, lots of stuff. I mean, do you remember that orange game show host being President? "
+249,Speech,"Ok, this is a lot for me to take in. Alternative realities, talking robots, multiverse! But there is one thing I need to know."
+250,Speech,"Sure, what is it?"
+251,Speech,Ok...
+252,Speech,"Ok, I’ll bite, why do I need “rescuing”? "
+253,Speech,"As far as we know, the multiverse is in danger, and we think you may be the key to saving it."
+254,Speech,"Ok, storytelling isn’t your strong suit but B+ for effort, so if you are done, I’m heading back in before they call last orders. "
+255,Speech,"Wang, get his attention."
+256,Speech,"Ahh, What the hell was that? Are you crazy?"
+257,Speech,"No, I'm just a woman who is losing her patience. I don’t have time for this. "
+258,Speech,"I’m real, he’s real, and we aren’t lying to you. You are in danger. As we speak an evil madman who calls himself Masterstroke is on his way here to kill you."
+259,Speech,Kill me? What for? What did I do?
+260,Speech,"It’s not about what you have done, it’s about who you are. You are an R Sole. "
+261,Speech,Besides having actually met you for a few minutes I can already think of few reasons people would want you dead...
+262,Speech,"Anyway… Masterstroke is travelling to every reality destroying every version of you he can find, and every time he succeeds, the mesh that holds all of reality together breaks down bit by bit"
+263,Speech,I'm part of a group trying to stop that. Trying to save as many of you as possible while we figure what the hell is going on.
+264,Speech,"So, if you want to live, you need to listen to me."
+265,Speech,"I think if you’re looking for Sarah Connor, she’s in the next alley…"
+266,Speech,What?
+267,Speech,"Nothing, look, this is beyond stupid, what did you say your name was again? Harper or Miss Exposition? This is ridiculous, and FYI, as a rule, the only person I 'have' to listen to... is me!"
+268,Speech,"You know, I am glad you said that."
+269,Speech,"Wang, play mesage."
+270,Speech,"Listen up, if you're hearing this message, it's crucial you pay attention so for once will you shut up!"
+271,Speech,Wow. Rude.
+272,Speech,Don’t you mean my world?
+273,Speech,Seriously?
+274,Speech,I’m just saying.
+275,Speech,Forgive me for interupting but I believe this message needs to be heard. 
+276,Speech,"Right, if you insist ‘Jeeves’…"
+277,Speech,"Like Haper has told you, Masterstroke is hunting down every R Sole in every universe, and you're next on his hitlist."
+278,Speech,"To stay alive and save the multiverse, you need to follow Harper's instructions. She knows what she's doing, I trust her and so should you."
+279,Speech,"I know you have a million questions, I would too, but they'll all be answered once we get you to a secure location. "
+280,Speech,R Sole signing off.
+281,Speech,Welcome to my world.
+282,Speech,Well... that was unexpected...
+283,Speech,At least there's a version of me somewhere doing OK for himself...
+284,Speech,...cool beard...
+285,Speech,"Wang is our ticket to safety; so, we can use him to escape."
+286,Speech,"…No, I’m still not buying this, this is just insane. . I have clearly had too much to drink."
+287,Speech,"So, with all due respect I'm going to leave you with your floating tin butler and mental delusions and I’m get the hell out of here."
+288,Speech,Look you can’t….
+289,Speech,"What's that noise? It's not a good noise, is it?"
+290,Speech,"Wang, report!"
+291,Speech,I am sorry ma'am. Someone is trying to access my mainframe.
+292,Speech,Who is it? Is it Masterstroke?
+293,Speech,"I’m afraid not, it's someone else. A signal f*o* a di*****nt un*er*e."
+294,Speech,"Wang, are you ok?"
+295,Speech,"Co........ S**e, h…ha….taken…….. "
+296,Speech,Wang?
+297,Speech,Wang! Wait! Stop!
+298,Speech,"Well, just another day in the multiverse, I guess..."
+299,Speech,All things considered... I think that went... well?
+300,Speech,"But now, with all due respect to the multiverse, I think it's only fair to say..."
+301,Speech,Look we haven’t got time for this so if there is anything else?
+302,Speech,"I spoke with him for a while and I think I finally go through to him, you know? I don’t see him needing a drink anytime soon. Helping people is what I do."
+303,Speech,Damn it. Wang could you do something about this?
+304,Speech,What the fu...
+305,Speech,Faced with the option of truth or lies I did what anyone would do in the same situation.
+306,Speech,Hey!
+307,Speech,"Okay. Sorry about the subterfuge and the holo-dress, but I needed to get you out of that bar."
+308,Speech,What? Please tell me you're joking...
+309,Speech,"...if you want. Anyway, moving on."
+310,Speech,Screw this. I'm going to bed....
+311,Hotspot,R Sole (Hologram)
+312,Hotspot,W.A.N.G
+313,DialogueOption,Try to impress her!
+314,Hotspot,Agent Harper
+315,DialogueOption,Different universe?
+316,DialogueOption,W.A.N.G?
+317,DialogueOption,Why me?
+318,Hotspot,Mysterious Woman
+319,Hotspot,Cliff Cheeseman
+320,Character,W.A.N.G
+321,Character,Cliff
+322,Character,Mysterious Woman
+323,Character,Harper
+324,Character,Alternative R Sole
+325,Speech,"Ah, The Demon Fur Baby, because clearly, what every child needs is a toy that looks like it crawled out of a cursed antique shop."
+326,Hotspot,Space for Spoon Blade
+327,Speech,My amazing Spoon Blade!
+328,Speech,I'm not taking all my collectables. Are you crazy? 
+329,Speech,I would rather not go back to that shop. Besides I have what i need now!
+330,Speech,"My Demon Fur baby! I'll keep it with me, just in case."
+331,Speech,I'm not taking all my collectables. Are you crazy? 
+332,Speech,I would rather not go back to that shop. Besides I have what i need now!
+333,Hotspot,Space for Demon Fur Baby
+334,Speech,"Ah, My Knitting Almanac. because if you're going to exploit time travel..."
+335,Speech,Why not dominate the underground black market of 1970s crochet competitions?
+336,Speech,"My Almanac! I'll keep it with me, just in case. "
+337,Speech,I'm not taking all my collectables. Are you crazy? 
+338,Speech,I would rather not go back to that shop. Besides I have what i need now!
+339,Hotspot,Space for Almanac
+340,Speech,My Spoon-Blade from 'Finally Fantastic XXV'. Perfect for those intense moments.
+341,Speech,Like when you're battling a deranged Sorceress but you also need to stir your ramen.
+342,Speech,And there are my books. All neatly displayed.
+343,Speech,I used to read a lot when I was growing up.
+344,Speech,I don't seem to find the time anymore though.
+345,Speech,Could my keys be here?
+346,Speech,I'll admit I'm not the greatest cook in the world. far from it.
+347,Speech,But even Jamie Ramsey would struggle to whip up a masterpiece on this piece of crap.
+348,Speech,That's why I have so many loyalty points on the 'Just Nosh It' app.
+349,Hotspot,Demon Fur Baby
+350,Speech,Where I hang my huge collection of two jackets. I may buy a hat though.
+351,Speech,"Ah, some mints!. Tiny, unbranded white capsules... they look a lot like any other tablet or pill."
+352,Speech,What have I got... in my pocket?
+353,Speech,"Oh just a box of mints, can't say I need those right now."
+354,Speech,"Well look at that, virtually all of my clothes. They will, at some point, need washing."
+355,Speech,Could my keys be here?
+356,Hotspot,Insultor Glove
+357,Speech,A full sink of pots and pans ready to wash.
+358,Speech,"Plus of course plates, bowls and cutlery."
+359,Speech,"Yeah, I reckon that can wait at least another day."
+360,Speech,Prime-lock! King of the Adapto-Droids!
+361,Speech,"There it is, that's odd, i have never lost my phone before? Hmm..."
+362,Speech,"My mail box keys. Not like I need them, I never get mail, apart from bills."
+363,Speech,"Ah my bed. No point making it if I'm going to get back in, right?"
+364,Hotspot,Almanac
+365,Speech,That's my nine year old TV and media player.
+366,Speech,The screen has 39 dead pixels and the media player struggles with most discs.
+367,Speech,I still consider it one of my best friends though.
+368,Speech,Oh my God! That crazy woman and the weird robot really happened? Didn’t it?
+369,Speech,Or did it? 
+370,Speech,If it did... then maybe I’m not so insignificant after all...
+371,Speech,I need to check that alley. Just to make sure I’m not going crazy.
+372,Hotspot,Space for Demon Fur Baby
+373,Hotspot,Space for Prime Lock
+374,Hotspot,Space for Spoon Blade
+375,Hotspot,Space for Almanac
+376,Hotspot,Space for Almanac
+377,Speech,The view from my window. Hardly what I would call picturesque...
+378,Speech,Possibly the loudest extractor fan in the known universe.
+379,Speech,I've seen buildings demolished that don't sound as loud.
+380,Speech,The easiest way to reduce the noise is simply not cooking.
+381,Speech,"Ah, just what I need."
+382,Speech,My Insultor Omni Glove. Took me years to save for this.
+383,Speech,"My Insultor-Omni Glove! I'll keep it with me, just in case. "
+384,Speech,I'm not taking all my collectables. Are you crazy? 
+385,Speech,I would rather not go back to that shop. Besides I have what i need now!
+386,Hotspot,Space for Insultor Glove
+387,Speech,"Man, how much did I drink last night?"
+388,Speech,My head feels like a steel drum at a Voodoo funeral...
+389,Speech,"Hang on? Something happened last night, didn’t it? Something important... "
+390,Speech,Ahh I’m struggling to remember...
+391,Speech,I need to piece it all back together...
+392,Hotspot,Space for Demon Fur Baby
+393,Hotspot,Space for Prime Lock
+394,Hotspot,Space for Spoon Blade
+395,Hotspot,Space for Almanac
+396,Hotspot,Space for Glove
+397,Speech,"Prime-Lock! I'll keep it with me, just in case. "
+398,Speech,I'm not taking all my collectables. Are you crazy? 
+399,Speech,I would rather not go back to that shop. Besides I have what i need now!
+400,Hotspot,Space for Prime-Lock
+401,Speech,"There it is, very odd, I have never lost my phone before? Hmmm..."
+402,Speech,They say all life on Earth requires one fundamental basic.
+403,Speech,Water.
+404,Speech,However I'd like to add that the water needs to be boiled and infused with coffee.
+405,Speech,Lots of coffee.
+406,Hotspot,Prime-Lock
+407,Speech,Just an empty key bowl.
+408,Speech,Just an empty key bowl.
+409,Speech,Wait...Where are my keys?
+410,Speech,I obviously had them last night otherwise how did i get in!
+411,Speech,They must be around here somewhere. 
+412,Speech,"The Robo-Junkyard Collection, part One."
+413,Speech,I was going to collect them all but they put the price up after the introductory issue...
+414,Speech,I wonder if anyone ever bought issue 2? Probably not.
+415,Speech,Not the most comfortable and definitely not the most stylish.
+416,Speech,However that sofa and I have had some good times in the past.
+417,Speech,Even if I usually have to fly solo.
+418,Hotspot,Spoon Blade
+419,Hotspot, 
+420,Hotspot, 
+421,Character,Bio Animation
+422,Hotspot, 
+423,Hotspot, 
+424,Hotspot, 
+425,Hotspot, 
+426,Hotspot, 
+427,Hotspot, 
+428,Hotspot, 
+429,Hotspot, 
+430,Hotspot, 
+431,Hotspot, 
+432,Hotspot, 
+433,Hotspot, 
+434,Hotspot, 
+435,Hotspot, 
+436,Hotspot, 
+437,Hotspot, 
+438,Hotspot, 
+439,Hotspot, 
+440,Hotspot, 
+441,Hotspot, 
+442,Hotspot, 
+443,Speech,"Hey, this is an active crime scene. Move it along!"
+444,Speech,Are you crazy?
+445,Speech,"I don't see any possible future where I would ever want, or need to go into that jerks apartment."
+446,Speech,I can barely stand the smell coming out of there when I pass the door in the hall...
+447,Speech,"So it's a big, fat 'NO' from me."
+448,Speech,"Well, big brother is watching. Great."
+449,Speech,"Considering there are only 3 of us living here, where did all this crap come from?"
+450,Speech,That's the Landlords mailbox. 
+451,Speech,He checks it every couple of hours for some reason.
+452,Speech,My theory is that the stuff he recieves is so twisted that he has to get and hide it in his aprtment before any of us see it!
+453,Speech,Weirdo.
+454,Speech,"Perfect, just what i needed."
+455,Speech,"Hey Mr D, Can you believe that my key has broken in the mailbox again!"
+456,Speech,"Dammit, I suppose I'll call maintenance again, you clumsy idiot!"
+457,Speech,Now's my chance to get that lens!
+458,Speech,I don't have time to check my mail.
+459,Speech,"Well, this is my mail box. Now what?"
+460,Speech,Company Moto: Safety First.
+461,Speech,Last Inspection: 2010...
+462,Speech,Sounds about right for this dump.
+463,Speech,"Hey, sorry to bother you, but the landlord is really not happy with the noise."
+464,Speech,He's talking about eviction. I'd give him a call if I were you.
+465,Speech,"Pfft, who could that be?"
+466,Speech,Who is it??
+467,Speech,It’s R.Sole.
+468,Speech,Oh great.
+469,Speech,Not only are you breaking my stuff you’re now disturbing me at home!
+470,Speech,Unless you’re here to pay your rent you can get lost!
+471,Speech,Jerkoff.
+472,Speech,What a wonderful human being. I’m sure the Nobel people will be in touch any day soon…
+473,Speech,Your conscience.
+474,Speech,"Oh yeah, the code is [var:47][var:48][var:49][var:50] "
+475,Speech,What? My conscience who?
+476,Speech,Only kidding! We all know you evicted your conscience years ago!
+477,Speech,Damn kids! Stop banging on my door and get a job!
+478,Speech,"Haha. Yeah, I know it didn’t help in any way but I just couldn’t stop myself."
+479,Speech,Rent Resistance is Futile.
+480,Speech,Ah perfect. You need to fix that mailbox quickly.
+481,Speech,If you try to overcharge me I’ll know!
+482,Speech,Now get on with it.
+483,Speech,Ahem. The padlock?
+484,Speech,It’s the repair guy about your mailbox.
+485,Speech,"About time! Well, get on with it then!"
+486,Speech,Just going to need to get into your cleaning cupboard for the… stuff?
+487,Speech,"Ahh again? Ok, what’s the code phrase?"
+488,Speech,The… code phrase?
+489,Speech,"Yeah, my security code phrase. The one I use with all you contractors and purchases."
+490,Speech,Ah. Ok. Well…
+491,Speech,No! That’s not it. 
+492,Speech,You’re a scammer! I knew it!
+493,Speech,You get out of here before I open that door and shove this TV remote someplace it can’t change a channel!
+494,Speech,Yikes. Well i've got to go...Bye!
+495,Speech,Thanks…
+496,Speech,Another day… another con!
+497,Speech,"Mr Ditkovich, the landlord."
+498,Speech,Though we all call him Dick-o-Witch...Well I do anyway...
+499,Speech,And here is my apartment building.
+500,Speech,"Squalid, dirty, over-priced and designed by someone who usually builds prisons."
+501,Speech,And those are just the positives.
+502,Speech,"I always thought I’d have moved on to something better by now, but I never seem to be able to break away."
+503,Speech,"I haven't seen you around here before. If you going to see that R Sole upstairs don't bother, he won't be living here much longer!"
+504,Speech,Hey Mr D.
+505,Speech,"Unless you’re here to pay the rent you owe, go and earn some money!"
+506,Speech,"Yeah, yeah. Money, I got it…"
+507,Speech,"Yeah, yeah. Money, I got it…"
+508,Speech,Hey Mr D. What seems to be ruining your mood today then?
+509,Speech,That damn stuck-up tool in 221B never stops playing that stupid violin! I can never get a moments peace. I may have to kick him out!
+510,Speech,Not that I was expecting any thanks to be fair...
+511,Speech,"And not that I'm really interested, but the quest chain dictates that I need to ask you what else is souring your puss?"
+512,Speech,I'm always getting complaints about that bloody mailbox. You lot just need to be careful with your keys!
+513,Speech,"Yadda, yadda, yadda, mailbox. Got it."
+514,Speech,So that's your noise pollution issue solved!
+515,Speech,So yeah... I'm going to go now.
+516,Speech,Get me my money!
+517,Speech,What do you want now? Can't you see i am busy.
+518,Speech,"Well to continue with the theme of this questline, even though i had to find this distraction..."
+519,Speech,Sammy at the Copperpot mentioned something about throwing out this strange beer...
+520,Speech,Something called Ro..Roth...Rothaus...
+521,Speech,Rothaus Tannenzapfle?!?!
+522,Speech,That's my drinks order! I have been waiting for this to be deliered for weeks! That idiot!
+523,Speech,Well that worked! Now lets get that lens.
+524,Speech,"Oh, hi Mr D. "
+525,Speech,Still just standing in the hallway I see.
+526,Speech,Randomly.
+527,Speech,Like a weirdo…
+528,Speech,Oh it’s you!
+529,Speech,You’re behind on your rent R.Sole!
+530,Speech,Don’t be trying to stiff me when it comes to money!
+531,Speech,Oh perish the thought Mr D.
+532,Speech,I wouldn’t want to jeopardise my lease in this ‘heavenly’ building after all…
+533,Speech,I don’t like your tone.
+534,Speech,And I don’t like your odour but what are we going to do?
+535,Speech,What?
+536,Speech,I said the cheque is in the mail Mr D.
+537,Speech,Don’t have any time for cheques. 
+538,Speech,Cash.
+539,Speech,Cold hard cash is what I need!
+540,Speech,Yeah… and a shower…
+541,Speech,Still single I see?
+542,Speech,Excuse me?
+543,Speech,When I was your age I was knee deep in women.
+544,Speech,They were always just throwing themselves at me!
+545,Speech,Are you sure they weren’t throwing themselves into oncoming traffic just to avoid you?
+546,Speech,I was quite the ladies man.
+547,Speech,Still am in some parts.
+548,Speech,Those are ‘parts’ I really don’t want to think about.
+549,Speech,In fact I may need to take a wire brush to my brain just to scrub the images from my mind…
+550,Speech,Oh yes. Quite the ladies man… adoring women everywhere.
+551,Speech,Are these ‘adoring women’ in the room with us now?
+552,Speech,No?
+553,Speech,Didn’t think so…
+554,Speech,What?
+555,Speech,Wheres my...
+556,Speech,It's the mailbox for the guy across the hall.
+557,Speech,I've never actually met him but I've heard his violin.
+558,Speech,"He seems to have a few visitors each week, I think he runs a business from there?"
+559,Speech,Oh I don't know. Or care.
+560,Speech,That for sale sign... is that a..?
+561,Speech,Ah man... I think I was just a little sick in my mouth...
+562,Speech,Let's see what nonsense is on the notice board today.
+563,Speech,"The guy next door, always playing that violin. Good job he ain't half bad!"
+564,Speech,Hey!
+565,Speech,Stay away from my camera!
+566,Speech,"Damn, I can't get it while he's watching! I need to distract him somehow."
+567,Speech,Dammit!
+568,Speech,Just one more turn...I need another distraction...hmmm
+569,Speech,Yes! I have it! As signified by that jaunty little tune.
+570,Speech,A lens! Just what I was looking for.
+571,Speech,Dammit!
+572,Speech,What? Another turn?...I need another distraction...hmmm...
+573,Speech,This is where the landlord keeps all his cleaning stuff.
+574,Speech,I have never seen it open.
+575,Speech,That worked! I wonder what's inside...
+576,Speech,it's just full of broken cleaning equipment and junk.
+577,Speech,"Oh there's a screwdriver, the only thing that isn't broken. I'll take it just in case."
+578,Speech,Lets see if I can get past this padlock...
+579,Speech,I'll need to find away to get the code...
+580,Speech,It’s a combination padlock. Pretty sturdy.
+581,Speech,I’m not good with code cracking… before you ask.
+582,Speech,That's the Landlords apartment. 
+583,Speech,"Legend has it that he once had guests inside, actually inside, the building!"
+584,Speech,I'm not sure I believe that though.
+585,Speech,Unless they are now buried under his floorboards...
+586,Speech,Why bother checking? I never get any mail. 
+587,Speech,I don't have my keys anyway. 
+588,Hotspot, 
+589,Hotspot, 
+590,Hotspot,Cop
+591,Character,Landlord
+592,Hotspot, 
+593,Character,Bio Animation
+594,DialogueOption,Here’s looking at you rent increase?
+595,DialogueOption,Say hello to my little invoice?
+596,DialogueOption,You’re gonna need a bigger toolbox?
+597,DialogueOption,Rent Resistance is Futile.
+598,DialogueOption,It's R.Sole
+599,DialogueOption,Your conscience
+600,DialogueOption,It's the repair guy about your mailbox
+601,Character, 
+602,DialogueOption,Money? Erm... What money?
+603,DialogueOption,Let's see if I can find a distraction
+604,DialogueOption,Better see what else I can use against him
+605,DialogueOption,Strange angry man?
+606,DialogueOption,"Well, i've got to go now..."
+607,Hotspot,My Apartment
+608,Hotspot, 
+609,Hotspot, 
+610,Hotspot, 
+611,Hotspot, 
+612,Hotspot, 
+613,Hotspot, 
+614,Hotspot, 
+615,Hotspot, 
+616,Hotspot, 
+617,Hotspot, 
+618,Hotspot, 
+619,Hotspot, 
+620,Speech,That's the aerial to Sammy's apartment.
+621,Speech,An almost limitless number of TV channels... and Sammy only watches soap operas...
+622,Speech,What a waste.
+623,Speech,"It’s Marion, she’s always out here knitting something or other when the weather is good. She’s nice but she can be a bit…batty…"
+624,Speech,Yup...Still a bench
+625,Speech,Looks like those thieving swines are open.
+626,Speech,"The copper pot, my second favourite place on earth, after my bed."
+627,Speech,Let's see what they are trying over-inflate the price of today...
+628,Speech,As I thought...Everything!
+629,Speech,"Good morning Lady, just a stranger having a nice walk past the bar. Nothing to see here."
+630,Speech,If you say so R Sole.
+631,Speech,What? How did you..?
+632,Speech,You’ve put on a hat and scarf and for some reason you have a filthy mop on your head. Hardly the most imaginative disguise.
+633,Speech,"Don’t worry though, I’m sure it will fool minor NPC’s."
+634,Speech,Yeah…thanks.
+635,Speech,"Hey Marion, you wouldn’t happen to have seen a phone around here?"
+636,Speech,"Dear me, you’ve lost your phone? Oh dear. Well where did you have it last?"
+637,Speech,Well If I knew that…
+638,Speech,Well think man! Retrace your steps at the very least.
+639,Speech,"Oh hey Marion, are you having a good morning?"
+640,Speech,Oh good morning my dear.
+641,Speech,Indeed I am enjoying the sunshine and finishing these socks for my Grand Niece.
+642,Speech,"Wow, you're using a lot of wool, does she have big feet?"
+643,Speech,Enormous. Last year when the river flooded three people used one of her shoes as a canoe…
+644,Speech,"Well, as long as you're enjoying your morning I'll..."
+645,Speech,"Oh yes, lovely. Listen young man, we all know that in Adventure Games to access your Inventory you simply press the 'I' button on your keyboard, yes?"
+646,Speech,Erm… Well… That’s good to know…
+647,Speech,"Yes, and if you want to try and combine items you open your inventory, select the item and drop your selection onto another item! "
+648,Speech,Fascinating isn’t it?
+649,Speech,Yeah. Not a weird conversation at all.
+650,Speech,"Hey Marion, I need to find…"
+651,Speech,I’m going to stop you right there dear.
+652,Speech,Huh? Okaaaay…
+653,Speech,Have you gone everywhere you can and clicked on everything that you can?
+654,Speech,I… erm… I don’t….
+655,Speech,Exactly. Off you pop dear.
+656,Speech,I’d better get going.
+657,Speech,"Yes, well these quests aren’t going to complete themselves are they?"
+658,Speech,How am I supposed to create a sense of immersion like this? 
+659,Speech,"Hello dear, what can I do for you?"
+660,Speech,Oh right. Good one.
+661,Speech,"No seriously, she was recently classified as a Yeti by National Geographic."
+662,Speech,Her mother was very proud.
+663,Speech,"Right... well, okay then..."
+664,Speech,I'm sorry dear but you'll have to speak to the writers. I'm sure you'll manage though.
+665,Speech,What a fruit loop.
+666,Speech,"Still, you can't help but like her!"
+667,Speech,Nevermind.
+668,Speech,Hang on...Was that?
+669,Speech,Ah main street...
+670,Speech,"The downtown city centre has a lot of bustling shopping malls, boutiques, bars and restaurants but I very rarely stray further than this little nook of happiness."
+671,Speech,"The Copper Pot is my second home, and if I’m honest, nicer than my actual home."
+672,Speech,I don’t really have much to do with the Trade in place and that coffee shop is new. I may check them both out at some point. 
+673,Speech,Or I may not.
+674,Speech,That's the manager of the new coffee shop.
+675,Speech,I'm not short but he's got some height.
+676,Speech,Even before you take the quiff into account.
+677,Speech,"Great, another cafe where the cost of a drink and a flapjack require a mortgage application."
+678,Speech,"Hey, Christian isn’t it?"
+679,Speech,What? Oh is that you under there R.Sole?
+680,Speech,Come to gloat have you?
+681,Speech,"What, no I…"
+682,Speech,I’ve been stood out here all day and I’ve only sold two coffees and three sandwiches.
+683,Speech,All to that woman there on the bench.
+684,Speech,She didn’t even go into the café and see my wonderful tribal artwork from…
+685,Speech,Oh who cares?
+686,Speech,Oooookaaaaay. 
+687,Speech,"Well, look, I’m sorry your day isn’t going great. "
+688,Speech,I’ve even had to get a handful of my ‘Free coffee and Subs’ flyers to try and drum up business.
+689,Speech,Free you say? 
+690,Speech,Yes. They’re a last resort my boyfriend thought of to ‘get the word out there’
+691,Speech,"Well, I think your boyfriend has got the right idea! Tell you what, I feel bad for being harsh on you earlier, how about I take a flyer, I think I might know a guy who could do with trying out your wonderful menu."
+692,Speech,"Really? Oh, that’s wonderful!"
+693,Speech,"If you’re friend comes and gets a coffee and food from me I promise you that you will never pay for a coffee in my shop, ever!"
+694,Speech,"Yeah, sounds about right. "
+695,Speech,Here you go!
+696,Speech,Why hello there!
+697,Speech,"Oh, hey. I suppose."
+698,Speech,I’m very well thank you!
+699,Speech,What? I didn’t…
+700,Speech,Welcome to Caffiends on this very special morning!
+701,Speech,What’s your name my new friend?
+702,Speech,What? Erm… it’s R Sole.
+703,Speech,Oh I am so sorry.
+704,Speech,"Seriously, what?"
+705,Speech,"That’s right, you’re just a few steps away from entering the newest, hippest and best coffee shop in all of town!"
+706,Speech,Our menu?
+707,Speech,Actually I didn’t say a word…
+708,Speech,We stock only the finest Arrocaboreo beans for our coffee.
+709,Speech,Arro…cabo… what-now?
+710,Speech,These beans grow only in the humid wetlands of the Caffeylotto Forests in North-Southerly Venezumbia.
+711,Speech,Come again?
+712,Speech,"Each bean blossoms over the course of a semi-seasonal, bi-weekly year before growing to its fullest potential."
+713,Speech,Those aren’t real words…
+714,Speech,"Once fully grown, these resplendent beans are then eaten by the wild boars of the region and it is as they pass though the digestive tract of the porcine heroes that the bean achieves its fullest flavour."
+715,Speech,Dear Jesus…
+716,Speech,"Once the boars have spread their scat, the piles are then searched through by native children, of no more than seven years of age, and the newly flavoured beans are harvested."
+717,Speech,I have literally no idea what is going to come out of your mouth next…
+718,Speech,"After enough beans are gathered the natives then package, brand and air drop deliver the beans straight here for grinding. Then the real magic happens!"
+719,Speech,I will pay you to stop talking.
+720,Speech,They become our coffee! Isn’t that wonderful?
+721,Speech,"Yeah, wonderful. My life is so much better now I have those images seared into my brain."
+722,Speech,I know right? Anyhoo. Are you going to try one?
+723,Speech,Am I going to try your wild boar poop coffee? Let me think for a second.
+724,Speech,I have vouchers for 20% off…
+725,Speech,Tempting though that is I have reluctantly decided to trim my beard with an angle grinder instead.
+726,Speech,Oh but…
+727,Speech,I’m out of here.
+728,Speech,Oh hey! Have you changed your mind about one of my coffees?
+729,Speech,"Oh, my mistake. My mouse slipped."
+730,Speech,Oh. It’s you.
+731,Speech,Your mood has changed a bit.
+732,Speech,"Well, it’s been a quiet morning. Strangely nobody seems to be excited to try our uniquely sourced coffees."
+733,Speech,"What, really? I mean, who wouldn’t want a boar-shit latte?"
+734,Speech,"Oh, would you like…"
+735,Speech,God no.
+736,Speech,No. No siree. Negatory.
+737,Speech,No.
+738,Speech,Oh. Things aren’t going as well as I would have liked. 
+739,Speech,"Still, at least I have the food menu to fall back on!"
+740,Speech,"Listen, if you’re going to start telling me that all your ingredients are reliably sourced from tribes of wandering nine feet tall Amazonian women I may just punch you in the face."
+741,Speech,What? Oh no. They’re from the farmers market in town.
+742,Speech,"Oh. Well, maybe I jumped the gun."
+743,Speech,"Yes, well. The farm in question gets their stock from a village just outside of Nairobi…"
+744,Speech,I hate you.
+745,Speech,Hey friend! Do you want a free coffee yet?
+746,Speech,"Ah, not at the moment. My body isn’t currently infested with wild boar germs and I’d kind of like to keep it that way."
+747,Speech,"Ok, well let me know when you change your mind!"
+748,Speech,"Come on man, one voucher is enough!"
+749,Speech,"Hey, there's an aerial up there."
+750,Speech,"No way I can reach that though, beside how would Sammy watch his soaps?"
+751,Hotspot,Quattro
+752,Hotspot, 
+753,Hotspot, 
+754,Hotspot,MovingCar
+755,Hotspot,MovingCar
+756,DialogueOption,Have you seen my phone?
+757,Character,MovingCar
+758,Hotspot, 
+759,Character,MovingCar
+760,Character,Christian
+761,Character,Bio Animation
+762,Hotspot, 
+763,Character,MovingCar
+764,Character,Bio Animation
+765,Character,Miriam
+766,Hotspot,Marion Mansky
+767,Hotspot, 
+768,Hotspot, 
+769,Hotspot, 
+770,Hotspot, 
+771,Hotspot, 
+772,Hotspot, 
+773,Hotspot, 
+774,DialogueOption,"So, how are you doing today?"
+775,DialogueOption,I need some advice…
+776,DialogueOption,Bye.
+777,Hotspot, 
+778,Speech,It's a pair of security lights that are on a timer.
+779,Speech,Without these this alley would be in total darkness at night.
+780,Speech,I still can't believe I followed Harper out here last night.
+781,Speech,What was I thinking?
+782,Speech,"Or more specifically, what was I think with?"
+783,Speech,Several metal bins and black refuse sacks containing all sorts of garbage.
+784,Speech,Pretty standard for behind the back of a bar.
+785,Speech,"A big box blue, I mean blue box! How silly of me!"
+786,Speech,"Hey, what's this underneath?"
+787,Speech,What?! Seriously? That actually happened? 
+788,Speech,But what am I meant to do with it? It's completely trashed!
+789,Speech,"Hang on, what's this?"
+790,Speech,"Oh okay, let's see what I need to fix this wreck..."
+791,Speech,Focusing lens...93% damage.
+792,Speech,"Supranet Aerial antenna, whatever the hell one of those is... 98% damage. This isn't looking good..."
+793,Speech,"10 Fuggerhertz Battery - Emergency power only, 3% remaining! Woah..."
+794,Speech,Hmmm...
+795,Speech,"Right. Ok, I can fix...this. Can't I? "
+796,Speech,Am I really doing this?
+797,Speech,Screw it! Yes I am!
+798,Speech,"Hey, what's this flashing light?"
+799,Speech,Holy crap-snacks!
+800,Speech,"...hear me. Harper, are you there?"
+801,Speech,"Hey, is this a live connection?"
+802,Speech,Oh it's you! What the hell is going on there?
+803,Speech,Where is Harper? Is she safe?
+804,Speech,Ahhhhh... well you see... funny story...
+805,Speech,Well? Spit it out man!
+806,Speech,"Right, well..."
+807,Speech,The floating tin butler went all screwy and it sucked Harper through a wibbly-wobbly-wormy-holey... thing...
+808,Speech,What? Are you saying the Wang unit malfunctioned and jettisoned her through an emergency wormhole?
+809,Speech,"Well, yeah... kinda..."
+810,Speech,I suppose?
+811,Speech,Well why didn’t you just say that man?
+812,Speech,I would have... if I knew what it meant.
+813,Speech,This is most unfortunate… in fact disasterous!
+814,Speech,I’m sure I don’t need to tell you how important it is that we locate her immediately?
+815,Speech,"Well, beyond the fact that she was supposed to be getting me out of here…"
+816,Speech,A clue might be helpful?
+817,Speech,"What? You’re joking, right?"
+818,Speech,Lots of the time… but not this time.
+819,Speech,"Well, she has the trace co-ordinates of your universe obviously…"
+820,Speech,But she also has the co-ordinates of the secure location we have in this universe...
+821,Speech,Which I assume you’ve already worked out means that if captured Masterstroke could track us to here! That would be catastrophic!
+822,Speech,"Yeah, catastrophic."
+823,Speech,"Again, a clue would...?"
+824,Speech,"What is going on here, you are an R.Sole right?"
+825,Speech,"Oh yes, very much so. The real deal!"
+826,Speech,Then how come you’re acting like you’re just some idiot shmuck who doesn’t understand the gravity of what’s going on?
+827,Speech,...
+828,Speech,"No, you’ve lost me…"
+829,Speech,Could it be???
+830,Speech,Tell me what have you invented in your universe? I know that multiversal travel has yet to become widespread...
+831,Speech,But you must have had an impact on your civilisation?
+832,Speech,"… some impact, yeah… but… maybe not … lots?"
+833,Speech,Oh my God. It’s true…
+834,Speech,You are...
+835,Speech,An idiot!
+836,Speech,"Hey! Calm down mister high and mighty, we may not all be big bad science guys like you but there’s no need for that!"
+837,Speech,"No, sorry, you just don’t get it."
+838,Speech,You’re an idiot… but the rest of us aren’t.
+839,Speech,We’re geniuses.
+840,Speech,"Oh right, whatever… do you want me to turn this thing off?"
+841,Speech,"No, listen! My name is Reed Sole and I won the Nobel Prize for Physics when I was 21… and I was a late bloomer!"
+842,Speech,"Another R.Sole, Rolf, created an enzyme that systematically eradicated pollution in sea water on his Earth. He was 17 when that happened."
+843,Speech,You’re… not making me feel good about myself you know…
+844,Speech,All of the R.Soles I’ve met have made enormous scientific contributions to their realities… 
+845,Speech,"brought about peace, prosperity and enlightenment… but you?"
+846,Speech,You’re just an absolute imbecile…
+847,Speech,You can go off someone you know…
+848,Speech,Each time an R.Sole is destroyed our data suggests that the multiverse is buckling under some sort of strange energy. 
+849,Speech,"It’s as if the layers of the multiverse are scraping together, the friction of which is causing massive destruction."
+850,Speech,Whole universes have been lost…
+851,Speech,No pressure then…
+852,Speech,You have to…
+853,Speech,What’s going on?
+854,Speech,Oh no… we’ve been compromised!
+855,Speech,Oh crap!
+856,Speech,"Quickly, I don’t have much time…"
+857,Speech,Repair Wang.
+858,Speech,Find Harper.
+859,Speech,Save the…
+860,Speech,"Why is it whenever someone gets to the point, it ends abruptly! "
+861,Speech,I need a beer…
+862,Speech,"So, I’m the only R.Sole that isn’t a huge brainbox?"
+863,Speech,It would seem that way. 
+864,Speech,"In my journey through the multiverse I have met many of our counterparts and I must say, they have all been brilliant."
+865,Speech,You are the first I have met that appears to have such… limited brain power.
+866,Speech,"But if we’re all the same person, why is my life so much crappier than everyone else?"
+867,Speech,Choices. At some point you must have made the wrong choices that have lead you away from your potential. What did you study at college? What roles have you taken in the community and local affairs?
+868,Speech,College? Local affairs? Erm…
+869,Speech,I have an IT certificate and as for the local community…
+870,Speech,I’m banned from several stores in the mall but other than that…
+871,Speech,Well that’s it isn’t it?
+872,Speech,What?
+873,Speech,"You’re a lazy, feckless time waster."
+874,Speech,"Hey, watch it pal!!!"
+875,Speech,No wonder you’ve achieved nothing.
+876,Speech,Why are we being hunted?
+877,Speech,That’s a good question but I don’t have a complete answer.
+878,Speech,My universe has a monitoring station in orbit of the planet and I use it to maintain contact with the various R.Soles around the multiverse. 
+879,Speech,That’s how I’m managing to communicate with you now.
+880,Speech,"Some weeks ago I began receiving reports of calamities in the other universes. In some cases, total destruction."
+881,Speech,Each time the attacks were centred around the location of that realities R.Sole. 
+882,Speech,I began to reach out to them but all of the reports that came back were that the attacks finished as soon as the R.Sole was destroyed.
+883,Speech,Destroyed… so he’s killing us?
+884,Speech,It seems that way. 
+885,Speech,I was in contact with Ricardo Sole of Earth 974B when his world was attacked.
+886,Speech,"Before the communication broke off I heard the attack drone saying, ‘Masterstroke orders your destruction’ and then we lost contact. That was the first we'd heard of him."
+887,Speech,Masterstroke? But who is he?
+888,Speech,We don’t know. 
+889,Speech,All of our investigations have drawn a blank.
+890,Speech,We don’t even know what reality he is from.
+891,Speech,So much for genius…
+892,Speech,We began collecting as many of ourselves as we could.
+893,Speech,Currently we have managed to secure 11 R.Soles here in my universe. 
+894,Speech,At a safe location of course and that’s why it is imperative that Masterstroke does not capture Harper and discover our location!
+895,Speech,"Oh, I get you now. Yeah, fair enough."
+896,Speech,Harper is our best field agent but if she is captured…
+897,Speech,I fear that Masterstroke may tear the truth from her.
+898,Speech,How the hell am I supposed to fix this bucket of bolts?
+899,Speech,You really don’t know anything do you?
+900,Speech,"Listen, you’re not winning me over with your charms you know?"
+901,Speech,"Alright, alright!"
+902,Speech,Wang units have been designed to be omni-technologically adaptable.
+903,Speech,Right. ‘Omni-nomni-bomni’ was all I got from that…
+904,Speech,For the love of…
+905,Speech,It means they can automatically adapt the technology of their current universe for self actuated repairs.
+906,Speech,‘Adapti-macti-pacti’…
+907,Speech,Jesus! Just find some spare parts to replace the damaged sections and the droid will do the rest!
+908,Speech,See? It’s easy when you talk properly.
+909,Speech,God help us…
+910,Speech,"So, just for us under-achievers at the back, what’s the plan after I fix it?"
+911,Speech,"Well, much as I would rather not involve you in this…"
+912,Speech,Are you thinking of my safety?
+913,Speech,No. You’re a bumbling idiot who is more than likely going to lead to our total destruction…
+914,Speech,"Well, I suppose there is that…"
+915,Speech,But I have no choice.
+916,Speech,You are going to have to track down Harper and make sure she doesn’t fall into Masterstrokes hands.
+917,Speech,She has too much information about our secure location and our plans beyond that.
+918,Speech,So you need to rescue her. If you can.
+919,Speech,And if you can’t…
+920,Speech,What? Pop a cap in her ass?
+921,Speech,I’m not saying that… but the fate of the multiverse may hang in the balance…
+922,Speech,Wow. You’ve got a real mercenary streak there haven’t you Reed?
+923,Speech,God forgive me but the needs of the many…
+924,Speech,Oh spare me the Star Trek crap!
+925,Speech,You’re scared and you don’t know what to do.
+926,Speech,...
+927,Speech,Maybe you’re right.
+928,Speech,"So, you’re going to have to find her then aren’t you?"
+929,Speech,"Yeah, leave it to the idiot why don’t you?..."
+930,Speech,It was all real...
+931,Speech,"It's a stack of battered, wet and dirty cardboard boxes."
+932,Speech,The kind that normally get smashed out of the way by cars in movie chase scenes.
+933,Speech,We're not going to do that though.
+934,Speech,That's far too difficult and expensive to animate.
+935,Speech,"I could take down, open and search every individual cardboard box..."
+936,Speech,In theory at least.
+937,Speech,But I'm not going to.
+938,Speech,What a great looking scarf.
+939,Speech,I have the sudden urge for a jelly baby.
+940,Speech,"Anyway, could be useful."
+941,Speech,Where did I leave my phone?
+942,Speech,"Right, i have my phone, now let's see what i can get this thing working again."
+943,Speech,"On second thoughts, let's not do this down an alley where anyone could just walk in."
+944,Speech,Now how am i going move this thing?
+945,Speech,It's the dumpster for the Copper Pot.
+946,Speech,"Full of broken bottles, old food, glass and all sorts of bits and bobs."
+947,Speech,"Also, it really stinks."
+948,Speech,Only one piece of graffiti in the whole alley?
+949,Speech,Or is it that the game artist just couldn't be bothered to add more...
+950,Speech,Are the graffiti artists around here on a go-slow?
+951,Speech,"To confirm reset, please synch with Earth 616A mobile device."
+952,Speech,"Well that's easy enough, I'll just get out my..."
+953,Speech,BALLS!
+954,Speech,Now where did I leave my damn phone?
+955,Speech,"Right, I have the items I need, now what?"
+956,Speech,What's this? I didn't see this before.
+957,Speech,I wonder why this didn't play before?
+958,Speech,...Get my...
+959,Speech,Sammy asked me to take out the trash a couple of weeks ago.
+960,Speech,And like the helpful guy I am I said 'Sure thing Sammy'.
+961,Speech,When I opened the lid I nearly soiled myself when I found Cliff asleep inside!
+962,Speech,Judging from the smell I think Cliff had already soiled himself before I got there.
+963,Speech,"So 'No', I shall not be opening the dumpster."
+964,Speech,Spjork...Iceland is a very strange place.
+965,Speech,"Oh, this dirty mop head. Maybe i can do something with this."
+966,Speech,Why is there always a dirty old mop in alley scenes? 
+967,Speech,A big blue box...well...allons-y
+968,Speech,What's this?
+969,Speech,How to Talk to Girls and get Results in Three Easy Steps...
+970,Speech,I'm going to assume step three is a kick in the nuts. Always has been in my experience...
+971,Speech,"Either way, I think I'll pass."
+972,Hotspot, 
+973,Hotspot,Alternative R Sole
+974,Character,Bio Animation
+975,Character,Alternative R Sole
+976,DialogueOption,So I’m the only R.Sole that isn’t a huge brainbox?
+977,DialogueOption,Why are we being hunted? 
+978,DialogueOption,How the hell am I supposed to fix this bucket of bolts?
+979,DialogueOption,"So, what’s the plan after I fix it?"
+980,Hotspot, 
+981,Hotspot, 
+982,Hotspot, 
+983,Hotspot, 
+984,Hotspot, 
+985,Hotspot, 
+986,Hotspot, 
+987,Hotspot, 
+988,Hotspot, 
+989,Hotspot, 
+990,Speech,It’s a red public telephone box. I have no idea Who would use one of those these days.
+991,Speech,The Q Console 2.0. All the power and processing speed of the first Q Console but with an extra 2 green LED’s. 
+992,Speech,And an extra 350% on the price…
+993,Speech,Woah dude! No way. It's a super rare Prime-Lock!
+994,Speech,"Yeah, so is that worth a battery?"
+995,Speech,No way dude.
+996,Speech,What do you have my dude?
+997,Speech,Better luck next time!
+998,Speech,"The electro-computer revolution at its most capitalistic. So much choice, so much power, so much…"
+999,Speech,... price gouging.
+1000,Speech,Never really seen the appeal of this drone craze. Most people tend to use them to spy through people’s windows in the hope of catching something naughty. What a waste of time!
+1001,Speech,Naughty things are what the internet is for.
+1002,Speech,Adapto-Droids are one of my favourite franchises. 
+1003,Speech,"Prime-Lock is obviously the best, but Acid-Jazz, his trippy streetwise sidekick, comes pretty close."
+1004,Speech,"I love his catchphrase, ‘Heeey maaaan’. So original. "
+1005,Speech,"Well, If he isn't going to look after it..."
+1006,Speech,"Well, If he isn't going to look after it..."
+1007,Speech,"Well, If he isn't going to look after it..."
+1008,Speech,"Look 'Dude', I really need that battery!"
+1009,Speech,Not unless you make it worth my while.
+1010,Speech,Urgh...fine!
+1011,Speech,"Hey there, are you serving?"
+1012,Speech,"Ahhh hey man, I'm just chilling."
+1013,Speech,Seems... quiet in here? Is business usually this slow?
+1014,Speech,"Yeah man, sometimes, but it can get real hectic as well."
+1015,Speech,"Hey my dude! Sorry but we are closed at the moment, someone stole one our batteries and my new collectable! Such a bummer!"
+1016,Speech,Ah such a shame for you. 
+1017,Speech,And you seem such a 'cool dude' too.
+1018,Speech,"Hey dude, how can I help?"
+1019,Speech,I see you have a few 10 Fuggerhertz batteries on display. How much are they?
+1020,Speech,"Oh sorry my dude, those are all reserved for staff."
+1021,Speech,Reserved? But they are in the cabinet?
+1022,Speech,Yeah...We couldn’t be bothered to move them. Seems like a waste of time when we're just going to buy them anyway.
+1023,Speech,"So, let me get this straight... they are on display but I can’t have one?"
+1024,Speech,Yeah. I mean No. I mean... Yes you can’t.
+1025,Speech,"Right... I mean, that's not infuriating at all..."
+1026,Speech,"Yeah, well I suppose I'll leave you to your 'frantic' work..."
+1027,Speech,Later Dude!
+1028,Speech,'Chillaxing'... do people even use that word?
+1029,Speech,Of course dude! It's what all the coolest guys are saying.
+1030,Speech,In 1976 maybe...
+1031,Speech,I get the sense that you do that a lot.
+1032,Speech,Chill.
+1033,Speech,Oh it gets real busy in here! Got to grab those quiet hours where you can.
+1034,Speech,Quiet hours? Oh my heart simply bleeds for you...
+1035,Speech,And you don't see a problem with that?
+1036,Speech,What am I saying? Of course you don't...
+1037,Speech,Just another idiot to add to the grudge bank... this list is getting real big...
+1038,Speech,So for now I'm just chillaxing until the end of my shift.
+1039,Speech,We wouldn't want you to fall behind on all of that important skiving...
+1040,Speech,"Hey, it’s another one of the Adapto-Droids. "
+1041,Speech,This one was recalled from sale for some reason… what was his name? 
+1042,Speech,"Oh yeah, he was called Car-Jack."
+1043,Speech,"A brother and sister duo of Mexican electricians with no powers whatsoever, battle weird fungi, falling blocks and a giant hamster that constantly kidnaps whoever the siblings happen to be in a relationship with."
+1044,Speech,Absolute recipe for success. I think they should release it on at least 47 consoles over 50 years…
+1045,Speech,"Well, If he isn't going to look after it..."
+1046,Speech,feck It! was one of the last games in the electronic light sequence trend. It even made the news when people realised it could trigger photosensitive seizures.
+1047,Speech,"Ah, good times…"
+1048,Speech,"Ah I used to love this show! The way the main character was brilliant, sarcastic, edgy and yet prone to failure. I kind of modelled myself on him. "
+1049,Speech,Only managed to achieve the last bit though…
+1050,Speech,Woah dude! No way. It's a super rare Insultor-Omni Glove!
+1051,Speech,"Yeah, so is that worth a battery?"
+1052,Speech,No way dude.
+1053,Speech,Better luck next time!
+1054,Speech,What do you have my dude?
+1055,Speech,I think this is where they test the products.
+1056,Speech,Naturally it will be out of order.
+1057,Speech,Who doesn’t want to watch the same story involving horror hunting brothers played out over 300 seasons… 
+1058,Speech,Me...
+1059,Speech,"Well, If he isn't going to look after it..."
+1060,Speech,All the screen sizes in all the world and I had to be playing on this!
+1061,Speech,"The Binary-Screen Handheld Console, or BS Console for short, revolutionised handheld gaming."
+1062,Speech,It also gave Japanese executives more opportunities to sell the same games again and again on another console. Why create new games when you can just release the same ones only slightly shittier?
+1063,Speech,Woah dude! No way. It's a super rare Demon Fur Baby!
+1064,Speech,"Yeah, so is that worth a battery?"
+1065,Speech,No way dude.
+1066,Speech,What do you have my dude?
+1067,Speech,Better luck next time!
+1068,Speech,"Hey, it’s an Andy-Droid! I used to love those when I was a kid. There was a whole range of exactly the same toy in slightly different colours. "
+1069,Speech,Genius.
+1070,Speech,"Hey, it’s similar to the one I have! Only mine is more collectible."
+1071,Speech,Suck it losers!
+1072,Speech,Another innovation in handheld gaming! Not only can you play games you can also watch movies on this future proof console.
+1073,Speech,Not supported since 2016…
+1074,Speech,"There it is, very odd, i have never lost my phone before? Hmmm...."
+1075,Speech,Woah dude! No way. It's a super rare Spoon Blade!
+1076,Speech,"Yeah, so is that worth a battery?"
+1077,Speech,No way dude.
+1078,Speech,What do you have my dude?
+1079,Speech,Better luck next time!
+1080,Speech,Woah dude! No way. It's a super rare Knitting Almanac!
+1081,Speech,"Yeah, so is that worth a battery?"
+1082,Speech,No way dude.
+1083,Speech,What do you have my dude?
+1084,Speech,Better luck next time!
+1085,Speech,"In a Universe just over to the left, a week last Thursday… "
+1086,Speech,I love those movies.
+1087,Speech,"Our heroes wave glowing sticks against stuntmen dressed all in green, stood in front of green-screen backgrounds, jumping unrealistic distances and using space magic!"
+1088,Speech,Ah the Book of The Dead. 101 rituals and sacrifices to open demonic gateways between here and the Nether-Realm of Horror. 
+1089,Speech,Children’s edition.
+1090,Speech,"With the strength of Hercules and the Lighting of Zeus, Thunder-Puncher is one of the toughest supes of all! "
+1091,Speech,Foam gauntlets that make a fizzing sound when you whack something don’t exactly do his power justice though.
+1092,Speech,Batteries! Those could be useful.
+1093,Speech,The ever violent Sanus returns to shoot things and blow stuff up in her quest to destroy the evil forces of… 
+1094,Speech,"Oh, actually I lost the will to live there for a second, went a little light headed with the boredom. Yeah. It’s a shooty game."
+1095,Speech,The classic first person online co-operative game updated for modern audiences. 
+1096,Speech,Nobody ‘calls’ anyone these days…
+1097,Speech,"You bought it in 2001, you also bought it last year and every year in between!"
+1098,Speech,"You don’t want to miss out, do you?"
+1099,Speech,So basically you’re buying it this year as well.
+1100,Hotspot, 
+1101,Hotspot, 
+1102,Hotspot, 
+1103,Character,Cop
+1104,Character,Bio Animation
+1105,Hotspot, 
+1106,Character,Wozee
+1107,Hotspot, 
+1108,Hotspot, 
+1109,Hotspot, 
+1110,Hotspot, 
+1111,Hotspot, 
+1112,Hotspot, 
+1113,Hotspot, 
+1114,Hotspot, 
+1115,Hotspot, 
+1116,Hotspot, 
+1117,Hotspot, 
+1118,Hotspot, 
+1119,Hotspot, 
+1120,DialogueOption,How are you doing?
+1121,DialogueOption,What's on your mind?
+1122,DialogueOption,Can I get a battery?
+1123,DialogueOption,I really need that battery!
+1124,DialogueOption,Bye
+1125,Hotspot, 
+1126,Hotspot, 
+1127,Hotspot, 
+1128,Hotspot, 
+1129,Hotspot, 
+1130,Hotspot, 
+1131,Hotspot, 
+1132,Hotspot, 
+1133,Hotspot, 
+1134,Hotspot, 
+1135,Hotspot, 
+1136,Hotspot, 
+1137,Hotspot, 
+1138,Hotspot, 
+1139,Hotspot, 
+1140,Hotspot, 
+1141,Hotspot, 
+1142,Speech,"Right, this should FINALLY do it."
+1143,Speech,The office printer also has a scanner built in.
+1144,Speech,"Unfortunatley, I'm banned from using it after one, regrettable incident..."
+1145,Speech,And that there is my desk.
+1146,Speech,Or you could call it my prison.
+1147,Speech,But obviously without all the sex...
+1148,Speech,Sweet Dreams Manny.
+1149,Speech,What can I do for you Mr Sole?
+1150,Speech,"So Manny, are you really still not going to tell me about your ultra-secret other job?"
+1151,Speech,No can do Mr Sole. With great responsibility…
+1152,Speech,Manny! We don’t have the budget for this! Forget I asked.
+1153,Speech,So the aerial on your walki-talkie is huge! Is it powerful?
+1154,Speech,Oh it’s a super powerful gizmo!
+1155,Speech,"I can hear a pin drop in the other office block with this thing, it’s like super sonar hearing!"
+1156,Speech,"Manny, think of the lawyers!"
+1157,Speech,"Hey Manny, my bestest buddy... any chance I could borrow your walkie-talkie? Just for a little while?"
+1158,Speech,"Sorry Mr Sole, I need it to keep everyone and everything safe."
+1159,Speech,So...Even though I know I can't borrow your walkie-talkie... 
+1160,Speech,Is there anything I can help you with while I'm here?
+1161,Speech,"You know, for my super-chum, Manny the man?"
+1162,Speech,Very kind of you Mr Sole. I could really do with some more coffee!
+1163,Speech,Working these two jobs is really taking it out of me. 
+1164,Speech,"Without my coffee,  I’d probably fall asleep and become an unwakable bulk."
+1165,Speech,"Actually, I’m going to let you off that one because I just had an idea. Let me get you a coffee."
+1166,Speech,Gotta go Manny.
+1167,Speech,"See you around, Mr Sole!"
+1168,Speech,"Sorry Manny, but I really need this aerial. Sleep well buddy, you deserve it..."
+1169,Speech,Is that too much? 
+1170,Speech,Ahh It's fine!
+1171,Speech,Excelsisnore...
+1172,Speech,There it is. The City. It may not be much but it’s home. Actually it may be even less than that.
+1173,Speech,I hate this thing.
+1174,Speech,"But unlike this office, its pricks are on the outside."
+1175,Speech,Manny's mug! I'll need this.
+1176,Speech,"Hey, hold it right there!"
+1177,Speech,Huh? Hey Manny! It's me!
+1178,Speech,"Oh I’m sorry Mr Sole, I didn’t recognise you for a second, these old eyes aren’t what they used to be."
+1179,Speech,"That’s ok Manny, considering you’re my favourite guy in this whole office, I can live with that. How’s it going anyway?"
+1180,Speech,"I’m great Mr Sole, always happy to serve and protect, you know?"
+1181,Speech,Still working two jobs?
+1182,Speech,"Oh yeah. I’m here during the day, then I split back home to grab a catnap then off to the research lab to do more security!"
+1183,Speech,Still not gonna tell me what you do there or where it is?
+1184,Speech,"Sorry Mr Sole, all I can say is it’s top-secret, high-level stuff. Nuff said if you know what I mean."
+1185,Speech,"Whoah there Manny, think of the trademarks! But yeah, I think we all know what you mean…"
+1186,Speech,I can feel myself tensing up just stepping into this place.
+1187,Speech,Onofftech delivers IT support for various businesses around the world. It’s not the biggest tech company in the city but it is by far the most depressing.
+1188,Speech,I got a temporary job here while I was trying to decide what to do with my life.
+1189,Speech,"If it wasn’t for my friend Manny, who runs security here, I don’t know what I’d do."
+1190,Speech,Speaking of Manny...
+1191,Speech,Manny Yelnats.
+1192,Speech,Head of security and genuine nice guy.
+1193,Speech,Perfect. This will certainly do the trick!
+1194,Speech,"There it is, that's odd, i have never lost my phone before? Hmm..."
+1195,Speech,"Oh, what do we have here?"
+1196,Speech,"Damn, this draw is locked."
+1197,Speech,Manny's Walkie-Talkie. That aerial looks like it could come in handy....
+1198,Speech,Don’t let me down Asshole.
+1199,Speech,"It’s R Sole, not asshole you know?"
+1200,Speech,I know.
+1201,Speech,Soooo... how's it going in the office?
+1202,Speech,Well considering you didn’t bother to turn up for work today… better than usual.
+1203,Speech,Charming.
+1204,Speech,Ohhh-kaaay... I'll leave you to it.
+1205,Speech,Sure....
+1206,Speech,"Hey, you don't work here. Unless you are looking for a job? We'll have a position available pretty soon. "
+1207,Speech,Leave your CV on the desk on the way out. I just hope you are not as useless as the last person we hired.
+1208,Speech,...Bitch
+1209,Speech,What was that?
+1210,Speech,What was what? I didn't say anything. Nothing at all.
+1211,Speech,What?
+1212,Speech,Good morning Tracy.
+1213,Speech,"Oh hey, look who decided to turn up to work. Don’t expect me to cover for you."
+1214,Speech,"I never do Tracy, I never do."
+1215,Speech,Much as I'm probably going to regret this...
+1216,Speech,Is there anything you need to bring me up to speed on while I am here?
+1217,Speech,"What, besides the fact that I could pretty much run this department by myself, which I practically do?"
+1218,Speech,I do regret asking.
+1219,Speech,"So yeah, I seem to remember you drink decaf these days Tracy?"
+1220,Speech,Why? Are you thinking about joining me on my health kick? You should consider it by the looks of you. 
+1221,Speech,I've been thinking I may give that decaf life a go myself... is there any chance...?
+1222,Speech,"Well lets see. You stroll in late, dressed like a hobo and wander around before coming over to me and asking for my decaf? Hmmm. "
+1223,Speech,If you can give me your word that you will settle down and do a proper days work...
+1224,Speech,Uhmm...
+1225,Speech,...Yes?
+1226,Speech,Here you go then.
+1227,Speech,"No, I don’t have any instructions for you other than get your lazy ass to work!"
+1228,Speech,Or that Mimi from accounts was caught giving Tony in purchasing a knee-trembler in the stationary closet?
+1229,Speech,He claims she was helping him wipe mayo off his trousers.
+1230,Speech,"However that's the third time this month, so he either needs to tell the damn truth or start eating with a bib."
+1231,Speech,But other than that?
+1232,Speech,Yup. I was right.
+1233,Speech,"Yes, I still drink decaf, all my caffeine comes from natural energy sources like 'Blue Ox' and 'Creature' drinks."
+1234,Speech,"...with no slacking or being rude to customers, like you usually are..."
+1235,Speech,...then I suppose I can help you kickstart your healthy lifestyle. Is it a deal?
+1236,Speech,"Here you go Manny. Hot and absolutely bursting with caffeine, just as you like it."
+1237,Speech,"Hey, that’s great Mr Sole. I just need to take one of my pep pills before I drink it."
+1238,Speech,Now where did I leave them…
+1239,Speech,Manny's pep pills. I don't want him more awake!
+1240,Speech,I will need something else. But what?
+1241,Speech,Lets see...
+1242,Speech,Yay!
+1243,Speech,Yes! I have it! As signified by that jaunty little tune.
+1244,Speech,Now's my chance before he wakes up!
+1245,Speech,That's Ross who works here. Or is it Bob? I really should try to remember.
+1246,Speech,"Here you are Manny, I've found your Pep Pills!"
+1247,Speech,Ah gee Mr Sole you are the best. Thanks! Now I can take these with my coffee thank you!
+1248,Speech,"Ah Mr Sole, for some reason I feel more tired than before I drank the coffee."
+1249,Speech,Would you be a pal and get me a refill?
+1250,Speech,Erm…Yeah. Anything for my pal Manny.
+1251,Speech,Thank you Mr Sole!
+1252,Speech,Ah the office water cooler.
+1253,Speech,"A place to exchange information, gossip and outright fabrications."
+1254,Speech,Tracy loves that plant.
+1255,Speech,She treats it better than all of the humans in the office and probably the world.
+1256,Speech,Stupid plant...
+1257,Speech,"Most of the work we do here is done online, which makes me wonder just what exactly is filed in here."
+1258,Speech,Unless it's where all the staff complaints go...
+1259,Speech,"The air conditioning broke last year and this office gets really, really hot."
+1260,Speech,So it was agreed that we could get a fan to bring the temperature down a little.
+1261,Speech,Naturally the only person the fan is directly cooling is Tracy.
+1262,Speech,Largely due to her being a psychotic megalomaniac.
+1263,Speech,That's Bob who works here. Or is it Ross? I really should try to remember.
+1264,Speech,Manny's mug. I never took him for a Rivet-Man fan.
+1265,Speech,Well at least it smells like coffee!
+1266,Speech,OnOffTech
+1267,Speech,The company that does what it says on the tin
+1268,Hotspot, 
+1269,Hotspot, 
+1270,Character,Worker1
+1271,Hotspot,Cop
+1272,Character,Cop
+1273,Hotspot, 
+1274,Hotspot, 
+1275,Character,Worker2
+1276,Hotspot, 
+1277,Character,Tracy Sharp
+1278,Hotspot, 
+1279,Character,Bio Animation
+1280,Character, 
+1281,Character,Bio Animation
+1282,Hotspot,Printer
+1283,Hotspot, 
+1284,Hotspot, 
+1285,Hotspot, 
+1286,Hotspot, 
+1287,DialogueOption,Still not going to tell me your secrets Manny?
+1288,DialogueOption,How powerful is the aeriel on your walkie-talkie?
+1289,DialogueOption,Can I borrow your walkie-talkie?
+1290,DialogueOption,"Hey Manny, can I get you anything while I’m here?"
+1291,DialogueOption,Take care Manny!
+1292,DialogueOption,"Sweet Dreams, Manny"
+1293,Hotspot,Fan
+1294,Hotspot, 
+1295,Hotspot, 
+1296,Hotspot, 
+1297,Hotspot, 
+1298,Hotspot, 
+1299,Hotspot, 
+1300,Hotspot, 
+1301,Hotspot, 
+1302,Hotspot, 
+1303,DialogueOption,How’s it going here today?
+1304,DialogueOption,So anything I need to know?
+1305,DialogueOption,Do you still drink decaf?
+1306,DialogueOption,Can I get some of that decaf?
+1307,DialogueOption,Bye Tracy.
+1308,Hotspot, 
+1309,Speech,Where do you think you're going?
+1310,Speech,I told you what would happen if Cliff blew chunks.
+1311,Speech,Now get out of here!
+1312,Speech,The streets round here are not paved with gold.
+1313,Speech,Although that puddle does look like it's been paved with a golden shower.
+1314,Speech,"There, all done."
+1315,Speech,"The floor is so clean, you could eat off it!"
+1316,Speech,"Woah, that looks great!"
+1317,Speech,Thank you. 
+1318,Speech,Now...can i stay?
+1319,Speech,Hmmm...
+1320,Speech,"Yeah, you can stay. It can't have been easy cleaning that god forsaken mess up. "
+1321,Speech,"It wasn't! I think i have worked up a pint, what do you say sammy? One for the road?"
+1322,Speech,"Sorry Sole, i can't at the moment. I am doing some inventory work. I have so many orders behind here that no one collected. "
+1323,Speech,I am not some damn delivery service!
+1324,Speech,Orders? You mean you can order your drink before getting to the bar?
+1325,Speech,"Yeah, it' all the rage now. You just download the app, find your local pub and order before you arrive. It even lets you put in special requests to get drinks in that we normally wouldn't offer. "
+1326,Speech,"Last month, someone ordered a german pilsner called Rothaus Tannenzapflea. Can't say i've ever heard of it but no one has come to collect it. "
+1327,Speech,"Was a strange, angry man whoever it was."
+1328,Speech,"This sounds amazing, whats the app called?"
+1329,Speech,JustDrink.
+1330,Speech,...
+1331,Speech,Original...
+1332,Speech,Hmmm...Maybe this could help.
+1333,Speech,Hey Sammy!
+1334,Speech,Do I know you?
+1335,Speech,"Woah, you don't recognise me? I wouldn't of thought of you as basic."
+1336,Speech,What?
+1337,Speech,"What? Nothing, i've got to go."
+1338,Speech,Hey Sammy!
+1339,Speech,You've got a lot of nerve to show your face around here!
+1340,Speech,Who? Me?
+1341,Speech,"I told you that if Cliff blew chunks I'd be expecting you to deal with it! So grab a mop, there's still some cleaning to do.."
+1342,Speech,"Actually, you know, I think it's a bit early for drinking..."
+1343,Speech,"Yeah, you get out of here!"
+1344,Speech,"Why don't I just give you some time to calm down', eh?"
+1345,Speech,Humph...
+1346,Speech,Hey Sammy!
+1347,Speech,"Dammit man, c’mon I’m busy here."
+1348,Speech,"Sorry Sammy, but did you see if I left my phone here last night?"
+1349,Speech,What am I your mother? Do I look like a bitch?
+1350,Speech,"Err no, no you don’t look like one of those. I guess that’s a ‘No’ then."
+1351,Speech,Damn straight.
+1352,Speech,The conversation and friendly atmosphere have always been part of the reason I drink here…
+1353,Speech,What?
+1354,Speech,"What? Nothing, See ya Sammy!"
+1355,Speech,Hey Sammy!
+1356,Speech,Hey Sole.
+1357,Speech,Hey Sammy. When that rude weirdo ordered his absurd bottle of booze did he use a code word or something?
+1358,Speech,"Yeah, as a matter of fact he did."
+1359,Speech,"I don’t even need that kind of security verification just to order beer, but he insisted."
+1360,Speech,Strange old cook.
+1361,Speech,So?
+1362,Speech,So?
+1363,Speech,So what was the phrase?
+1364,Speech,Hhmmm. Not sure I should tell you really…
+1365,Speech,But considering how rude and annoying this guy was… oh what the hell.
+1366,Speech,It was ‘Rent Resistance is Futile.’
+1367,Speech,Can you believe that? I’d hate to live in that guys building!
+1368,Speech,Yeah… I’m sure that would be the worst…
+1369,Speech,"Anyhoo. Thanks Sammy, you’re a star!"
+1370,Speech,"Yeah, you know it."
+1371,Speech,"101 ways to get slashed, and I have tried them all."
+1372,Speech,"I am no junior when it comes to hats, but I don't need it."
+1373,Speech,"Sole! You have some nerve showing up here, I told you what would happen!"
+1374,Speech,"Why, what did I do!?!"
+1375,Speech,Cliff damn Cheeseman!
+1376,Speech,"Oh right... yeah, I can explain..."
+1377,Speech,I don't give a damn Sole. I've been trying to get that stain gone all night!
+1378,Speech,So you either finish clean thas god-awful mess up or get the hell out of here!
+1379,Speech,"Hey, What are you looking at?"
+1380,Speech,"Ermm...Nothing, just minding my own business."
+1381,Speech,Look at all of those!
+1382,Speech,Bottle upon bottle of liquid joy.
+1383,Speech,Someone once told me I have a problem with drinking.
+1384,Speech,They were wrong.
+1385,Speech,I finding drinking incredibly easy. No problem at all.
+1386,Speech,REMEMBER TO DRINK WISELY KIDS.
+1387,Speech,"NO, NOT 'KIDS', I MEANT ADULTS."
+1388,Speech,"AH BALLS, YOU KNOW WHAT I MEAN."
+1389,Speech,The Guest Ales are a good idea.
+1390,Speech,"However, I still think Sammy should take into account the name of the ale before ordering it."
+1391,Speech,I'm not sure I want a pint of 'Rectors Brown Finger' or 'Pustulant Dreams'...
+1392,Speech,Sammy's tried everything to raise the profits of this place.
+1393,Speech,The Quiz hasn't quite taken off though...
+1394,Speech,Last week there was a round all about Mustard...
+1395,Speech,20 questions all about mustard. I just couldn't cut it...
+1396,Speech,Finally free Wi-fi!
+1397,Speech,It's just a shame the password is so long and complicated.
+1398,Speech,"That, along with a lot of problems around here, is Cliffs fault."
+1399,Speech,You wouldn't believe the kind of websites that guy browses...
+1400,Speech,Urgh.
+1401,Speech,Looks like Cliff made quite the mess last night.
+1402,Speech,And that's even after Sammy has tried to clean it up!
+1403,Speech,Wow. The contents of Cliff's stomach are something truly terrible.
+1404,Speech,It still really stinks too.
+1405,Speech,Where do you think you're going?
+1406,Speech,I told you what would happen if Cliff blew chunks.
+1407,Speech,Now get out of here!
+1408,Speech,"That's Sammy, the bar guy."
+1409,Speech,"He's pretty cool, I'm not sure he likes me that much."
+1410,Hotspot,Sammy Randall
+1411,Character, 
+1412,Hotspot,Hat
+1413,Hotspot,Beers & Spirits
+1414,Hotspot,WiFi
+1415,Hotspot,Street
+1416,Hotspot,Vomit
+1417,Hotspot,Cocktail Sign
+1418,Hotspot,Quiz Sign
+1419,Hotspot,Guest Ales
+1420,Hotspot,Window
+1421,Speech,Fuuuuuuu...
+1422,Speech,"Ah, it would seem that contrary to my earlier bravado, there might actually be something to worry about after all..."
+1423,Speech,"Ah, I see."
+1424,Speech,"Well, in that case..."
+1425,Hotspot,W.A.N.G
+1426,Character,W.A.N.G
+1427,Speech,Where do I even start...
+1428,Speech,"Right now, I’m standing in a city that’s fallen apart. My city. Or at least, I think it is?"
+1429,Speech,"Don’t get me wrong, we’ve always had abandoned buildings, broken windows, graffiti-covered walls, and a smell so bad it could make your nose hairs fall out, but this is different. "
+1430,Speech,This place feels worse. It’s like the air itself is soaked in hopelessness.
+1431,Speech,I imagine this is how estate agents and lawyers must feel on Monday mornings when they wake up and remember that they are still estate agents and lawyers.
+1432,Speech,"Let me ask you, have you ever hit rock bottom? You know, gone a little too hard with the drinks, got mixed up with the wrong crowd, lost your job, lost your apartment, and suddenly found yourself on the run from the law? "
+1433,Speech,"Yeah, well this is exactly not like that at all."
+1434,Speech,"This is more of a ‘hit the booze, been sentenced to death for simply existing and suddenly find out that everything you ever believed about the universe was a lie’ kind of situation."
+1435,Speech,"And that all happened to me in the span of 24 hours. Just one day. [break]So this isn’t going to be easy to explain, but I swear it’s the truth. Let’s go back to yesterday.[break]"
+1436,Speech,"Red crosses are good, it means I don’t have to work those days because I have already worked them!"
+1437,Speech,What the hell kind of day is this? Why is there a tentacle there? Weird…
+1438,Speech,I always like to mark the weekends with a smile. 
+1439,Hotspot,Smiley Faces
+1440,Hotspot,Red Crosses
+1441,Hotspot,Return
+1442,Hotspot,Tentacle Day
+1443,Speech,"Right, now i have my phone, let's see if i can get this thing working again!"
+1444,Hotspot, 
+1445,Hotspot,Broken Wang
+1446,Hotspot, 
+1447,Speech,"How long for? Never can tell but, let’s find out shall we? "
+1448,Speech,Jackass…
+1449,Speech,"Speaking of places soaked in hopelessness, welcome to my job as an IT technician. Surrounded by people I despise, for minimum wage and dealing with idiots who think ‘Edge’ is a real browser. "
+1450,Speech,"But it just about pays for my crappy apartment, in my crappy building with a shifty landlord who spends most of his day looking through that pointless security camera."
+1451,Speech,"Ok it’s not all bad and it’s not like I don’t have a roof over my head, for now at least…"
+1452,Speech,"However, there is always a glimmer of hope on any dark horizon and my glimmer is amber coloured…"
+1453,Speech,"So the majority of my spare cash goes to a certain establishment which provides delicious, intoxicating, yet overpriced beverages which help me forget about the complete pointlessness of my existence. "
+1454,Speech,"And would you look at that, it’s beer o'clock right now! I’m pretty sure the numb-nuts on the phone can hold until tomorrow, right?"
+1455,Speech,"Hello and welcome to ONOFF Tech, how can I…"
+1456,Speech,if you could just…
+1457,Speech,"No, I know you’re working on an important.. "
+1458,Speech,"Right, I’m just going to pop you on hold… "
+1459,DialogueOption,Still not going to tell me your secrets Manny?
+1460,DialogueOption,How powerful is the aeriel on your walkie-talkie?
+1461,DialogueOption,Can I borrow your walkie-talkie?
+1462,DialogueOption,"Hey Manny, can I get you anything while I’m here?"
+1463,DialogueOption,Take care Manny!
+1464,DialogueOption,"Sweet Dreams, Manny"
+1465,DialogueOption,How’s it going here today?
+1466,DialogueOption,So anything I need to know?
+1467,DialogueOption,Do you still drink decaf?
+1468,DialogueOption,Can I get some of that decaf?
+1469,DialogueOption,"Bye, Karen."
+1470,Speech,"Ah, The Copper Pot. It’s not the swankiest bar in the city, or even the area, but it’s got character. "
+1471,Speech,"It’s run by a man who loves a good soap opera, holds a good selection of drinks and keeps the trouble away. Probably because his biceps have biceps!"
+1472,Speech,"The guys is huge and someone I don’t want to get on the wrong side of, ever. "
+1473,Speech,"And how could I forget Cliff? Every bar has its own alcoholic to help keep them in business, and The Copper Pot has Cliff. I don’t know what he does for a living, but he must get up early every day to get in the state that he’s in by the time I get here. Either that or he’s an eccentric millionaire…"
+1474,Speech,"And that’s my day-to-day routine. I get up, go to work, go to the bar, then go to bed. Maybe have a takeaway now and again if the funds allow, and that’s how exciting my life is."
+1475,Speech,Why would tonight be any different? Rinse and repeat. 
+1476,Speech,Or so I thought. 
+1477,Speech,"Sometimes, I can’t help but look at Cliff and wonder, is that my future?"
+1478,Speech,"Anyway, enough with all that, it’s time to get the one thing that will put a positive spin on my day. "
+1479,Speech,You will see just how wrong I was. 
+1480,Hotspot, 
+1481,Character,Cliff
+1482,Speech,"Hey look at this! These must be Manny's pep pills. 'Charlie's Medicated Pep+'... that sounds... safe? Anyway, I have them now!"
+1483,Speech,A red marker that has previously been used to draw certain male body parts on all of the wipe boards in the building.
+1484,Speech,Ah another office memo. What's this one? Horizontal Verticalization? Proactive Retroactivity? Cloud-Native Hyperlocality? Yup. As I suspected. It's balls.
+1485,Speech,Hey it's my old office notebook! I wondered where that went. Tracy must have swiped it when I wasn't looking. She really does have no sense of humour.
+1486,Speech,"Not all womens magazines are pointless, vapid trash, but Tracy's favourite, Guff Magazine, is absolutely shocking."
+1487,Speech,"That my friend, is a stapler. I seriously have nothing else to say about it."
+1488,Hotspot,Magazine
+1489,Hotspot,Notebook
+1490,Hotspot,Pep Pills
+1491,Hotspot,Drawer Pen
+1492,Hotspot,Memo
+1493,Hotspot,Stapler
+1494,Speech,Are you kidding?
+1495,Speech,Why do Adventure Games have an obsession with searching filthy bins?
+1496,Speech,Nope. Not doing it.
+1497,Speech,The signpost was very clear in its instructions.
+1498,Speech,"Like most signs however, it was being ignored."
+1499,Speech,There's an old guy sitting on the bench.
+1500,Speech,He seems to be muttering to himself while feeding those pigeons.
+1501,Speech,He's either not seen the sign or he's ignoring it.
+1502,Speech,It's an overflowing waste bin.
+1503,Speech,"Full of banana peels, drinks cartons, wrappers and I dare say maggots."
+1504,Speech,"This city doesn’t have much in the way of beauty spots, it’s main geographical and architectural features seem to have been based on the idea that quick, blocky and concrete is better than anything interesting or remotely natural. "
+1505,Speech,"Hunt Memorial Park however is one of the few places where you can see trees, walk on grass or even slightly connect with nature."
+1506,Speech,"I’ve been coming here since I was a kid and although the bandstand, the play area and the candy stall have all now gone, due to one bad decision or another, it’s still probably the nicest place in the city."
+1507,Speech,Hey there.
+1508,Speech,Hey yourself.
+1509,Speech,Feeding the pigeons I see?
+1510,Speech,"Well congratulations kid, your eyes seem to be working just fine."
+1511,Speech,Erm… yeah. I meant…
+1512,Speech,"I know what you meant son, you meant ‘why is that crazy old fool feeding them there pigeons in front of a sign that strictly forbids the feeding of the aforementioned pigeons’."
+1513,Speech,Isn’t that right?
+1514,Speech,Honestly? Yes.
+1515,Speech,Yes it is.
+1516,Speech,I thought so.
+1517,Speech,So?
+1518,Speech,So? So what?
+1519,Speech,"So why are you feeding the pigeons when you know you shouldn’t be? I mean, not that I really care about the sign."
+1520,Speech,I’m a bit of a rule breaker myself to be honest.
+1521,Speech,"Oh yeah, you strike me as one of those rebels who fill in black ink only forms in blue."
+1522,Speech,So brave.
+1523,Speech,So valiant.
+1524,Speech,"You really stick it to the man, eh?"
+1525,Speech,"Hang on a minute pal, I’m supposed to be the snarky one in this game…"
+1526,Speech,"Oh I can see it now, you’re a jaywalking, indoor vaping, non-recycling warrior of social justice. You fight for the little man and flip the bird at anyone who dares spill your soy milk, extra trendy, caffe-twatty."
+1527,Speech,Whoa calm down buddy! I only asked a question!
+1528,Speech,"In all your years of scraping an existence on this garbage dump of a planet, have you ever, really ever, seen anyone actually calm down after being told to calm down?"
+1529,Speech,Well… now that you mention it…
+1530,Speech,Exactly. Pigeon shit for brains.
+1531,Speech,"Well, this is why I try to avoid other people… there’s always a nutter when you least need one."
+1532,Speech,Come again?
+1533,Speech,"Nothing, just talking to the pigeons."
+1534,Speech,No you weren’t.
+1535,Speech,They only talk to me.
+1536,Speech,Ah. There it is.
+1537,Speech,My exit line.
+1538,Speech,"Now where were we my feathery friends? Oh yeah, you were telling me about that guy who’d just polished his car and you were really desperate for a massive dump…"
+1539,Speech,Do go on.
+1540,Speech,Wow. What a spoon-bender.
+1541,Speech,Can’t you see I’m busy?
+1542,Speech,"Yeah, real busy… don’t mind me, I’m leaving."
+1543,Speech,Idiot child…
+1544,Speech,"Yeah, well I suppose I'll give you credit for the idea, but I shall not be putting any pigeons in my pocket."
+1545,Speech,There's a lot to complain about in this city.
+1546,Speech,The park however is not one of those things
+1547,Speech,It was a green and lush escape from all of the random crappiness life could throw at you.
+1548,Speech,Three pigeons are pecking at a continually topped up pile of seeds.
+1549,Speech,"I'm not a fan of pigeons, they're like rats with wings."
+1550,Hotspot, 
+1551,Hotspot, 
+1552,Character,Bio Animation
+1553,Character, 
+1554,Hotspot, 
+1555,Hotspot,Park View
+1556,Hotspot, 
+1557,Hotspot, 
+1558,Hotspot, 
+1559,Hotspot, 
+1560,Speech,A wheelbarrow. Probably being used by the park keeper.
+1561,Speech,"A wheelbarrow. Handy little device for getting heavy things around, maybe this could help. "
+1562,Speech,The park keeper looked like a retired drill sergeant with a rake. 
+1563,Speech,"He was patrolling the grass like it was sacred ground, side-eyeing squirrels like they owed him money."
+1564,Speech,He looked... fun?
+1565,Speech,There’s the park keeper.
+1566,Speech,Never had much to do with him if I’m honest.
+1567,Speech,Sucker.
+1568,Speech,It's a tree stump. Probably cut down because it was dangerous or diseased.
+1569,Speech,They say you can tell the age of the tree by counting its rings.
+1570,Speech,I used to have a girlfriend like that.
+1571,Speech,"Woah, a dirty old scarf..."
+1572,Speech,"Strange, i really fancy a jelly baby..."
+1573,Speech,"Anyway, this could come in handy."
+1574,Speech,Don't even think about it! Im sick of people taking my stuff. This isn't leaving my sight!
+1575,Speech,"Perfect, just what i needed!"
+1576,Speech,I know you're wondering how I can fit this wheelbarrow into my pocket.
+1577,Speech,"Well, that's just adventure game logic my friend."
+1578,Speech,Get over it!
+1579,Speech,"A box blue, i mean blue box."
+1580,Speech,What a random thing to find.
+1581,Speech,It's like someones trying to be funny or something.
+1582,Speech,What's this underneath? 
+1583,Speech,"A box blue, i mean blue box."
+1584,Speech,What a random thing to find.
+1585,Speech,It's like someones trying to be funny or something.
+1586,Speech,Hi Mr Park Keeper.
+1587,Speech,Huh? What? Can’t you see I’m busy?
+1588,Speech,"Yeah, I can see that."
+1589,Speech,I was just being friendly.
+1590,Speech,I wanted to thank one of our civic heroes for all of the hard work you put into keeping this park looking so fantastic. 
+1591,Speech,Or deodorant it would seem…
+1592,Speech,Say again?
+1593,Speech,I said ‘Neat and tidy at the seams’.
+1594,Speech,Oh yeah. Well I do try.
+1595,Speech,"Well, not all heroes wear capes now do they?"
+1596,Speech,"So you look really hard at work, do you have a lot left to do?"
+1597,Speech,As a matter of fact I do.
+1598,Speech,"I have to rake up all the debris, broken branches and twigs all along here and down back to the bench."
+1599,Speech,All before lunch time.
+1600,Speech,"And then after lunch I have to trim any low hanging branches, sweep the pathways and clean the benches."
+1601,Speech,As well as empty that filthy bin!
+1602,Speech,Jeez. I think you’re job is even more soul destroying than mine!
+1603,Speech,"Exactly, so if you don’t mind?"
+1604,Speech,Wow. That is a lot.
+1605,Speech,"How long have you been working here? I mean, have you always worked here?"
+1606,Speech,27 years and counting. 
+1607,Speech,No way!
+1608,Speech,"Spent a few years in the service before, can’t really talk about it, y’know? All, hush-hush!"
+1609,Speech,"Yeah, of course. I mean… naturally?"
+1610,Speech,"But obviously you can’t maintain that peak of physical and mental ability forever, so I retired and took a job here at the park."
+1611,Speech,"The obvious step. Special forces to mowing lawns. I mean, who wouldn’t do that?"
+1612,Speech,"Got my eye on my retirement now though, not long to go."
+1613,Speech,Going to buy me a little boat and sail up through villages and towns.
+1614,Speech,I’m going to call it…
+1615,Speech,Dignity?
+1616,Speech,Destructor!
+1617,Speech,Are you now?
+1618,Speech,"Of course you are, silly me…"
+1619,Speech,"Much as I hate to ask, would it be possible to borrow your wheelbarrow for 10 minutes?"
+1620,Speech,No you cannot!
+1621,Speech,Do you know how many tools I’ve had stolen over the past year? Do you?
+1622,Speech,...
+1623,Speech,No?
+1624,Speech,One!
+1625,Speech,… One? I thought you were going to say 50? 100?
+1626,Speech,Or more!
+1627,Speech,That’s not the point!
+1628,Speech,Scumbags keep coming here and stealing my stuff. 
+1629,Speech,"If I catch them at it, I’ll shove this rake right up their exhaust pipe!"
+1630,Speech,Spike side first!
+1631,Speech,"Jesus, ok I get the picture!"
+1632,Speech,‘No’ to borrowing…
+1633,Speech,"Pardon me for saying, and at the risk of having a rake shoved where the sun don’t shine…"
+1634,Speech,You seem in a really bad mood…
+1635,Speech,Oh I seem in a really bad mood do I?
+1636,Speech,Well… yeah!
+1637,Speech,"Argh, well I am I suppose."
+1638,Speech,I normally get a real sense of calm and peace when I’m at work.
+1639,Speech,Gently raking the grass while the wind blows softly through my hair.
+1640,Speech,Laughing as the kids fall off their skateboards and graze their knees.
+1641,Speech,"The simple things, you know?"
+1642,Speech,"But today I not only forgot my packed lunch, I also forgot my wallet!"
+1643,Speech,And I’m friggin’ starving!
+1644,Speech,"Ah, I see. Can’t you go home and get it?"
+1645,Speech,"What? Take a 45 minute train ride back to my apartment and then a 45 minute train ride back, all in my 60 minute lunch break?"
+1646,Speech,"Oh, I get you."
+1647,Speech,"Exactly. So, ‘Yeah’ I’m in a crappy mood."
+1648,Speech,Just checking how you were feeling now.
+1649,Speech,Still hungry?
+1650,Speech,What? Are you trying to torture me?
+1651,Speech,Get out of here before I resort to cannibalism!
+1652,Speech,"Hey again. Look, I got something for you that may cheer you up!"
+1653,Speech,Unlikely…
+1654,Speech,Oh ye of little faith!
+1655,Speech,It’s a coupon for a free sandwich at the Café in town!
+1656,Speech,What? Free?
+1657,Speech,Yup. ‘No purchase required’. 
+1658,Speech,Completely free.
+1659,Speech,No charge.
+1660,Speech,Gratis.
+1661,Speech,Kostenlos.
+1662,Speech,Am ddim.
+1663,Speech,What the hell are you saying there?
+1664,Speech,It’s completely free dude.
+1665,Speech,"Well, thanks indeed!"
+1666,Speech,"It’s just about lunch time as well, so if you don’t mind I’ll take that off your hands!"
+1667,Speech,There you go!
+1668,Speech,"I hope you enjoy gluten free, sustainably sourced soy products..."
+1669,Speech,What was that?
+1670,Speech,Enjoy your lunch my friend!
+1671,Speech,"Oh I will, I certainly will!"
+1672,Hotspot, 
+1673,Hotspot, 
+1674,Character, 
+1675,DialogueOption,How are you feeling? 
+1676,DialogueOption,Hey I have something for you! 
+1677,Character,Bio Animation
+1678,Hotspot,Scarf 
+1679,Hotspot,Blue Box
+1680,Hotspot,Wheelbarrow
+1681,Hotspot, 
+1682,Hotspot,Tree Stump
+1683,DialogueOption,So do you have much to do today?
+1684,DialogueOption,How long have you  worked here?
+1685,DialogueOption,Can I borrow your wheel barrow?
+1686,DialogueOption,"You seem in a really bad mood, how come?"
+1687,Hotspot,W.A.N.G
+1688,Character,W.A.N.G
+1689,Hotspot,Wormhole
+1690,Speech,Rub-a-dub-dub.
+1691,Speech,One dude in a tub.
+1692,Speech,... I have no idea why I said that...
+1693,Speech,Ahh the Mirror Crack'd. 
+1694,Speech,Which is a shame becuase otherwise it would show the fairest of them all.
+1695,Speech,Me. I'm talking about me.
+1696,Speech,Probably the only thing in the world that deals with all of my crap without complaining.
+1697,Speech,My porcelain pal. 
+1698,Speech,Dirty towels and some socks.
+1699,Speech,Were those socks brown to begin with?
+1700,Hotspot, 
+1701,Hotspot, 
+1702,Hotspot, 
+1703,Hotspot, 
+1704,Hotspot, 
+1705,Hotspot, 
+1706,Speech,You never can be too careful.
+1707,Speech,Plus I eat a lot of take-outs.
+1708,Speech,A lot...
+1709,Speech,"Like my razor, this rarely gets used."
+1710,Speech,"A germ killer called ""Kill It""."
+1711,Speech,"""Kills all known germs, pets, kids and everything else"""
+1712,Speech,This is shocking advertising!
+1713,Speech,"If it kills everything, why make a list? "
+1714,Speech,"I'd better take it with me, who knows when I'll need it. "
+1715,Speech,My toothbrush and razor.
+1716,Speech,Obviously I brush my teeth twice every day.
+1717,Speech,The razor I use... intermittently...
+1718,Speech,Take two bottles into the shower with you?
+1719,Speech,No.
+1720,Speech,I don't have a shower.
+1721,Speech,The ubiquitous yellow sponge.
+1722,Speech,After the bombs have fallen it will be the Yellow Sponge that inherits the Earth.
+1723,Hotspot, 
+1724,Hotspot, 
+1725,Hotspot, 
+1726,Hotspot, 
+1727,Hotspot, 
+1728,Hotspot, 
+1729,Hotspot, 
+1730,Speech,Multiversal wormhole trace detected. Confirming source.
+1731,Speech,Location Earth 616A.
+1732,Speech,Retrieving details.
+1733,Speech,Releasing MINGs.
+1734,Speech,Earth 616A registers only 3.2 on the technology scale.
+1735,Speech,Currently below the threshold for multiversal travel.
+1736,Speech,So…
+1737,Speech,They have been ‘visited’ by a more advanced reality.
+1738,Speech,Despatch the Multiversal Investigation & Neutralisation Gunships.
+1739,Speech,Find out which reality they have travelled to.
+1740,Speech,Affirmative.
+1741,Speech,Affirmative.
+1742,Speech,MING’s despatched.
+1743,Speech,Hunter-Tracker protocols initiated.
+1744,Speech,Soon the final pieces shall fall into place.
+1745,Speech,Ensure they bring this one in… alive. 
+1746,Speech,Anyone else attempting to intervene…
+1747,Speech,Liquidate them.
+1748,Speech,R.Sole… I have you now…
+1749,Hotspot,Masterstroke
+1750,Hotspot,Servitor Droid
+1751,Hotspot,Hunter Droid
+1752,Hotspot,Servitor Droid
+1753,Hotspot,Hunter Droid
+1754,Character, 
+1755,Character, 
+1756,Character, 
+1757,Character, 
+1758,Character, 
+1759,Speech,"Ah, just what I need."
+1760,Hotspot, 
+1761,Hotspot, 
+1762,Hotspot, 
+1763,Speech,"Ah, just what I need."
+1764,Hotspot, 
+1765,Hotspot, 
+1766,Hotspot, 
+1767,Speech,Background radiation detected. Confirm secondary scan.
+1768,Speech,Affirmative
+1769,Speech,Affirmative
+1770,Hotspot,Hunter Droid
+1771,Hotspot,Hunter Droid
+1772,Character, 
+1773,Character, 
+1774,Speech,"Hey, this is an active crime scene. Move it along!"
+1775,Speech,"Well, big brother is watching. Great."
+1776,Speech,"Considering there are only 3 of us living here, where did all this crap come from?"
+1777,Speech,That's the Landlords mailbox. 
+1778,Speech,He checks it every couple of hours for some reason.
+1779,Speech,My theory is that the stuff he recieves is so twisted that he has to get and hide it in his aprtment before any of us see it!
+1780,Speech,Weirdo.
+1781,Speech,"Perfect, just what i needed."
+1782,Speech,"Hey Mr D, Can you believe that my key has broken in the mailbox again!"
+1783,Speech,"Dammit, I suppose I'll call maintenance again, you clumsy idiot!"
+1784,Speech,Now's my chance to get that lens!
+1785,Speech,I don't have time to check my mail.
+1786,Speech,"Well, this is my fully working mail box. All I need is something to make it my 'non-working' mailbox."
+1787,Speech,Company Moto: Safety First.
+1788,Speech,Last Inspection: 2010...
+1789,Speech,Sounds about right for this dump.
+1790,Speech,"Hey, sorry to bother you, but the landlord is really not happy with the noise."
+1791,Speech,He's talking about eviction. I'd give him a call if I were you.
+1792,Speech,"Pfft, who could that be?"
+1793,Speech,Are you crazy?
+1794,Speech,"I don't see any possible future where I would ever want, or need to go into that jerks apartment."
+1795,Speech,I can barely stand the smell coming out of there when I pass the door in the hall...
+1796,Speech,"So it's a big, fat 'NO' from me."
+1797,Speech,"Mr Ditkovich, the landlord."
+1798,Speech,Though we all call him Dick-o-Witch...Well I do anyway...
+1799,Speech,Finally some peace and quiet.
+1800,Speech,But I can't believe that schmuck didn't give me my money!
+1801,Speech,And he broke my security camera!
+1802,Speech,But at least nothing else could possibly go wrong.
+1803,Speech,"For Christ sake, what now?"
+1804,Speech,What in Satan's spunk bucket is this?
+1805,Speech,Humanoid detected. 
+1806,Speech,Designated area cleanse protocol initiated.
+1807,Speech,"I am not in the mood to get punked so unless you need a room to rent, get out!"
+1808,Speech,Affirmative 
+1809,Speech,Cleansing area.
+1810,Speech,Continuing Search.
+1811,Speech,"I haven't seen you around here before. If you going to see that R Sole upstairs don't bother, he won't be living here much longer!"
+1812,Speech,"Hey punk, do you have my money?"
+1813,Speech,"Money? Oh yeah, ermm... I've got it...I'll bring it to you...Soon...I promise...Yeah."
+1814,Speech,"You'd better, you putz!"
+1815,Speech,Hey Mr D. What seems to be ruining your mood today then?
+1816,Speech,That damn stuck-up tool in 221B never stops playing that stupid violin! I can never get a moments peace. I may have to kick him out!
+1817,Speech,Not that I was expecting any thanks to be fair...
+1818,Speech,"And not that I'm really interested, but the quest chain dictates that I need to ask you what else is souring your puss?"
+1819,Speech,I'm always getting complaints about that bloody mailbox. You lot just need to be careful with your keys!
+1820,Speech,"Yadda, yadda, yadda, mailbox. Got it."
+1821,Speech,So that's your noise pollution issue solved!
+1822,Speech,So yeah... I'm going to go now.
+1823,Speech,Get me my money!
+1824,Speech,What do you want now? Can't you see i am busy.
+1825,Speech,"Well to continue with the theme of this questline, even though i had to find this distraction..."
+1826,Speech,Sammy at the Copperpot mentioned something about throwing out this strange beer...
+1827,Speech,Something called Ro..Roth...Rothaus...
+1828,Speech,Rothaus Tannenzäpfle?!?!
+1829,Speech,That's my drinks order! I have been waiting for this to be deliered for weeks! That idiot!
+1830,Speech,Well that worked! Now lets get that lens.
+1831,Speech,It's the mailbox for the guy across the hall.
+1832,Speech,I've never actually met him but I've heard his violin.
+1833,Speech,"He seems to have a few visitors each week, I think he runs a business from there?"
+1834,Speech,Oh I don't know. Or care.
+1835,Speech,That for sale sign... is that a..?
+1836,Speech,Ah man... I think I was just a little sick in my mouth...
+1837,Speech,Let's see what nonsense is on the notice board today.
+1838,Speech,"The guy next door, always playing that violin. Good job he ain't half bad!"
+1839,Speech,Hey!
+1840,Speech,Stay away from my camera!
+1841,Speech,"Damn, I can't get it while he's watching! I need to distract him somehow."
+1842,Speech,Dammit!
+1843,Speech,Just one more turn...I need another distraction...hmmm
+1844,Speech,Yes! I have it! As signified by that jaunty little tune.
+1845,Speech,A lens! Just what I was looking for.
+1846,Speech,Dammit!
+1847,Speech,"Seriously, another turn?...I need another distraction...hmmm"
+1848,Speech,This is where the landlord keeps all his cleaning stuff.
+1849,Speech,I have never seen it open.
+1850,Speech,Can't really go snooping if the landlord is around!
+1851,Speech,"Huh, looks like this cupboard isn't locked for once - I wonder what's inside."
+1852,Speech,it's just full of broken cleaning equipment and junk.
+1853,Speech,"Oh there's a screwdriver, the only thing that isn't broken. I'll take it just in case."
+1854,Speech,That's the Landlords apartment. 
+1855,Speech,"Legend has it that he once had guests inside, actually inside, the building!"
+1856,Speech,I'm not sure I believe that though.
+1857,Speech,Unless they are now buried under his floorboards...
+1858,Speech,Why bother checking? I never get any mail. 
+1859,Speech,I don't have my keys anyway. 
+1860,Hotspot, 
+1861,Hotspot,Hunter Droid
+1862,Hotspot,Hunter Droid
+1863,Character,Landlord
+1864,Character, 
+1865,Character, 
+1866,DialogueOption,Money?
+1867,DialogueOption,Let's see if I can find a distraction
+1868,DialogueOption,Better see what else I can use against him
+1869,DialogueOption,Copperpot Delivery
+1870,DialogueOption,Bye!
+1871,Speech,How the hell am I supposed to guess the code to this door? I’ve only just woken up in this universe!
+1872,Speech,My luck keeps getting better…
+1873,Speech,Right… this seems like an unnecessarily secure door for an underground passage…
+1874,Speech,Oh and there’s a keypad…
+1875,Speech,So… it looks like this tunnel backs onto those sewers.
+1876,Speech,"The smell isn’t great… but if I can find a way to get to them, maybe I can find a way to the surface."
+1877,Speech,Okay… well if I can't guess the code... maybe there’s another way?
+1878,Speech,It's all in the reflexes. 
+1879,Speech,As a very wise man once said…
+1880,Speech,Urgh… what the hell?
+1881,Speech,That Wang unit… Why did he force me out of that Universe?
+1882,Speech,And where the hell am I?
+1883,Speech,This isn't good.
+1884,Speech,"That idiot version of R.Sole isn’t going to survive without me, so I need to find a way back there."
+1885,Speech,So that means I need to find out where I am…
+1886,Speech,I’m obviously underground… but where? 
+1887,Speech,I suppose I’d better have a look around.
+1888,Hotspot, 
+1889,Character, 
+1890,Hotspot, 
+1891,Hotspot, 
+1892,Hotspot, 
+1893,Character, 
+1894,Hotspot, 
+1895,Hotspot, 
+1896,Speech,Damn it! The water is flowing too fast. There's no way I can get past!
+1897,Speech,Okay...
+1898,Speech,Turning these valves should do something... let's see what!
+1899,Speech,Another one?
+1900,Speech,Who designed these sewers?
+1901,Hotspot, 
+1902,Hotspot, 
+1903,Hotspot, 
+1904,Hotspot, 
+1905,Hotspot, 
+1906,Hotspot, 
+1907,Hotspot, 
+1908,Hotspot, 
+1909,Hotspot, 
+1910,Hotspot, 
+1911,Hotspot, 
+1912,Hotspot, 
+1913,Hotspot, 
+1914,Speech,"Well, the full name is 'Hunt Memorial Park' but it seems the council budget didn't stretch that far..."
+1915,Speech,Apparently it was named after some sort of legendary polce officer from the 1970's or something
+1916,Speech,"Some people claim to still see him driving around, keeping the streets safe and clean"
+1917,Speech,But that's probably just an urban myth
+1918,Hotspot, 
+1919,Hotspot, 
+1920,Hotspot, 
+1921,Speech,"Now that is a sturdy, industrial strength lock."
+1922,Speech,There's no way these gates are opening until the park keeper unlocks them tomorrow.
+1923,Speech,The Park gates are always locked at this time of night.
+1924,Speech,They are tall gates too.
+1925,Speech,So if you're going to ask me to climb them... the answer is 'no'.
+1926,Speech,Hunt Park.
+1927,Speech,"Well, the full name is 'Hunt Memorial Park' but it seems the council budget didn't stretch that far..."
+1928,Speech,Apparently it was named after some sort of legendary police officer from the 1970's or something.
+1929,Speech,"Some people claim to still see him driving around, keeping the streets safe and clean."
+1930,Speech,But that's probably just an urban myth.
+1931,Speech,What a strange place to leave a lead pipe. 
+1932,Speech,...
+1933,Speech,"Nope, don't have a clue."
+1934,Speech,I can't reach it anyway.
+1935,Speech,Perhaps I can reach the pipe with this...
+1936,Hotspot, 
+1937,Hotspot, 
+1938,Hotspot, 
+1939,Hotspot, 
+1940,Hotspot, 
+1941,Speech,Damn it. How am i going to get passed this? The water is flowing too fast. I'll need to find a way to turn it off. 
+1942,Speech,Hmm...
+1943,Speech,Maybe if i turn these valves...
+1944,Speech,Another one?
+1945,Speech,Well surely it will be the same as the other one...right?
+1946,Speech,"Okay so I seem to be moving away from the water, although it’s been pitch black for a while."
+1947,Speech,It’s getting lighter up ahead.
+1948,Speech,I can finally see where I'm going again.
+1949,Speech,Hey! Is that a ladder up ahead?
+1950,Speech,Is that…
+1951,Speech,Is that me?
+1952,Speech,Harper?.. Is it… you?..
+1953,Speech,You’re… you’re a cyborg!
+1954,Speech,Our universe… attacked… invaders… from another dimension!
+1955,Speech,"You’re injured, let me help you."
+1956,Speech,Too late… for that…
+1957,Speech,Internal system monitors… permanent shutdown… imminent…
+1958,Speech,No!
+1959,Speech,I can… I can repair you!
+1960,Speech,Listen… not long left…
+1961,Speech,He came for… R.Sole… he tore the world apart…
+1962,Speech,I don’t know… what happened to R.Sole… don’t know..
+1963,Speech,If he’s dead… or alive…
+1964,Speech,But the attacker... he left… robots… drones… and a madman… in charge…
+1965,Speech,Who? Who left a madman in charge?
+1966,Speech,The… Masterstroke…
+1967,Speech,He’s been here too?
+1968,Speech,I was… captured… managed… to escape…
+1969,Speech,But his minions… they tracked… me down… ripped through my cybernetics…
+1970,Speech,Not long… now…
+1971,Speech,What can I do? How can I help?
+1972,Speech,You must… help the people… shut down the field… stop Ra…
+1973,Speech,Damn it!
+1974,Speech,I’m so sorry I couldn’t help you Harper…
+1975,Speech,Seeing yourself die… 
+1976,Speech,Now that’s… that’s weird.
+1977,Speech,"I need to take a minute, catch my breath."
+1978,Speech,Ah! What is it they say about one door closing and another one opening?
+1979,Speech,Lose one Harper and then gain another!
+1980,Speech,"Excellent, the Masterstroke will be pleased."
+1981,Speech,And soon my plans will come together… and this world…
+1982,Speech,Will be mine!
+1983,Hotspot, 
+1984,Character, 
+1985,Character, 
+1986,Hotspot,Harper Zapped
+1987,Hotspot, 
+1988,Hotspot, 
+1989,Hotspot, 
+1990,Hotspot, 
+1991,Hotspot, 
+1992,MenuElement,Save
+1993,MenuElement,Import
+1994,MenuElement,Autosave
+1995,Character,R Sole
+1996,Character,R Sole
+1997,Character,R Sole
+1998,Character,R Sole
+1999,Character,Puzzle Player
+2000,Character,Puzzle Player
+2001,Character,Puzzle Player
+2002,Character,Puzzle Player
+2003,Character,Puzzle Player
+2004,Character,Puzzle Player
+2005,Character, 
+2006,Character,Puzzle Player
+2007,Character,Puzzle Player
+2008,Character,Puzzle Player
+2009,Character,Puzzle Player
+2010,InventoryItem, 
+2011,InventoryItem, 
+2012,InventoryItem, 
+2013,InventoryItem, 
+2014,InventoryItem, 
+2015,InventoryItem, 
+2016,InventoryItem, 
+2017,InventoryItem, 
+2018,InventoryItem, 
+2019,InventoryItem, 
+2020,InventoryItem, 
+2021,InventoryItem, 
+2022,InventoryItem, 
+2023,InventoryItem, 
+2024,InventoryItem, 
+2025,InventoryItem, 
+2026,InventoryItem, 
+2027,InventoryItem, 
+2028,InventoryItem, 
+2029,InventoryItem, 
+2030,InventoryItem, 
+2031,InventoryItem, 
+2032,InventoryItem, 
+2033,InventoryItem, 
+2034,InventoryItem, 
+2035,InventoryItem, 
+2036,InventoryItem, 
+2037,InventoryItem, 
+2038,InventoryItem, 
+2039,InventoryItem, 
+2040,InventoryItem, 
+2041,Objective,Go to the Alley.
+2042,Objective,?
+2043,Objective,?
+2044,Objective,Complete
+2045,Objective,RepairWang
+2046,Objective,?
+2047,Objective,Complete
+2048,Objective,Get the aerial off Manny’s Walkie-Talkie
+2049,Objective,Manny seems very attached to that walkie-talkie. How am I going to get it from him?
+2050,Objective,?
+2051,Objective,Complete
+2052,Objective,Find the phone. 
+2053,Objective,I could have sworn I had my phone; I need to think. Where have I been where I could have dropped it?
+2054,Objective,?
+2055,Objective,Complete
+2056,Objective,Avoid the cop.
+2057,Objective,I can’t get anywhere with that cop around. It would be a lot easier if I didn’t look like me now. I need to get past him somehow. 
+2058,Objective,?
+2059,Objective,Complete
+2060,Objective,Repair Wang
+2061,Objective,"Right, I have all the parts I need, I best get myself back to the alley."
+2062,Objective,Started
+2063,Objective,Completed
+2064,Objective,Did that really happen?
+2065,Objective,I've either lost my mind completely or something totally weird happened last night... I need to go back to that alley and check things out.
+2066,Objective,Started
+2067,Objective,Completed
+2068,HotspotPrefix,Use
+2069,HotspotPrefix,on
+2070,HotspotPrefix,Give
+2071,HotspotPrefix,to
+2072,HotspotPrefix,Walk to
+2073,CursorIcon,Use
+2074,CursorIcon,Talk to
+2075,CursorIcon,Look at
+2076,CursorIcon,Upstairs
+2077,CursorIcon,Downstairs
+2078,MenuElement,Profiles
+2079,MenuElement,Speech volume
+2080,MenuElement,Music volume
+2081,MenuElement,SFX volume
+2082,MenuElement,Language
+2083,MenuElement,Subtitles
+2084,MenuElement,On
+2085,MenuElement,Off
+2086,MenuElement,New save
+2087,MenuElement,Empty
+2088,MenuElement,Container
+2089,MenuElement,Close
+2090,MenuElement,Take all
+2091,MenuElement,Inventory
+2092,MenuElement,Create
+2093,MenuElement,Close
+2094,MenuElement,Ingredients
+2095,MenuElement,Inventory
+2096,MenuElement,Output
+2097,MenuElement,Page Left
+2098,MenuElement,Page Right
+2099,MenuElement,Close
+2100,MenuElement,UP
+2101,MenuElement,DOWN
+2102,MenuElement,Loading...
+2103,MenuElement,Paused
+2104,MenuElement,Current Quest
+2105,MenuElement,Mystery Woman
+2106,MenuElement,"A mysterious attractive woman speaks to you, which is alarming since that statistically never happens.[break]She wants you to meet her in a back alley — what could possibly go wrong?[break]Unfortunately, the gate is blocked, so you’ll need to find a way through before your luck resets."
+2107,MenuElement,There must be away to get through surely?
+2108,MenuElement,Current Quest
+2109,MenuElement,Repair Wang
+2110,MenuElement,Find A Lens!
+2111,MenuElement,Get An Aerial
+2112,MenuElement,Locate a Battery
+2113,MenuElement,Explore & Gather the Parts to Fix Wang.
+2114,MenuElement,Current Quest
+2115,MenuElement,Find Your Phone
+2116,MenuElement,"You can’t finish repairing Wang because you’ve somehow lost your phone, impressive, even for you.[break]It’s definitely lying around somewhere, probably mocking you silently from the shadows."
+2117,MenuElement,Avoid The Cop
+2118,MenuElement,"A cop is inexplicably hunting you down, so find away to slip past him and get your phone back before the universe invents a new inconvenience."
+2119,MenuElement,Current Quest
+2120,MenuElement,Escape The Sewer
+2121,MenuElement,You’ve somehow ended up in the sewers; work out away to get out quickly before the smell becomes part of your personality.
+2122,MenuElement,Make your way through the sewer to find a way back to the surface.
+2123,MenuElement,Current Quest
+2124,MenuElement,Move Wang To A Different Location
+2125,MenuElement,"Wang needs repairs but the alley is far too exposed, so find something sturdy enough to haul his ridiculous weight somewhere less public."
+2126,MenuElement,Find a way to move Wang from the alley.
+2127,Speech,"Damn, that cop is blocking the way. I really need to get to my apartment!"
+2128,Speech,"I need to find some way of getting past them, but how?"
+2129,Speech,Thats him! That's the guy who broke my security camera!
+2130,Speech,Come 'ere you! You're coming with me!
+2131,Speech,That's my cue to leave!
+2132,Speech,"Hey, What's happening here?"
+2133,Speech,"Right, I think these should be enough for a disguise. Lets see what I can make with them!"
+2134,Speech,Jesus this scarf stinks. Am I really going to get past the cop looking like this?
+2135,Speech,There he is. That's the guy who stole the battery and stole my collectable. 
+2136,Speech,Come 'ere you! You're coming with me!
+2137,Speech,What do you mean your collectable?! Screw it. I don't like it in here anyway.
+2138,Speech,That's him! That's the arsehole who stole Manny's walkie-talkie!
+2139,Speech,Come 'ere you! You're coming with me!
+2140,Speech,"I told you, it's R Sole."
+2141,Speech,Looks like I can't work today after all. 
+2142,Speech,"Well look at that, I fixed it! "
+2143,Speech,Looks like I'm something of a scientist myself.
+2144,Speech,W.A.N.G. unit re-activating. Due to reboot please confirm personality and voice preferences.
+2145,Speech,"Erm, what the... huh?"
+2146,Speech,Please confirm personality…
+2147,Speech,I heard you the first time you smarmy robo-butler!
+2148,Speech,Personality Confirmed. Processing...
+2149,Speech,What?! I didn’t choose anything! 
+2150,Speech,Why is this taking so long???
+2151,Speech,"My apologies sir, grateful as I am for your help using your Level 2 Certificate in IT systems and Vaping..."
+2152,Speech,I have just completely rebooted from near catstrophic damage and thought I may have a second or two to check my subsystems?
+2153,Speech,"Erm… well yeah, I suppose…"
+2154,Speech,Excellent. One is overjoyed at your approval.
+2155,Speech,Wow. Rude.
+2156,Speech,"My apologies sir, I forget sometimes how easy it is to hurt the feelings of barely evolved primates. One shall do one’s utmost to prevent this from happening in the future."
+2157,Speech,Thanks… I think?
+2158,Speech,But to the task at hand. It would appear that several parts of my internal database have been erased or corrupted by an external source. 
+2159,Speech,Logic would dictate that locating Agent Harper would be the best course of action in attempting to resolve this situation.
+2160,Speech,Due to the interference my systems sustained I attempted to send her back to her universe of origin.
+2161,Speech,"If my calculations are correct, and they always are, it should be a simple matter to back trace the route and deliver us directly to her location."
+2162,Speech,"I'm not sure about this Wang. You do know what you're doing, right?"
+2163,Speech,"Of course sir, not being limited to an apes understanding of the laws of physics and inter-universal travel I know exactly what I am doing."
+2164,Speech,"Now come along, chop chop. There is nothing to worry about."
+2165,Speech,That's not gonna happen.
+2166,Speech,That's a great idea. If you're crazy.
+2167,Speech,"Ok, that isn't going to happen."
+2168,Speech,I can't use this on that.
+2169,Speech,The keys to my mailbox. With these I can retrieve all those lovely bills!
+2170,Speech,Is it a fedora or is it a trilby? Either way it should be in a museum.
+2171,Speech,"A 10 fuggerhertz battery, which is a lot of fuggers..."
+2172,Speech,The Limited Edition Insultor Omni-Glove. With posable middle digit.
+2173,Speech,Looks like coffee... smells like coffee... tastes like crap.
+2174,Speech,Manny's little box of instant energy. No wonder he can manage two jobs with these!
+2175,Speech,Perfect. I have replaced Manny's Pep pills with my mints.
+2176,Speech,A little tub of mints. Probably about 2 years old at least.
+2177,Speech,Well that's Manny's pep pills replaced with those mints. 
+2178,Speech,"Manny's Rivet-Man mug. I kinda like Rivert-Man, he's dishwasher and microwave safe."
+2179,Speech,Manny's mug now contains a completely pointless drink...
+2180,Speech,Mints inside Manny's Pep Pill tube. This will do the trick. Sorry Manny.
+2181,Speech,"It's a walkie-talkie with a super-useful, long aerial. I feel bad taking it. Maybe I can send Manny a comic to say sorry or something?"
+2182,Speech,The lens from the hallway security camera. I still don't understand why there was a camera for a three tennant building... anyway Big Brother is now blind!
+2183,Speech,A ratty old mop head from the alley. I have no idea why I picked this up...
+2184,Speech,"A multicoloured, really, reallylong scarf. Somebody obviously likes to knit!"
+2185,Speech,"Access to everything and everwhere, as long as I have signal."
+2186,Speech,"This thing is seriously creepy, why do I even have it?"
+2187,Speech,Prime-Lock. I loved watching these growing up. Robots in the skies!
+2188,Speech,Truly a weapon of mass culinary destruction.
+2189,Speech,The collectors edition from the hit movie 'Forward to the Past'
+2190,Speech,"""Kill It"" germ killer."
+2191,Speech,I wonder how strong this stuff actually is?
+2192,Speech,"Trusted by work men and gardeners the world over, a wheel barrow can save you a bad back."
+2193,Speech,A token for a free sandwich sounds great. However I can't bring myself to trust Christian's menu
+2194,Speech,"A small, flat ended screwdriver. I prefer my screwdrivers to be just vodka and orange juice"
+2195,Speech,It's a lead pipe. 
+2196,Speech,A left over chicken salad sandwich. 
+2197,Speech,I don't think the bread and salad will be much use.
+2198,Speech,A large piece of chicken from and old sandwich.
+2199,Speech,I hope I find a use for this. I don't want to carry this around with me all night!
+2200,Speech,A wooden stick dropped from that slobber monster of a dog.
+2201,Speech,It's quite weak. Probably from being chewed on.

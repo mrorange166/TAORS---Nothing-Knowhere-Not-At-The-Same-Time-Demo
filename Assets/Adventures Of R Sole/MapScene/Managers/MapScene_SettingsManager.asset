@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b776810ebfa374d7ba8f0fb5ed6e3265, type: 3}
   m_Name: MapScene_SettingsManager
   m_EditorClassIdentifier: 
-  separateEditorSaveFiles: 0
+  separateEditorSaveFiles: 1
   saveFileName: TheAdventuresOfRSole
   saveTimeDisplay: 1
   customSaveFormat: MMMM dd, yyyy
   takeSaveScreenshots: 0
-  saveScreenshots: 1
+  saveScreenshots: 0
   screenshotResolutionFactor: 1
   useProfiles: 1
   maxSaves: 5
@@ -34,7 +34,7 @@ MonoBehaviour:
     autosaveLabelID: -1
   referenceScenesInSave: 0
   sceneAttributes: []
-  actionListOnStart: {fileID: 0}
+  actionListOnStart: {fileID: 11400000, guid: 03e84fa859230c241a1f9d1ba8939044, type: 2}
   blackOutWhenSkipping: 0
   playerSwitching: 0
   player: {fileID: 0}
@@ -58,7 +58,7 @@ MonoBehaviour:
   - playerOb: {fileID: 6805682791282861513, guid: d63b1752575cb5241be862ab62bddb55, type: 3}
     ID: 4
     isDefault: 0
-    startingSceneIndex: 8
+    startingSceneIndex: 9
     chooseSceneBy: 0
     startingSceneName: 
     useSceneDefaultPlayerStart: 1
@@ -66,7 +66,7 @@ MonoBehaviour:
   - playerOb: {fileID: 6805682791282861513, guid: 194fc9119d7e96e459236e2927b927b3, type: 3}
     ID: 6
     isDefault: 0
-    startingSceneIndex: 11
+    startingSceneIndex: 12
     chooseSceneBy: 0
     startingSceneName: 
     useSceneDefaultPlayerStart: 1
@@ -169,7 +169,7 @@ MonoBehaviour:
   touchUpInteractScene: 0
   forceAspectRatio: 0
   aspectRatioEnforcement: 0
-  wantedAspectRatio: 1.5
+  wantedAspectRatio: 1.778
   maxAspectRatio: 2.39
   renderBorderCamera: 1
   landscapeModeOnly: 1

@@ -34,7 +34,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 1870.8
+    y: 1659
     width: 300
     height: 232
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -107,7 +107,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 1182.8
+    y: 971
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -159,7 +159,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 1728.8
+    y: 1517
     width: 300
     height: 112
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -167,6 +167,67 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 0}
   parameterID: -1
   timeToPause: 2
+--- !u!114 &-2131135598496890123
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 1
+    skipActionActual: {fileID: -1266090750387144691}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 256
+    width: 300
+    height: 241
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  constantID: 0
+  parameterID: -1
+  messageParameterID: -1
+  isPlayer: 1
+  playerID: -1
+  speaker: {fileID: 0}
+  messageText: Right, I think these should be enough for a disguise. Lets see what
+    I can make with them!
+  lineID: -1
+  multiLineIDs: 
+  isBackground: 0
+  noAnimation: 0
+  headClip: {fileID: 0}
+  mouthClip: {fileID: 0}
+  play2DHeadAnim: 0
+  headClip2D: 
+  headLayer: 0
+  play2DMouthAnim: 0
+  mouthClip2D: 
+  mouthLayer: 0
+  waitTimeOffset: 0
 --- !u!114 &-1503296832356147067
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -201,7 +262,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 1344.8
+    y: 1133
     width: 300
     height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -253,7 +314,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 738.8
+    y: 527
     width: 300
     height: 252
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -314,9 +375,13 @@ MonoBehaviour:
   - {fileID: -1503296832356147067}
   - {fileID: 750799685142548157}
   - {fileID: -2334576662060851033}
-  - {fileID: 3978437003993706778}
-  - {fileID: 6192363637981768608}
+  - {fileID: -2131135598496890123}
+  - {fileID: 1835848996654251997}
   - {fileID: 1874248670888241064}
+  - {fileID: 266868523226683305}
+  - {fileID: 8032986358499487474}
+  - {fileID: 3401513691013427276}
+  - {fileID: 8088017538684670867}
   isSkippable: 1
   actionListType: 0
   unfreezePauseMenus: 1
@@ -327,6 +392,60 @@ MonoBehaviour:
   parameters: []
   tagID: 0
   backupData: []
+--- !u!114 &266868523226683305
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3e7520fdcc044e6c96008328a357eb7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 1
+    skipAction: 1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 629.2003
+    y: 2824.7998
+    width: 300
+    height: 240
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  constantID: 6452
+  parameterID: -1
+  isPlayer: 0
+  playerID: -1
+  playerParameterID: -1
+  linkedObject: {fileID: 0}
+  affectChildren: 0
+  messageToSend: 4
+  customMessageParameterID: -1
+  customMessage: UnlockAchievement
+  sendValue: 0
+  customValueParameterID: -1
+  customValue: 0
+  ignoreWhenSkipping: 0
 --- !u!114 &750799685142548157
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -352,7 +471,7 @@ MonoBehaviour:
   endings:
   - resultAction: 2
     skipAction: 10
-    skipActionActual: {fileID: 6192363637981768608}
+    skipActionActual: {fileID: 1835848996654251997}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -361,7 +480,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 2132.8
+    y: 1921
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -431,7 +550,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 1020.8
+    y: 809
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -483,7 +602,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 1526.8
+    y: 1315
     width: 300
     height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -509,6 +628,67 @@ MonoBehaviour:
   newPlayerNPC: {fileID: 0}
   newPlayerMarker_ID: 0
   newPlayerMarker: {fileID: 0}
+--- !u!114 &1835848996654251997
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 11
+    skipActionActual: {fileID: 1874248670888241064}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 2123
+    width: 300
+    height: 241
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  constantID: 0
+  parameterID: -1
+  messageParameterID: -1
+  isPlayer: 1
+  playerID: -1
+  speaker: {fileID: 0}
+  messageText: Jesus this scarf stinks. Am I really going to get past the cop looking
+    like this?
+  lineID: -1
+  multiLineIDs: 
+  isBackground: 0
+  noAnimation: 0
+  headClip: {fileID: 0}
+  mouthClip: {fileID: 0}
+  play2DHeadAnim: 0
+  headClip2D: 
+  headLayer: 0
+  play2DMouthAnim: 0
+  mouthClip2D: 
+  mouthLayer: 0
+  waitTimeOffset: 0
 --- !u!114 &1874248670888241064
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -532,9 +712,9 @@ MonoBehaviour:
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 1
-    skipAction: 1
-    skipActionActual: {fileID: 0}
+  - resultAction: 2
+    skipAction: 13
+    skipActionActual: {fileID: 8032986358499487474}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -543,9 +723,9 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 14
-    y: 2817.6
+    y: 2394
     width: 300
-    height: 152
+    height: 172
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -560,13 +740,13 @@ MonoBehaviour:
   jumpToActionParameterID: -1
   jumpToActionActual: {fileID: 0}
   runInParallel: 1
-  isSkippable: 0
+  isSkippable: 1
   localParameters: []
   parameterIDs: 
   setParameters: 0
   runMode: 0
   hasUpgradedAgain: 0
---- !u!114 &3978437003993706778
+--- !u!114 &3401513691013427276
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -575,23 +755,23 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ea4c3ba658ee84d51a7ccd6f9fc22176, type: 3}
-  m_Name: 
+  m_Script: {fileID: 11500000, guid: f3e7520fdcc044e6c96008328a357eb7, type: 3}
+  m_Name: (Clone)
   m_EditorClassIdentifier: 
   id: 0
   isDisplayed: 1
   showComment: 0
   comment: 
-  willWait: 1
+  willWait: 0
   endAction: 0
   skipAction: -1
   skipActionActual: {fileID: 0}
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 2
+  - resultAction: 1
     skipAction: 1
-    skipActionActual: {fileID: -1266090750387144691}
+    skipActionActual: {fileID: 0}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -599,115 +779,27 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 14
-    y: 256
+    x: 934.1299
+    y: 2828.8
     width: 300
-    height: 452.8
+    height: 240
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
-  listSource: 1
-  actionList: {fileID: 0}
-  constantID: 0
+  constantID: 86016
   parameterID: -1
-  invActionList: {fileID: 11400000, guid: 7ccfca6922c8feb488ae5a20a89be354, type: 2}
-  assetParameterID: -1
-  runFromStart: 1
-  jumpToAction: 0
-  jumpToActionParameterID: -1
-  jumpToActionActual: {fileID: 0}
-  runInParallel: 1
-  isSkippable: 0
-  localParameters:
-  - label: IsPlayer?
-    description: 
-    ID: 0
-    parameterType: 7
-    intValue: 1
-    constantID: 0
-    popUpID: 0
-    floatValue: 0
-    stringValue: 
-    gameObject: {fileID: 0}
-    objectValue: {fileID: 0}
-    vector3Value: {x: 0, y: 0, z: 0}
-    gameObjectParameterReferences: 0
-    variables: {fileID: 0}
-  - label: If Not = NPC Game object
-    description: 
-    ID: 1
-    parameterType: 0
-    intValue: 0
-    constantID: 0
-    popUpID: 0
-    floatValue: 0
-    stringValue: 
-    gameObject: {fileID: 0}
-    objectValue: {fileID: 0}
-    vector3Value: {x: 0, y: 0, z: 0}
-    gameObjectParameterReferences: 0
-    variables: {fileID: 0}
-  - label: WhatMenuToEffect?
-    description: 
-    ID: 2
-    parameterType: 4
-    intValue: -1
-    constantID: 0
-    popUpID: 0
-    floatValue: 0
-    stringValue: Subtitles (ComicBook)
-    gameObject: {fileID: 0}
-    objectValue: {fileID: 0}
-    vector3Value: {x: 0, y: 0, z: 0}
-    gameObjectParameterReferences: 0
-    variables: {fileID: 0}
-  - label: SpeechBubbleSize
-    description: 
-    ID: 3
-    parameterType: 4
-    intValue: -1
-    constantID: 0
-    popUpID: 0
-    floatValue: 0
-    stringValue: BubbleML
-    gameObject: {fileID: 0}
-    objectValue: {fileID: 0}
-    vector3Value: {x: 0, y: 0, z: 0}
-    gameObjectParameterReferences: 0
-    variables: {fileID: 0}
-  - label: SubBox
-    description: 
-    ID: 4
-    parameterType: 4
-    intValue: -1
-    constantID: 0
-    popUpID: 0
-    floatValue: 0
-    stringValue: SubML
-    gameObject: {fileID: 0}
-    objectValue: {fileID: 0}
-    vector3Value: {x: 0, y: 0, z: 0}
-    gameObjectParameterReferences: 0
-    variables: {fileID: 0}
-  - label: DialogueLine
-    description: 
-    ID: 5
-    parameterType: 4
-    intValue: -1
-    constantID: 0
-    popUpID: 0
-    floatValue: 0
-    stringValue: Right, I think these should be enough for a disguise. Lets see what
-      I can make with them!
-    gameObject: {fileID: 0}
-    objectValue: {fileID: 0}
-    vector3Value: {x: 0, y: 0, z: 0}
-    gameObjectParameterReferences: 0
-    variables: {fileID: 0}
-  parameterIDs: ffffffffffffffffffffffffffffffffffffffffffffffff
-  setParameters: 0
-  runMode: 1
-  hasUpgradedAgain: 0
+  isPlayer: 0
+  playerID: -1
+  playerParameterID: -1
+  linkedObject: {fileID: 0}
+  affectChildren: 0
+  messageToSend: 4
+  customMessageParameterID: -1
+  customMessage: UnlockAchievement
+  sendValue: 0
+  customValueParameterID: -1
+  customValue: 0
+  ignoreWhenSkipping: 0
 --- !u!114 &5491647201017919653
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -733,7 +825,7 @@ MonoBehaviour:
   endings:
   - resultAction: 2
     skipAction: 9
-    skipActionActual: {fileID: 3978437003993706778}
+    skipActionActual: {fileID: -2131135598496890123}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -757,7 +849,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   relativeTo: 0
---- !u!114 &6192363637981768608
+--- !u!114 &8032986358499487474
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -766,23 +858,33 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ea4c3ba658ee84d51a7ccd6f9fc22176, type: 3}
-  m_Name: (Clone)
+  m_Script: {fileID: 11500000, guid: dacbb59e20dd44feeb6ee4372547b66d, type: 3}
+  m_Name: 
   m_EditorClassIdentifier: 
   id: 0
   isDisplayed: 1
   showComment: 0
   comment: 
-  willWait: 1
+  willWait: 0
   endAction: 0
-  skipAction: -1
+  skipAction: -99
   skipActionActual: {fileID: 0}
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 11
-    skipActionActual: {fileID: 1874248670888241064}
+    skipAction: 15
+    skipActionActual: {fileID: 8088017538684670867}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  - resultAction: 2
+    skipAction: 14
+    skipActionActual: {fileID: 3401513691013427276}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  - resultAction: 2
+    skipAction: 12
+    skipActionActual: {fileID: 266868523226683305}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -790,112 +892,65 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 14
-    y: 2334.8
+    x: 335.2
+    y: 2636.711
     width: 300
-    height: 452.8
+    height: 208
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
-  listSource: 1
-  actionList: {fileID: 0}
-  constantID: 0
+  numSockets: 3
+--- !u!114 &8088017538684670867
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3e7520fdcc044e6c96008328a357eb7, type: 3}
+  m_Name: (Clone)
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 1
+    skipAction: 1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 1257.3296
+    y: 2830.4
+    width: 300
+    height: 240
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  constantID: 26342
   parameterID: -1
-  invActionList: {fileID: 11400000, guid: 7ccfca6922c8feb488ae5a20a89be354, type: 2}
-  assetParameterID: -1
-  runFromStart: 1
-  jumpToAction: 0
-  jumpToActionParameterID: -1
-  jumpToActionActual: {fileID: 0}
-  runInParallel: 1
-  isSkippable: 0
-  localParameters:
-  - label: IsPlayer?
-    description: 
-    ID: 0
-    parameterType: 7
-    intValue: 1
-    constantID: 0
-    popUpID: 0
-    floatValue: 0
-    stringValue: 
-    gameObject: {fileID: 0}
-    objectValue: {fileID: 0}
-    vector3Value: {x: 0, y: 0, z: 0}
-    gameObjectParameterReferences: 0
-    variables: {fileID: 0}
-  - label: If Not = NPC Game object
-    description: 
-    ID: 1
-    parameterType: 0
-    intValue: 0
-    constantID: 0
-    popUpID: 0
-    floatValue: 0
-    stringValue: 
-    gameObject: {fileID: 0}
-    objectValue: {fileID: 0}
-    vector3Value: {x: 0, y: 0, z: 0}
-    gameObjectParameterReferences: 0
-    variables: {fileID: 0}
-  - label: WhatMenuToEffect?
-    description: 
-    ID: 2
-    parameterType: 4
-    intValue: -1
-    constantID: 0
-    popUpID: 0
-    floatValue: 0
-    stringValue: Subtitles (ComicBook)
-    gameObject: {fileID: 0}
-    objectValue: {fileID: 0}
-    vector3Value: {x: 0, y: 0, z: 0}
-    gameObjectParameterReferences: 0
-    variables: {fileID: 0}
-  - label: SpeechBubbleSize
-    description: 
-    ID: 3
-    parameterType: 4
-    intValue: -1
-    constantID: 0
-    popUpID: 0
-    floatValue: 0
-    stringValue: BubbleML
-    gameObject: {fileID: 0}
-    objectValue: {fileID: 0}
-    vector3Value: {x: 0, y: 0, z: 0}
-    gameObjectParameterReferences: 0
-    variables: {fileID: 0}
-  - label: SubBox
-    description: 
-    ID: 4
-    parameterType: 4
-    intValue: -1
-    constantID: 0
-    popUpID: 0
-    floatValue: 0
-    stringValue: SubML
-    gameObject: {fileID: 0}
-    objectValue: {fileID: 0}
-    vector3Value: {x: 0, y: 0, z: 0}
-    gameObjectParameterReferences: 0
-    variables: {fileID: 0}
-  - label: DialogueLine
-    description: 
-    ID: 5
-    parameterType: 4
-    intValue: -1
-    constantID: 0
-    popUpID: 0
-    floatValue: 0
-    stringValue: Jesus this scarf stinks. Am I really going to get past the cop looking
-      like this?
-    gameObject: {fileID: 0}
-    objectValue: {fileID: 0}
-    vector3Value: {x: 0, y: 0, z: 0}
-    gameObjectParameterReferences: 0
-    variables: {fileID: 0}
-  parameterIDs: ffffffffffffffffffffffffffffffffffffffffffffffff
-  setParameters: 0
-  runMode: 1
-  hasUpgradedAgain: 0
+  isPlayer: 0
+  playerID: -1
+  playerParameterID: -1
+  linkedObject: {fileID: 0}
+  affectChildren: 0
+  messageToSend: 4
+  customMessageParameterID: -1
+  customMessage: UnlockAchievement
+  sendValue: 0
+  customValueParameterID: -1
+  customValue: 0
+  ignoreWhenSkipping: 0
